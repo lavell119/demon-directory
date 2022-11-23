@@ -17,15 +17,20 @@
     },
     {
         "name": "Abigor",
-        "description": "Demon who is a grand duke in HELL. Abigor appears as a handsome man on a horse, holding a standard or scepter. Hen knows all the secrets of war and sees the future. He teaches leaders how to win the loyalty of soldiers. In hell, he commancs 60 legions of demons."
+        "description": "Demon who is a grand duke in HELL. Abigor appears as a handsome man on a horse, holding a standard or scepter. Hen knows all the secrets of war and sees the future. He teaches leaders how to win the loyalty of soldiers. In hell, he commancs 60 legions of demons.",
+        "image": "images/abigor.webp"
     },
     {
         "name": "Abraxas",
-        "description": "Gnostic name for the demigog who rules the 365th (highest and final) aeon, or sphere, ascending to the unknowable God. Christian demonologists put Abraxas in the ranks for DEMONS. Abraxas was the name of a sun mounting an ouroborus (a snake biting its own tail) held..."
+        "description": "Gnostic name for the demigog who rules the 365th (highest and final) aeon, or sphere, ascending to the unknowable God. Christian demonologists put Abraxas in the ranks for DEMONS. Abraxas was the name of a sun mounting an ouroborus (a snake biting its own tail) held...",
+        "image": "images/abraxas.webp"
+
     },
     {
         "name": "Adramelech",
-        "description": "A chieftain of HELL. Adramalech is of uncertain origin. Possibly he was derived from a Samarian Sun god worshipped by the Sepharvites, who burned children as a sacriﬁ cial offering to him. Adramalech is the grand chancellor of DEMONs, president of the DEVIL’s general council, and governor of the Adramelech..."
+        "description": "A chieftain of HELL. Adramalech is of uncertain origin. Possibly he was derived from a Samarian Sun god worshipped by the Sepharvites, who burned children as a sacriﬁ cial offering to him. Adramalech is the grand chancellor of DEMONs, president of the DEVIL’s general council, and governor of the Adramelech...",
+        "image": "images/adramelech.jpg"
+
     },
     {
         "name": "Aerial spirits of Solomon",
@@ -33,23 +38,29 @@
     },
     {
         "name": "Aeshma",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/aeshma.jpg"
     },
     {
         "name": "Agares",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/agares.jpg"
     },
     {
         "name": "Agrath",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/agrath.webp"
     },
     {
         "name": "Ahriman",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/ahriman.jpg"
+
     },
     {
         "name": "Aim",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/aim.webp"
     },
     {
         "name": "Aiwass",
@@ -65,15 +76,19 @@
     },
     {
         "name": "Alloces",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/alloces.jpg"
     },
     {
         "name": "Alp",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/alp.webp"
     },
     {
         "name": "Amduscias",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/amduscias.jpg"
+
     },
     {
         "name": "Amenadiel",
@@ -85,7 +100,9 @@
     },
     {
         "name": "Amon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/amon.jpg"
+
     },
     {
         "name": "Amorth, Father Gabriele",
@@ -97,33 +114,48 @@
     },
     {
         "name": "Amy",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/amy.jpg"
+
     },
     {
         "name": "Andra (Indra)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/andra.webp"
+
     },
     {
         "name": "Andras",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
+    },
+    {
         "name": "Andrealphus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/andrealphus.jpg"
+
+    },
+    {
         "name": "Andra (Indra)",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
+    },
+    {
         "name": "Andromalius",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/andromalius.webp"
+
+    },
+    {
         "name": "Angel",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },{
         "name": "Angels of Mastemoth",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
+    },
+    {
         "name": "Antaura",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/antaura.jpg"
+
     },
     {
         "name": "Antichrist",
@@ -137,7 +169,9 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },{
         "name": "Asag (asakku)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/asag.jpg"
+
     },
     {
         "name": "Aseliel",
@@ -145,15 +179,20 @@
     },
     {
         "name": "Asmodeus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/asmodeus.jpg"
+
     },
     {
         "name": "Astoroth",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/astaroth.jpg"
     },
     {
         "name": "Asyriel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/asyriel.jpg"
+
     },
     {
         "name": "Aueiran, Isaac de",
@@ -173,15 +212,21 @@
     },
     {
         "name": "Azazel (Azael)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/azazel.jpg"
+
     },
     {
         "name": "Azhi Dahaka",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/azhidahaka.jpg"
+
     },
     {
         "name": "Baal",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/baal.jpg"
+
     },
     {
         "name": "Baalberith (Balberith)",
@@ -189,7 +234,9 @@
     },
     {
         "name": "Balam",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/balam.webp"
+
     },
     {
         "name": "Baphomet",
