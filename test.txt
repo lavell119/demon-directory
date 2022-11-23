@@ -1,0 +1,16 @@
+<div className="demon-list">
+      <h1>Demon Directory</h1>
+      {demons.map(demon=>
+        <div className="demon-snippet">
+            <div className="snippet-left">
+            <img src={ IMAGES.abbadon } alt="" />
+
+              {/* <img src={ IMAGES.abbadon } alt="" /> */}
+            </div>
+            <div className="snippet-right">
+          <h3>{demon.name}</h3>
+          <p>{demon.description}<a href="google.com">More...</a></p>
+            </div>
+        </div>
+        )}
+      </div>

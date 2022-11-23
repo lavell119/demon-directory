@@ -1,7 +1,7 @@
 import './App.css';
 import DemonList from './DemonList.js'
 import Demons from './demonlist.json'
-import { useState } from 'react';
+import { useState } from 'react'
 
 function App() {
   const [demons, setDemons] = useState(Demons)
