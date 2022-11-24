@@ -17,7 +17,7 @@ export default function DemonList() {
             </div>
             <div className="snippet-right">
           <h3>{demon.name}</h3>
-          <p>{demon.description}<a href="google.com">More...</a></p>
+          <p>{demon.description.substr(0,300)}...<a href="google.com">more...</a></p>
             </div>
         </div>
         )}

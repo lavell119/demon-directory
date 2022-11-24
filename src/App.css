@@ -11,10 +11,11 @@ body {
 }
 
 .demon-snippet {
-    border: 3px solid rgb(146, 3, 3);
+    border: 2px solid rgb(146, 3, 3);
     padding: 20px;
     margin: 20px;
     display: flex;
+    background: rgb(34, 34, 34);
 }
 
 .snippet-left {
@@ -37,4 +38,9 @@ img {
     float: left;
     height: 200px;
     width: auto;
+    border: 2px solid rgb(146, 3, 3);
+}
+
+a {
+    color: rgb(116, 116, 230)
 }
