@@ -11,7 +11,7 @@ body {
 }
 
 .demon-snippet {
-    border: 2px solid rgb(146, 3, 3);
+    border: 2px solid rgb(102, 3, 3);
     padding: 20px;
     margin: 20px;
     display: flex;
@@ -38,7 +38,7 @@ img {
     float: left;
     height: 200px;
     width: auto;
-    border: 2px solid rgb(146, 3, 3);
+    border: 2px solid rgb(102, 3, 3);
 }
 
 a {
