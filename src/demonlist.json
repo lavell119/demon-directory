@@ -1295,8 +1295,12 @@
         "description": "In Arabian lore, a desert DEMON that vampirizes people by licking the soles of their feet until their BLOOD is drained. There is no known description of the palis. The palis waits until desert travelers are asleep and then licks their feet. To prevent attack, travelers should sleep with the soles of their feet touching the soles of another person’s feet. Salt sprinkled around will repel the demon."
     },
     {
+        "name": "Pamersiel",
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Pamersiel is the chief of the east and serves under CARNESIEL. He has 1,000 spirits under his command, which must be called only during the daytime and with great care, for they are stubborn and arrogant. Pamersiel’s primary dukes are Anoyr, Madriel, Ebra, Sotheano, Abrulges, Ormenu, Itules, Rablion, Hamorphiel, Itrasbiel, and Nadrel. Pamersiel and his dukes are evil and false, and not to be trusted. However, they can be commanded to drive away other evil spirits who haunt any place or house. The Lemegeton, a GRIMOIRE, gives instructions for summoning Pamersiel and his dukes. The ritual must be done in the most secret room of a house, or a hidden grove, wood, or occult place. Other persons must not be able to observe the ritual. The place should be airy. The spirits can be summoned into a stone or glass and bound into the objects. A crystal stone must measure four inches in diameter and be set on a table consecrated to King Solomon. The SEAL of Pamersiel must be worn upon the breast."
+    },
+    {
         "name": "Pazuzu",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Assyrian and Babylonian DEMON god of the first millennium B.C.E., who sends diseases, pestilence, and plagues into households. Pazuzu has the feet of an eagle, the paws of a lion, the head of a dog, the tail of a scorpion, bulging eyes, and four wings. Pazuzu rules the hot desert winds of Arabia that wither and kill and is sometimes called upon to provide protection against airborne diseases. Figures of the head of Pazuzu were placed in windows facing outward to ward off his own effects. Pazuzu vanquished the childbirth demon LAMASTU to the underworld. AMULETs of his head were worn around the necks of pregnant women. In William Peter Blatty’s novel THE EXORCIST, Pazuzu plays a role as a reawakened demon who possesses a girl, Regan."
     },
     {
         "name": "Pearce-Higgins, Canon John D.",
@@ -1304,15 +1308,19 @@
     },
     {
         "name": "Phoenix (Phenix, Pheynix)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and the 37th of the 72 SPIRITS OF SOLOMON. Phoenix reigns as a marquis in HELL with 20 LEGIONs of DEMONs. He appears as a phoenix bird and sings sweetly in a child’s voice. It is really a siren’s voice, and so the magician must take precautions not to be seduced by it. Upon command, Phoenix will assume a human shape and then speak on all the sciences and deliver excellent poetry. He fulfills all commands well. Phoenix has the futile hope that he will return to the seventh throne in 1,200 years. He formerly was in the angelic order of thrones."
     },
     {
         "name": "Pirichiel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON and a wandering duke of the air. Pirichiel has no dukes or princes under his command, but he has dukes beneath him, each with 2,000 servants. The spirits must be summoned at the right planetary hour, and when they appear, they are good-natured and obedient. The eight chief knights are Damarsiell, Cardiel, Almasor, Nemariel, Menariel, Demediel, Hursiel, and Cuprisiel"
     },
     {
         "name": "Pithom",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Jewish lore, a SERPENT DEMON summoned for prophecy. Pithom is mentioned in the Talmud. The demon is human in form, with his head resting on his breast between his shoulders. He utters oracular pronouncements from his armpits or with his hands raised and his head lying between his armpits."
+    },
+    {
+        "name": "Planoi",
+        "description": "In Greek lore, a type of DEMON that assaults travelers and taunts them. Planos (singular) means “vagabond” or “deceiver.” According to JOHN CASSIAN, a father of the church in the fourth century, most planoi are tricksters, but some attempt greater harm, including the incitement of bloodshed. In his work Conferences, Cassian described the planoi as. . . so seductive and sportive that, when they have taken continual possession of certain places or roads, they delight themselves not indeed with tormenting the passers by whom they can deceive, but, contenting themselves merely with laughing at them and mocking them, try to tire them out rather than to injure them: while some spend the night merely by harmlessly taking possession of men, though others are such slaves to fury and ferocity that they are not simply content with hurting the bodies of those, of whom they have taken possession, by tearing them in a dreadful manner, but actually are eager to rush upon those who are passing by at a distance, and to attack them with most savage slaughter: like those described in the gospel, for fear of whom no man dared to pass by that way. And there is no doubt that these and such as these in their insatiable fury delight in wars and bloodshed."
     },
     {
         "name": "Possession",
@@ -1336,27 +1344,27 @@
     },
     {
         "name": "Purson (Curson)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 20th of the 72 SPIRITS OF SOLOMON. Purson once was in the angelic order of virtues and partly in the order of thrones. In HELL, he is a great king. He appears as a lion-headed man, riding on a bear and carrying a viper. He is preceded by many trumpeters. Purson hides and reveals treasure; discerns the past, present, and future; provides good FAMILIARs; and gives true answers about matters both human and divine. He commands 22 LEGIONs of DEMONs."
     },
     {
         "name": "Rabisu",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "A type of Babylonian DEMON who lurks at the thresholds of homes, waiting to attack humans. Rabisu means “the ones that lie in wait.”  The rabisu were deeply feared in Babylonian times. Inverted bowls inscribed with magical charms were placed at the corners of foundations in an effort to trap and contain them. (See INCANTATION BOWL.) An ancient inscription about them says that doors and bolts will not stop them. They can glide into doors as SERPENTs do and enter through windows as the wind does. Rabisu also perch on rooftops waiting to devour newborn infants. Not all rabisu are evil; some are good."
     },
     {
         "name": "Rakshasas",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "The most powerful and numerous DEMONs of the Indian underworld, feared as cannibals, vampires, night stalkers, assassins, “dark faces,” and biters. Rakshasa means “to guard” and refers to the demons’ task of guarding the elixir of immortality found on the floor of the ocean. The rakshasas are ruled by RAVANA and live on the island of Lanka. They haunt burial grounds, reanimate dead bodies, and cannibalize people. They have a multitude of grotesque shapes, with the heads of SERPENTs or animals, two to four crooked legs, and long sharp teeth. Some are beautiful, however, and go about in magnificent clothing."
     },
     {
         "name": "Raum (Raym)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 40th of the 72 SPIRITS OF SOLOMON. Raum is an earl who appears as a crow but will shift to human form when commanded to do so. He steals treasure, even from kings, and carries it anywhere. He destroys cities and the dignities of men. Raum also discerns the past, present, and future and makes friends and enemies love each other. Before his fall, he was in the angelic order of thrones. He governs 30 LEGIONs of  DEMONS."
     },
     {
         "name": "Ravana",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Powerful Indian DEMON who is lord and master of the fearsome RAKSHASAS. Ravana’s parents are Visravas and Nikasha, descendants of the fi rst demons created. Ravana is equal in stature to SATAN. He and his hordes of demons live on the island of Sri Lanka (formerly Ceylon). Ravana has 10 heads, 20 arms, copper-colored eyes, bright teeth, and a huge form. His body is covered with the scars of battle wounds. He can stand as tall as a mountain and with a single look stop the Sun and Moon in their paths. He breaks all laws and ravishes any woman of his choice. He has a regal bearing. The Ramayana tells a great deal about Ravana. The city of Lanka, solid gold, was built by Visva-Karma for Ravana’s half brother, Kuvera. Ravana overthrew him and stole his magical chariot, which he uses to leave the island and stir up trouble in the worlRavana has a trickster side to him. He spent years in penance to Brahma, then forced the great god to repay him by making him invulnerable to all the gods. Then he declared war on the gods, who could not defeat him. He captured many of them, forcing them into servitude on Lanka. Eventually they escaped and plotted their revenge. Ravana went next to Siva and did penance, hoping for the favor of immortality. He stood on one of his heads for 1,000 years. Siva was unmoved. Ravana cut off the head and stood on another one for 1,000 years. This went on until Ravana had exhausted all of his heads, and it seemed that he would have to cut off the last one. Siva at last granted Ravana immortality, the most beautiful woman in the world, and the sacred phallus, Atmalingham, for his mother. The boons were short-lived, however, for Siva tricked Ravana on his return to Lanka and forced him to return all the favors. Ravana declared war on the gods again. Still unable to defeat him because of his invulnerability, they appealed to Vishnu for help. Vishnu cut himself into quarters, each of which became mortal. The strongest and purest was Rama, who had the power to kill Ravana. Ravana kidnapped Rama’s wife, Sita, and imprisoned her on Lanka. He threatened to eat her unless she agreed to marry him. Sita held him off long enough for Rama to build a bridge to Lanka, where Rama engaged in battles with Ravana. Finally, Rama shot an arrow clean through the demon, killing him."
     },
     {
         "name": "Raysiel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Raysiel serves under DEMORIEL and rules as a king in the north, attended by 50 dukes during the day and 50 more at night. Each duke has 50 servants. The daytime demons are good-natured; the nighttime demons are evil, stubborn, and disobedient. The 16 major dukes of the day are Baciar, Thoac, Sequiel, Sadar, Terath, Astael, Rarnica, Dubarus, Armena, Albhadur, Chanael, Fursiel, Baetasiel, Melcha, Tharas, and Vriel. The 14 of the night are Thariel, Paras, Arayl, Culmar, Lazaba, Aleisi, Sebach, Betasiel, Belsay, Morael, Sarach, Arepach, Lamas, and Thurcal."
     },
     {
         "name": "Remy, Nicholas",
@@ -1368,7 +1376,7 @@
     },
     {
         "name": "Rimmon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL. Rimmon means “exalted” or “roarer” in Hebrew. Originally, Rimmon was an Aramaic deity and Syrian idol. In Babylonian and Semite lore, he was the god of thunder and storms. As a DEMON, he is infernal ambassador to Russia."
     },
     {
         "name": "Rituale Romanum",
@@ -1380,7 +1388,7 @@
     },
     {
         "name": "Ronove (Ronove, Ronobe)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 27th of the 72 SPIRITS OF SOLOMON. Ronobe is an earl and marquis who appears as a monster. He teaches rhetoric and art, as well as knowledge and understanding of languages. He gives the favor of friends and enemies. He has 19 LEGIONs of DEMONs."
     },
     {
         "name": "Sabbat",
@@ -1388,7 +1396,7 @@
     },
     {
         "name": "Sabnack (Sabanack, Sabnach, Salmac)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 43rd of the 72 SPIRITS OF SOLOMON. Sabnack is a marquis who appears as an armed soldier with a lion’s head, riding on a pale horse. He builds and fortifi es towers, camps, and cities. Upon command, he torments people with wounds and maggot-filled putrid sores. He also gives good FAMILIARs at the command of an EXORCIST. He rules 50 LEGIONs of DEMONs."
     },
     {
         "name": "Salem witchcraft hysteria",
@@ -1400,15 +1408,15 @@
     },
     {
         "name": "Samuel (Sammael)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Hebrew lore, the prince of DEMONs known as “the venom of God” and the executioner of death sentences decreed by God. Samael is linked to ADRAMELECH, another demon of death. In rabbinical lore, Samael is a demon of a desert wind called Samiel or Simoon. He flies through the air like a bird, and the dark spots on the Moon are his excrement. Samael was the SERPENT who tempted Eve in the Garden of Paradise. He was an circumcised sexual partner and husband of LILITH and created with her a host of demon children, including a son, SARIEL. Fearful that Samael and Lilith would fl ood the world with their offspring, God castrated Samael. When God ordered the patriarch Abraham to kill his son, Isaac, Samael tried to persuade Abraham not to do it, in order to disobey God. When Abraham refused, Samael went to Abraham’s wife, Sarah, and told her Isaac  was sacrifi ced to God, the news of which killed her instantly. In kabbalistic lore, a Spanish kabbalist of the 15th century tried unsuccessfully to capture and control Samael. The kabbalist summoned him in the name of God and bound him by placing a crown upon his head that said “Thy Master’s Name Is Upon Thee.” But Samael tricked the kabbalist by convincing him to burn incense—an act of idolatry—in order to seal his victory. When the incense was burned, Samael was instantly freed. Samael is the chief of the 10 evil demons of the sephirot of the Tree of Life."
     },
     {
         "name": "Sariel (Sarakiel, Saraqael, Saraqel, Suruquel, Suriel, Uriel, Zerachiel)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Good and FALLEN ANGEL. In the Enochian writings, Sariel is Saraqel, not the same as Uriel. Sariel rules Aries and is one of the nine ANGELs who preside over the summer solstice. As a fallen angel, he teaches the course of the Moon. In Hebrew lore, Sariel is the son of LILITH and SAMAEL (in some accounts, Ashmodai or ASMODEUS), the “Sword of Samael.” Sariel’s face fl ames like fire. In the middle of the night of Yom Kippur, the prayers and acts of sages and elders can call him forth. Sariel appears reluctantly, flying through the air with 130 warriors, all of whom have flaming faces. Sariel gives enlightenment to all who call him forth. A scribe, Pifi ron, carries all the secrets of the fi rmament that have been sealed by Sariel. These secrets are revealed to the elders. In the War of the Sons of Light and the Sons of Darkness (also known as the Triumph of God), one of the Qumran texts, Sariel is one of the four leaders of the forces of good. The human warriors are given exact instructions on who is to fi ght where, with weapons described carefully. There are four subdivisions (towers), and each is to have the name of their archangel inscribed on their shield. Sariel is on the third tower."
     },
     {
         "name": "Satan",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "The personifi cation of evil and the head of all DEMONs. He is equated with the DEVIL. Satan is a Hebrew word meaning “adversary” and originally was not a proper name. Satan has evolved over the centuries to become the opposite and the opponent of God, the Prince of Darkness, and the subverter of souls. His goal is turn to human beings away from God so that they become condemned to eternal torment in HELL. Satan, as the proper name of a being, makes scant appearance in religious texts prior to the New Testament. There is no mention of “the” Satan, or even “a” satan in Genesis. The SERPENT who tempts Eve is not equated with Satan. The Old Testament features a variety of satan adversaries, including an angel adversary in the story of Balaam and the ass in the book of Numbers; lying spirits; and, in the book of Job, a satan, who is one of the SONS OF GOD, and who walks the earth looking for people to test concerning their devotion to God. In the case of the pious and devout Job, God gives the satan permission to test him, and he suffers years of setbacks, disasters, and losses. A satan, as an accuser, is mentioned in the book of Zechariah. In 1 Chronicles, a satan stands up and challenges David to take a census of the people. Psalm 109 refers to wicked men as satans, and they should be punished by Yahweh.        In the New Testament, Satan becomes more personified as a particular, single entity, and the terms Devil and Satan are used interchangeably. The Gospels tell of Satan’s testing JESUS in the wilderness. In Mark, he is named as Satan; in Matthew and Luke, he is “the tester” or “the Devil.” In Luke, the Devil promises Jesus earthly glory if he will pay the proper homage. In Luke 10, Jesus comments that he has seen Satan “fallen like lightning from the sky,” a reference similar to the fall of LUCIFER in Isaiah that is probably a prophecy of a fall to come, not one that occurred in the past. Luke also states that Satan entered into Judas to induce him to betray Jesus. The Gospel of John makes references to the Devil. In the first, he is the “man-killer from the beginning” who does not stand for Truth, a reference often taken to refer to the serpent in the Garden of Eden. Jesus refers to him as the Ruler of the World. The Devil and Satan are both in reference to entering into the heart of Judas. The Epistles refer to both the Devil and Satan. Paul refers to Satan by name as obstructing his efforts to spread the gospel, as a tester of men’s morals and faith, and as an agent of punishment for the wicked. In 2 Corinthians 2.10–11, Paul indicates that Satan has his own designs on the world, and that forgiveness will outwit Satan. In the same letter, Paul urges people to be on guard against Satan, who can disguise himself as an angel of light. He also says that an “angel of Satan” has been sent to batter him, to prevent him from becoming too puffed up with his own pride. Paul did not see Satan as marshaling an army of demons; rather, he said that demons were the lifeless idols of the pagans. In Ephesians, Paul gives advice for spiritual armaments against Satan and warns that committing sins will make room for him. In Hebrews, Satan has the power of death, and it is Christ’s mission to overcome him. In Revelation, Satan is synonymous with the dragon and serpent. He tests people, battles angels, and is punished and bound. The early church fathers did more to cement the identity of Satan with the Devil and the tempter in the Garden of Eden, and with Lucifer. In the second century, Justin Martyr was the fi rst to identify Satan with the serpent. He said the fall of Satan at the hands of Christ was predicted in Isaiah in the description of the fall of Lucifer. Justin also linked Satan with the Sons of God, or WATCHERS, and associated the powers and principalities (two orders of angels) of the Epistles with pagan gods and demons. Other church fathers, such as Theophilus and Tertullian, also placed Satan as tempter in the Garden. According to Cyprian, the Devil was once a beloved and intimate angel of God, who perished at the beginning of the world out of envy over humanity. In losing his own immortality, he took away the immortality of humans. Irenaeus echoed this view. Origen (ca. 185–250) was the first church father to reinterpret Satan within the context of Lucifer. The Life of Adam and Eve, a pseudepigraphal text written around 100 A.D., states that the angel Satan was ordered by the archangel Michael to bow down and worship Adam, made in the image of God, but he refused because Adam was inferior, saying that Adam ought to worship him. The angels under Satan also refused, and God cast them all out of heaven. Muhammad was influenced by this text and retells the story in the Qur’an 10 times; the Devil is named IBLIS, who is head of the DJINN. The idea that Satan was cast down because of his refusal to worship Adam did not take hold in Christianity, however. Satan is jealous of humans, but only after his fall. Satan later became identifi ed with gods of paganism. The idea was developed that Satan had rights over humanity and the world because of the sin of Adam and Eve; redemption was made through Christ, who paid off the debt with his own life. According to St. Augustine, Adam’s sin meant that the whole of humanity fell under the servitude of Satan.In the Middle Ages, legends and hagiographies of the saints were popular, offering many stories of saints besting the Satan and his demons and curing DEMONIACs of their POSSESSION. St. Thomas Aquinas, one of the greatest and most infuential theologians of the church, saw only one Devil, Satan, and never referred to “devils” in the plural unless he was quoting other writers. Aquinas said that the only two sins angels can commit are pride and envy, for all other sins are related to physical appetites. According to Aquinas, demons have no possibility of redemption and can only go to hell (where they torment the dead) or Smoggy Air (where they torment the living). He said human beings deserved to be turned over to Satan because of Adam’s sin. At some point—the origins are unclear—Satan became the ruler of hell and the chief tormenter of souls of the dead. From the 16th century on, his primary role was tempter of humanity. The artist William Blake saw Satan as the imagination, a view also held in Sufism. Even by the 18th century, Satan seemed an outdated superstition to some theologians, among them the infl uential Daniel Ernst Schleiermacher (1768–1834), a minister in the Reformed Church. The concept of the Devil was unenlightened, he argued, pointing out that Jesus and the disciples made few direct references to Satan. Schleiermacher argued that Satan does not exist and is used as a convenient metaphor for evil. Since the mid-20th century, belief in Satan has risen, in part the result of the rise of fundamentalism, and of interest in demonic POSSESSION."
     },
     {
         "name": "Satanael (Sataneil",
@@ -1420,7 +1428,7 @@
     },
     {
         "name": "Scepter",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON who appears in the form of a gigantic dog and who causes quartan fever. In The Testament of Solomon, Scepter tells King SOLOMON that before the king’s time he was a man, not a dog, and he accomplished many unlawful deeds in the world. He is so strong that he restrains the stars of heaven, and he is planning many more evil deeds. He deceives men  who follow his star closely and leads them into stupid ity. He also subdues the hearts (thoughts) of men through their throats and destroys them. Solomon asks Scepter why he is so prosperous. The demon tells him to turn over his manservant, whom he will spirit off to a place in the mountains where he will be shown an emerald stone. The stone will adorn Solomon’s temple.        Solomon agrees, but he gives his servant his magical ring, with which he can quell the demon. The servant retrieves the emerald, which is shaped like a leek. He uses the ring to bind Scepter. Solomon extracts 200 shekels from the stone and has it carried about day and night as a light for the artisans. Then he locks it up. He commands Scepter and the headless demon MURDER to cut marble for the temple. Scepter is thwarted by the ANGEL Briathos."
     },
     {
         "name": "Scot, Reginals (1538-1599)",
@@ -1432,11 +1440,11 @@
     },
     {
         "name": "Seere",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One of the FALLEN ANGELS and 70th of the 72 SPIRITS OF SOLOMON. Seere is a prince under Amaymon, he King of the East. He appears as a beautiful man riding a strong winged horse. He makes things happen instantly, transports himself anywhere instantly, and discovers all thefts. Seere is good-natured, will follow commands, and is indifferent to good or bad. He governs 26 LEGIONs of DEMONs."
     },
     {
         "name": "Semyaza (Semiaza, Semjaza, Shemhazi, Shamayza, Shemyaza)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "A leader of the FALLEN ANGELS, one of the SONS OF GOD, or WATCHERS, who cohabit with women. Semyaza probably means “meaning the name of Azza, or Uzza,” which in turn means “strength.” According to the Zohar, Semyaza cohabits with one of Eve’s daughters and produces two sons, Hiwa and Hiya, who eat every day 1,000 each of camels, horses, and oxen. As punishment for his sins, he hangs upside down in the constellation Orion, suspended between heaven and Earth. In 1 Enoch, he is identifi ed as the leader of the Watchers and is warned of their punishment by the archangel    Michael."
     },
     {
         "name": "Serpent",
@@ -1452,15 +1460,19 @@
     },
     {
         "name": "Shamsiel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL who is by some accounts a good ANGEL. Shamsiel means “light of day” or “mighty son of God. As a fallen angel, Shamsiel is one of the WATCHERS, according to the book of Jubilees. In 1 Enoch he is a fallen angel who teaches the signs of the Sun. As a good angel, Shamsiel is a prince of paradise, guardian of Eden, and ruler of the fourth heaven. According to the Zohar, he is chief of 365 LEGIONs of angels and is one of two aids to the archangel Uriel in battle. He crowns prayers and takes them to the fi fth heaven. Shamsiel guided Moses when he visited paradise in the flesh.”"
     },
     {
         "name": "Shax (Chax, Scox)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 44th of the 72 SPIRITS OF SOLOMON. Shax is a marquis who has the form of a stork and speaks with a hoarse voice. He destroys the eyesight, hearing, and understanding of any person upon command. He steals money from kings and then returns it in 1,200 years. After he is commanded into the magician’s triangle, Shax will transport anything; otherwise, he will be deceptive. Upon command, he will steal horses. He will fi nd all hidden things, unless they are being kept by evil spirits. He sometimes gives good FAMILIARs. He commands 30 LEGIONs of DEMONs."
     },
     {
         "name": "Shaytan (Mazikeen, Shaitan, Shedeem, Shedim, Sheytan)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Islamic lore, a type of djinn, thoroughly evil, created by Allah from smokeless fi re. In Hebrew and Arabic mythology, they are evil spirits who have cock’s feet. The al-shaytan (plural) work under the direction of IBLIS and try unceasingly to tempt people into sin. They create illusions of pleasure in the mind that lead to desires. They can shape shift into the forms of beautiful women (see SUCCUBUS) to tempt men sexually. They can also shape shift into animals, inhabit corpses, and take POSSESSION of people. The al-shaytan eat dirt and excrement. If a person forgets to wash his or her hands after supper, the DEMONs will lick the hands to bloody stumps during the night. According to lore, they have an aversion to water and cannot open the lids of vessels and jars, because King SOLOMON once imprisoned them in bottles. A folktale tells that a huge number of al-shaytan were accidentally released into the world by Moroccan fi shermen who found bottles with the red seal of Solomon upon them and opened them.  White cocks will repel the al-shaytan. They can be kept out of a house by keeping all doors tightly closed. Shaytan is a name for Iblis"
+    },
+    {
+        "name": "Shedim",
+        "description": "In Hebrew demonology, evil spirits created by the union of a succubus or Lil it h and a man. The shedim are a man’s “demonic children.” When a man dies, they go to the grave to weep. Tradition called for a man’s legitimate offspring to stay away from the graveside at burial in order to avoid dangers from the shedim. A 17th-century account of beliefs of German Jews describes them: They [Jews] fi rmly believe that if a man’s seed escapes him, it gives rise, with the help of mahlath [a female demon] and Lilith, to evil spirits, which however die when the time comes. When a man dies and his children begin to weep and lament, these shedim, or evil spirits, come too, wishing, along with the other children, to have their part in the deceased as their father; they tug and pluck at him, so that he feels the pain, and God himself, when He sees this noxious offspring by the corpse, is reminded of the dead man’s sins. One custom called for 10 men to dance in a circle around a man’s body seven times before it was lowered into the grave, reciting the 91st Psalm or other prayers to ward off the shedim. Then a stone was laid on the bier while Genesis 25:6 was recited: “But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away.” In later lore, the shedim were hairy, wild DEMONs who lived in the woods and danced. They were known for their tricks, such as leaving human beings with grotesque deformities if they were displeased. The shedim are ruled by ASMODEUS."
     },
     {
         "name": "Sinistrari, Lodovico Maria (1622-1701)",
@@ -1472,7 +1484,7 @@
     },
     {
         "name": "Sitri",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 12th of the 72 SPIRITS OF SOLOMON. Sitri is a great prince who appears first with a leopard’s face and griffi n wings. He then assumes the shape of a beautiful human. He inflames men and women to fall in love with each other and take off all their clothes. He commands 60 LEGIONs of DEMONs."
     },
     {
         "name": "Six-six-six (666)",
@@ -1492,11 +1504,11 @@
     },
     {
         "name": "Solas (Stolas)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 36th of the 72 SPIRITS OF SOLOMON. Solas is a powerful prince who appears first as a raven or an owl and then as a man. He teaches astronomy and the virtues of herbs, including prophecy through plants and the uses of precious stones. He governs 26 LEGIONs of DEMONs."
     },
     {
         "name": "Soleviel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON and wandering duke of the air. Soleviel commands 200 dukes and 200 companions, who also have many servants and who wander from place to place. The 12 chief dukes have 1,840 servants who are obedient and good-natured. The 12 dukes are Inachiel, Praxeel, Moracha, Almodar, Nadrusiel, Cobusiel, Amriel, Axosiel, Charoel, Prasiel, Mursiel, and Penador."
     },
     {
         "name": "Solomon (10th century B.C.E",
@@ -1508,7 +1520,7 @@
     },
     {
         "name": "Sorath",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON angel who is the spirit of the Sun and whose number is 666. RUDOLF STEINER said Sorath is the Sun-demon of Revelation, a great evil power far mightier than LUCIFER and AHRIMAN. He predicted that after the turn of the millennium, spiritual people would be able to see the Sun- Genius, the etheric vision of Christ. In response, Sorath will foment opposition through men who are possessed by him, who have strong natures, raving tongues, destructive fury in their emotions, and faces, which outwardly appear like those of animals. They will mock that which is of a spiritual nature. The mystery of Sorath and his number 666 holds the secret of black MAGIC. The power by which the Sun-Genius overcomes Sorath is the archangel Michael, who has the key to the abyss and the chain in his hand."
     },
     {
         "name": "Sorcery",
@@ -1524,7 +1536,7 @@
     },
     {
         "name": "Sprits of Solomon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Seventy-two DEMONs or DJINN captured by the legendary King SOLOMON, who imprisoned them in a brass vessel and cast it into the sea. The vessel was discovered by Babylonians, who believed it contained a great treasure. When they broke open the vessel, the demons and their legions were set free, and they returned to their home. One exception was BELIAL, who entered an image and delivered oracles in exchange for sacrifices and divine honors. The Lemegeton, or Lesser Key of Solomon, is a grimoire that gives instructions for the evocation of the 72 spirits. They are also known as the Spirits of the Brazen Vessel and the False Monarchy of Demons. Combined, the spirits accomplish “all abominations.” The 72 spirits are, in the order they were commanded into the brazen vessel (see individual entries)"
     },
     {
         "name": "Stanton Drew",
@@ -1540,7 +1552,7 @@
     },
     {
         "name": "Succubus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "A DEMON who takes the form of a beautiful woman in order to seduce men. The succubus, along with its male counterpart, the INCUBUS, appears in ancient mythologies. Succubi appear in the flesh as beautiful, voluptuous women. They visit men in their sleep—especially men who sleep alone—and cause erotic dreams, nightmares, and nocturnal emissions. During the European witch hunts, succubi were agents of the DEVIL, who continually tempted men to commit sexual sins, sometimes by promising them immortality in return. Succubi were not as prevalent as incubi in witch hunt cases. The prevailing belief of the time was that women were more licentious than men and, therefore, offered more opportunity for incubi. If a succubus assaulted a man, it was probably not his fault, according to demonologists of the day. NICHOLAS REMY wrote in Demonolatry of a succubus case that happened in 1581. A man named Petrone Armenterious of Dalheim was persuaded by a succubus, Abrahel, to murder his son. He was so overcome with grief and guilt that he contemplated suicide. Abrahel told him that if he worshipped her, he would restore the boy to life. He complied, and his son returned to the living. But it was all an illusion, for the boy suddenly died again and immediately stank abominably. The sex act itself with a succubus was said to be an awful experience, like penetrating a cavern of ice. Sometimes, a succubus was really an incubus in disguise, who collected a man’s semen and used it to impregnate a woman. Some believed that sex with succubi could produce demon children. The Hebrew night demon, LILITH, bore an infi nite number of demon sons this way. Men accused of witchcraft were tortured until they confessed having sex with demons, among other demonic crimes. In 1468, in Bologna, Italy, a man was executed for allegedly running a brothel of succubi. The MALLEUS MALEFICARUM (1487), the chief inquisitors’ handbook, set forth fi ve ways to get rid of a succubus: • by reciting the Ave Maria • by making a sacramental confession • by making the sign of the cross • by moving to a new home • by having a priest or holy man excommunicate the demon The Lord’s Prayer and holy water also were said to work a cure. FRANCESCO-MARIA GUAZZO wrote of one alleged succubus incident in Compendium Malefi carum (1608), in which a succubus forced herself on a young man near Aberdeen, Scotland. The succubus visited him in bed every night and stayed until dawn. The young man claimed that he tried to get rid of the succubus, but to no avail. Finally, the local bishop ordered him to go away to another place and devote himself to prayer and fasting. After several days, the young man said the succubus left him. At the end of the 17th century, an odd lawsuit was tried in court in Posen, Germany. A young man forced his way into the cellar of a locked home and was later found dead on the threshold. Demons then set up housekeeping inside and created severe disturbances. The owners of the home were frightened into leaving. Local exorcists failed to expel the demons, and so an expert was summoned, Rabbi Joel Baal Shem of Zamosz. He was able to induce the demons to disclose their identity. They claimed the house belonged to them, and they demanded the opportunity to prove it in a court of law. The case was tried with Rabbi Joel and an invisible demon advocate, who could be heard. According to the demons, the previous owner of the home had engaged in intercourse with a succubus, who had borne hybrid children. The man was persuaded by a rabbi to break off his affair, but the demon demanded that the cellar be given to it and the offspring as inheritance. The man and all his heirs were now dead, and the demon children demanded possession of the house. The new homeowners said they had lawfully purchased the house. The demon children were not legitimate “seed of men” and so had no legal rights. In addition, the demon had forced the previous owner into sexual relations. The court decided against the demons, saying that their abodes were deserts and wastelands, not the homes of men. Rabbi Joel performed EXORCISMs that drove away the demons"
     },
     {
         "name": "Surin, Jean-Joseph (1600-1665)",
@@ -1552,7 +1564,7 @@
     },
     {
         "name": "Symiel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Symiel rules as a king in the northeast, with 10 dukes during the day and 1,000 during the night. The daytime dukes have 720 servants each, and the night dukes have 790 servants each. The daytime dukes are good-natured, but the nighttime dukes are stubborn and resist commands. The 10 major dukes of the day are Asmiel, Chrubas, Vaslos, Malgron, Romiel, Larael, Achol, Bonyel, Dagiel, and Musor. The 10 dukes of the night are Mafrus, Apiel, Curiel, Molael, Arafos, Marlano, Narzael, Murahe, Rhicel, and Nalael.."
     },
     {
         "name": "Talisman",
@@ -1560,19 +1572,19 @@
     },
     {
         "name": "Taru (Tauru)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In ZOROASTRIANISM, and Persian lore, the arch-DEMON of evil hunger. Taru is usually paired with another archdemon, ZARIKA (evil thirst). Zarika makes poison, which Taru administers to plants and animals. Taru opposes the good amesha spenta Hurdat. He is especially pleased when a person walks around wearing only one boot, considered a sin in this culture."
     },
     {
         "name": "Tase",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Burmese lore, hordes of the demonic dead who prey upon the living and spread disease and pestilence. There are several types of Tase: • Thaber Tase are the spirits of women who died in childbirth and return as succubi. (See LILITH.) • Thaye Tase are grotesque giants who were people who died violently. They spread smallpox, cholera, and other deadly diseases. They also appear at the bedsides of dying people to laugh at them. Hminza Tase enter the bodies of crocodiles, tigers, and dogs and attack people. They haunt areas where they once lived unhappy lives. The Tase can be kept away by banging pots and making great rackets of noise or by appeasing them with sacrifices and dances. Sometimes, the dead are buried without grave markers, an attempt to make them forget where they once lived, so they will not return in demonic form."
     },
     {
         "name": "Tengu",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Asian goblin or demon who acts as a vampire, poltergeist, and trickster. Descriptions of the tengu date to the eighth century. The demon appears in the shape of a man with wings and long, sharp nails on his hands and toes. His nose is either a crow’s beak or red and round, and its size indicates the demon’s strength. Sometimes, he carries a fan or a stick. The tengu is especially known for kidnaping people in remote, mountainous areas. He is fond of stealing children. Possession by a tengu is not necessarily diabolical. The possessed acquire supernormal skills and knowledge during their occupation by the spirit."
     },
     {
         "name": "Tezcatlipoca",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Aztec prince of the Underworld, sorcerer, and king of the witches. The name Tezcatlipoca means “smoking mirror,” in reference to the obsidian mirror that he uses to foretell the future and spy on others. He is also known as Yaomauitl, which means “dreaded one.” According to the Popul Vuh, Tezcatlipoca wears a star on his forehead as a sign that he is the ruler of darkness. He wears a jaguar skin around his hip, the body of a dead bird on his ear, and a snake’s head fixed to one nostril. As a scepter, he carries the amputated arm of a woman who died in childbirth, which he uses in necromantic rites. Tezcatlipoca and his brothers, the tzitzimime, created the world. They were thrown out of paradise, Tamoanchan, when Tezcatlipoca made the mistake of picking the sacred roses of Tamoanchan. Tezcatlipoca entered the underworld by climbing down a giant spider web. There are many stories about this demon god and his activities. He sentences the newly arrived souls of the dead, who stand before him dressed in ocelot skins with yokes around their necks. He makes them run an obstacle course through Mictlan, a region of hell. According to lore, the practice of human sacrifice in Mexico began with Tezcatlipoca. He assumed the shape of a rooster to seduce the first woman ever created. Then he killed her, cut out her heart, and offered it to the Sun. Tezcatlipoca is blamed for the disappearance of the Toltecs, a mythical race of beings. The demon summoned them to a great feast where they danced and sang. A sudden panic gripped them, and they fled across a stone bridge over the river Texcaltlauhco. Tezcatlipoca caused the bridge to collapse, and most of the Toltecs fell into the river and became stones. A few survived but were rendered senseless.Tezcatlipoca spreads disease and pestilence. He assumes the form of a blob and rolls like a tumbleweed, spreading sickness as he goes. Sometimes, he takes the form of a cock or a coyote and lurks at crossroads in order to ambush travelers. He rides howling winds, especially at night.."
     },
     {
         "name": "Theophilus (ca. 538)",
@@ -1588,7 +1600,7 @@
     },
     {
         "name": "Thwarting Angels",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "ANGELs who nullify the powers of specific DEMONs. All diseases, bad weather, and other misfortunes are caused by certain demons. Each demon has a thwarting angel who can be summoned in prayer and MAGIC to stop or cancel out the demon’s mischief. Knowing the appropriate thwarting angel is important in order to invoke the fastest and best help. The most important thwarting angels are the planetary rulers, six angels who have the sole powers to thwart the demonic HEAVENLY BODIES of the world of darkness responsible for all the misery in the world. The planetary rulers are as follows 1. Lamachiel, who thwarts deception 2. Baruchiel, who thwarts Strife 3. Marmaroth, who thwarts Fate 4. Balthioul, who thwarts Distress 5. Uriel, who thwarts Error 6. Asteraoth, who thwarts Power."
     },
     {
         "name": "Tregeagle, Jan (John)",
@@ -1600,23 +1612,23 @@
     },
     {
         "name": "Udugg (Utukku)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "A type of Babylonian DEMON who can be either good or evil. A group of evil ones are known as the Seven; they are offspring of the sky god, An, and the Earth goddess, Ki, and they act as assistants to the underworld god, Nergal. In Akkadian lore, the utukku are servants of the underworld, whose task is to fetch the sacrificial offerings made by humans, especially the BLOOD, liver, and organs of animals. The evil utukku are the ekimmu and the good ones are the shedu."
     },
     {
         "name": "Ukobach",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Low-ranking DEMON who invented fireworks and the art of frying food. Ukobach appears with an inflamed body. BEELZEBUB assigns him to tend the oil in the cauldrons of HELL. He throws burning coals on the souls of the damned or tortures them with fl ames. In lore, Ukobach is the lamp oil for the jack-o’-lantern."
     },
     {
         "name": "Um Es Sibyan",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Arabian DEMON who, as does LILITH, preys upon newborn children. Um Es Sibyan has the body of a chicken, the face of a human, and the chest of a camel. She flies through the air at night crying, “Warh, warh warh.” The sound is a death omen to any child who hears it. Parents can ward off the demon by sounding, “Tchlok, tchlok, tchlok” until it passes by."
     },
     {
         "name": "Uriel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON and wandering duke of the air. Uriel has 10 chief dukes and 100 underdukes with numerous servants. They are evil, false, and deceitful, and reluctant to obey the commands of an EXORCIST. They appear in the form of a SERPENT with a virgin’s head and face. The 10 chief dukes are Chabri, Drabros, Nartniel, Frasmiel, Brymiel, Dragon, Curtnas, Draplos, Hermon, and Aldrusy. Uriel is also the name of an archangel."
     },
     {
         "name": "Usiel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Usiel rules as a prince in the northwest under the command or AMENADIEL. He has 40 dukes in the daytime and 40 at night, plus their many servants. All are obedient. According to King SOLOMON, Usiel and his demons have more power to hide and discover treasure than any other spirits. His main 14 dukes of the day are Abariel, Ameta, Amen, Heme, Saefer, Potiel, Saefam, Magni, Amandiel, Barsu, Gamasu, Hissain, Fabariel, and Usiniel. His main dukes of the night are Ansoel, Godiel, Barfos, Burfa, Adan, Saddiel, Sodiel, Ossidiel, Pathier, Marae, Asuriel, Almoel, Las Pharon, and Ethiel."
     },
     {
         "name": "Usiel (Uziel, Uzziel)",
@@ -1624,15 +1636,15 @@
     },
     {
         "name": "Uzza (Ouza, Semyazza, Uzzah)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL. Uzza means “strength.” In 3 Enoch, Uzza is named as one of three primary ministering angels with Azael and Azza, who live in the seventh (highest) heaven (probably prior to their fall). The three object to the elevation of the prophet Enoch into the great angel Metatron and are cast out of heaven as punishment. Uzza also is a tutelary spirit of Egypt."
     },
     {
         "name": "Valac",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 62nd of the 72 SPIRITS OF SOLOMON. Valac is a president who appears as a small boy with ANGEL wings riding on a two-headed dragon. He gives true answers about hidden treasures. He reveals where SERPENTs can be seen and delivers them harmless to the magician. He governs 30 LEGIONs of DEMONs."
     },
     {
         "name": "Valefor (Malaphar, Malephar)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and sixth of the 72 SPIRITS OF SOLOMON. Valefor is a duke who rules 10 LEGIONs. He appears either as a many-headed lion or as a lion with the head of a human thief. He leads people into thievery and leaves them at the gallows."
     },
     {
         "name": "Vapula",
