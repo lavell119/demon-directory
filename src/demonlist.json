@@ -832,15 +832,19 @@
     },
     {
         "name": "Gusion (Gusayn)",
-        "description": "FALLEN ANGEL and fourth of the 72 SPIRITS OF SOLOMON. In HELL, Gusion is a duke who appears as a cynocephalus (xenophilus). He discerns the past, present, and future; answers all questions; confers honor and dignity; and reconciles enemies. He commands 40 LEGIONs of DEMONs."
+        "description": "FALLEN ANGEL and fourth of the 72 SPIRITS OF SOLOMON. In HELL, Gusion is a duke who appears as a cynocephalus (xenophilus). He discerns the past, present, and future; answers all questions; confers honor and dignity; and reconciles enemies. He commands 40 LEGIONs of DEMONs.",
+        "image": "images/gusion.jpg"
     },
     {
         "name": "Hades",
-        "description": "In Greek mythology, the god who rules the underworld of the dead. Hades is the son of the Titans Cronus and Rhea. With one of his brothers, Zeus, he plots to overthrow their father Cronus, the god of time. Hades; Zeus, god of Olympus; and another brother, Poseidon, god of the sea, drew lots to divide up the world, and Hades fared the worst, getting the underworld. Hades seeks to increase the population of his kingdom and prevent anyone from leaving. The gates of his abode, also called Hades, are guarded by the three-headed dog CERBERUS. Hades’ wife is Persephone, whom he abducted to the underworld. Hades also is the god of wealth, because of the precious metals mined from the earth; he is also called Pluto (the rich one or the hidden one). He has a helmet that makes him invisible."
+        "description": "In Greek mythology, the god who rules the underworld of the dead. Hades is the son of the Titans Cronus and Rhea. With one of his brothers, Zeus, he plots to overthrow their father Cronus, the god of time. Hades; Zeus, god of Olympus; and another brother, Poseidon, god of the sea, drew lots to divide up the world, and Hades fared the worst, getting the underworld. Hades seeks to increase the population of his kingdom and prevent anyone from leaving. The gates of his abode, also called Hades, are guarded by the three-headed dog CERBERUS. Hades’ wife is Persephone, whom he abducted to the underworld. Hades also is the god of wealth, because of the precious metals mined from the earth; he is also called Pluto (the rich one or the hidden one). He has a helmet that makes him invisible.",
+        "image": "images/hades.webp"
     },
     {
         "name": "Hagenti (Haagenti)",
-        "description": "FALLEN ANGEL and 48th of the 72 SPIRITS OF SOLOMON. Hagenti is a president who rules 33 LEGIONs of DEMONs. He appears in the shape of a bull with griffi n wings but will change into human form when commanded by a magician. He turns wine into water, transmutes all metals into gold, and imparts wisdom."
+        "description": "FALLEN ANGEL and 48th of the 72 SPIRITS OF SOLOMON. Hagenti is a president who rules 33 LEGIONs of DEMONs. He appears in the shape of a bull with griffi n wings but will change into human form when commanded by a magician. He turns wine into water, transmutes all metals into gold, and imparts wisdom.",
+        "image": "images/hagenti.jpg"
+
     },
     {
         "name": "Haizmann, Christopher (Christoph) Joseph",
