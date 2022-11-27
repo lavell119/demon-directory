@@ -16,7 +16,7 @@ export default function DemonList() {
               {/* <img src={ IMAGES.abbadon } alt="" /> */}
             </div>
             <div className="snippet-right">
-          <h3><i>{demon.name}</i></h3>
+          <h3>{demon.name}</h3>
           <p>{demon.description.substr(0,300)}...<a href="google.com">more...</a></p>
             </div>
         </div>
