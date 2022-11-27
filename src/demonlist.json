@@ -5,12 +5,6 @@
         "image": "images/Abaddon.webp"
     },
     {
-        "name": "Abel de Larue",
-        "description": "French sorcerer believed to be under the influence of DEMONS in the form of a black dog. Living in Coulommiers, France, he was also known as the Smasher. A Apollyon, from Francis Barrett's The Magus, ABel was placed in a Franciscan monestary by his mother. He became enraged at the intructor of novices for beating him, and he plotted revenge...",
-        "image": "images/abeldelarue.jpg"
-
-    },
-    {
         "name": "Abezethibou",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens, and is the enemy of Moses. In the testament of Solomon, Abezethibou states that he onc sat in the first heaven, names Amelouth. He was present when Moses was taken before the pharoah of Egypt and was summoned to the aid of the Egyptian magicians  when they sought to discredit Moses...",
         "image": "images/Abezethibou.webp"
@@ -34,7 +28,9 @@
     },
     {
         "name": "Aerial spirits of Solomon",
-        "description": "DEMONs associated with the four elements who were commanded by the legendary King SOLOMON. The aerial spirits are both good and evil. They can show anything in the world that is hidden and can fetch, carry, and do anything contained in the four elements of earth, air, water, and fi re. They can discover the secrets of anyone, including kings..."
+        "description": "DEMONs associated with the four elements who were commanded by the legendary King SOLOMON. The aerial spirits are both good and evil. They can show anything in the world that is hidden and can fetch, carry, and do anything contained in the four elements of earth, air, water, and fire. They can discover the secrets of anyone, including kings...",
+        "image": "images/aerialspirits.webp"
+
     },
     {
         "name": "Aeshma",
@@ -63,16 +59,9 @@
         "image": "images/aim.webp"
     },
     {
-        "name": "Aiwass",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Aix-en-Provence Possessions",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Algul",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Arabian vampire night DJINN. Algul means “horse leech.” The algul lives in cemeteries and takes the form of a woman in order to gain the trust of untended children. Although this type of evil djinn lives in cemeteries, it prefers fresh BLOOD. It enters homes to prey upon sleeping children, taking their blood and their breath. It lures untended children into dark places in order to vampirize them. When fresh blood is not available, it drinks the blood of dead infants in cemeteries.",
+        "image": "images/algul.webp"
     },
     {
         "name": "Alloces",
@@ -92,11 +81,10 @@
     },
     {
         "name": "Amenadiel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Amenadiel is the great emperor of the west and governs 300 great dukes, 500 lesser dukes, and 400,000,300,000,100,000 ministering spirits. Amenadiel’s chief dukes are Vadros, Campiel, Luziel, Musiriel, Rapsiel, Lamael, Zoeniel, Curifas, Almesiel, Codriel, Balsur, and Nadroc. Each duke has 3,880 servants. Amenadiel can be conjured anytime day or night, but his dukes will only appear at certain hours."
-    },
-    {
-        "name": "Amityville Haunting",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Amenadiel is the great emperor of the west and governs 300 great dukes, 500 lesser dukes, and 400,000,300,000,100,000 ministering spirits. Amenadiel’s chief dukes are Vadros, Campiel, Luziel, Musiriel, Rapsiel, Lamael, Zoeniel, Curifas, Almesiel, Codriel, Balsur, and Nadroc. Each duke has 3,880 servants. Amenadiel can be conjured anytime day or night, but his dukes will only appear at certain hours.",
+        "image": "images/amenadiel.webp"
+
+        
     },
     {
         "name": "Amon",
@@ -104,14 +92,7 @@
         "image": "images/amon.jpg"
 
     },
-    {
-        "name": "Amorth, Father Gabriele",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Aerial spirits of Solomon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
+
     {
         "name": "Amy",
         "description": "FALLEN ANGEL and 58th of the 72 SPIRITS OF SOLOMON. Prior to his fall, Amy was a member of the angelic      order of powers. He is a president in HELL, where he governs 36 LEGIONs of DEMONs. He possesses perfect knowledge of the liberal sciences and astrology. He gives good FAMILIARs. He appears fi rst as a huge fl aming fire and then as a man. Amy reveals hidden treasures guarded by other spirits. In 1,200 years, he hopes to be restored to the “seventh throne,” that is, to the place before God that is reserved for the highest of angels. The demonologist JOHANN WEYER called this claim “not credible.”",
@@ -120,23 +101,20 @@
     },
     {
         "name": "Andra (Indra)",
-        "description": "In ZOROASTRIANISM, the archDEMON known as the Slayer and Fighter, who turns humans away from virtue. Andra opposes the good spirit, or amesha spenta, of Artvahisht. He also punishes the souls doomed to HELL",
-        "image": "images/andra.webp"
+        "description": "In ZOROASTRIANISM, the archDEMON known as the Slayer and Fighter, who turns humans away from virtue. Andra opposes the good spirit, or amesha spenta, of Artvahisht. He also punishes the souls doomed to HELL"
+        
 
     },
     {
         "name": "Andras",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 63rd of the 72 SPIRITS OF SOLOMON. Andras is a great marquis in HELL who rules over 30 LEGIONs of DEMONs. He appears in the form of an ANGEL with either a raven head or a wooden owl head, rides a black wolf, and carries a gleaming and sharp sword. He creates discord and kills those who are not careful and wary, including the master, servants, and all assistants of any household. He teaches people how to kill their enemies.",
+        "image": "images/andra.webp"
     },
     {
         "name": "Andrealphus",
         "description": "FALLEN ANGEL and 65th of the 72 SPIRITS OF SOLOMON. Andrealphus is a mighty marquis, who rules 30 LEGIONs. He fi rst appears as a noisy peacock and then as a human. He can transform people into birds and make them very cunning. He teaches perfect geometry and everything pertaining to measurements, as well as astronomy.",
         "image": "images/andrealphus.jpg"
 
-    },
-    {
-        "name": "Andra (Indra)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Andromalius",
@@ -149,25 +127,23 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },{
         "name": "Angels of Mastemoth",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/angelsofmastemoth.jpg"
     },
     {
         "name": "Antaura",
         "description": "Greek DEMON of migraine headaches. Antaura is a female demon, who rises up out of the sea, moves like the wind, shouts like a deer, and cries like an ox. She enters into people’s heads to cause intense pain. She commands other headache demons to do the same. Antaura is thwarted by the goddess Artemis, who rules the woodlands and the waxing moon. In lore Artemis diverts Antaura into the head of a bull in the mountains",
         "image": "images/antaura.jpg"
-
     },
     {
         "name": "Antichrist",
         "description": "ll"
     },
     {
-        "name": "Apple",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
         "name": "Armadiel",
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Armadiel rules as a king in the northeast. His 15 chief dukes each have 1,260 servants, who are goodnatured but must be summoned at the appropriate hour. Armadiel’s 15 major dukes are Nassar, Parabiel, Lariel, Calvamia, Orariel, Alferiel, Oryn, Samiet, Asmaiel, Jasziel, Pandiel, Carasiba, Asbibiel, Mafayr, and Oemiel."
-    },{
+    },
+    {
         "name": "Asag (asakku)",
         "description": "A type of Sumerian DEMON that attacks humans and kills them with head and fever diseases. Asag also is the proper name of a monstrous demon in the Sumerian poem Lugale. Asag is the offspring of An, the sky god, and Ki, the earth goddess. He is hideous and has the power to make fi sh boil in their rivers. His allies are the stones of mountains. The poem relates how Asag battles the hero god Ninurta and is defeated. This allows Ninurta to organize the world and use stones to construct the mountains so that streams and lakes fl ow into the Tigris and Euphrates Rivers, thereby aiding irrigation for agriculture.",
         "image": "images/asag.jpg"
@@ -201,10 +177,6 @@
 
     },
     {
-        "name": "Aueiran, Isaac de",
-        "description": "Young Frenchman executed for WITCHCRAFT and having a PACT with the DEVIL. Isaac de Aueiran confessed at his trial that he was 10 or 12 years in age when he was introduced to the Devil. He went to a neighbor’s house for fi re and was asked by the woman who lived there whether he wanted to see “the grand master of sabbats.” He agreed and found himself carried through the air to a distant place, where a SABBAT was in progress and men and women were shouting and dancing. A big black man—the Devil—walked up to him, hit him on the shoulder, and urged him to stay. At the same time, the man made a DEVIL’S MARK upon his hand. One day the black man appeared and took him back to a sabbat, where he ate and danced with the others. De Aueiran was arrested and tried in Bordeaux and was executed by burning on May 8, 1609."
-    },
-    {
         "name": "Aupetit, Pierre",
         "description": "French priest executed on charges of sorcery and traffi cking with the DEVIL. Pierre Aupetit, who lived in Fossas, Limousin, was 50 years old when he was arrested and tried. He was tortured and on the rack and confessed. Aupetit said that he had attended SABBATs, where witches had kissed the anus of the Devil, who was in the shape of a black sheep. Aupetit had read from a book of spells. He had been given a FAMILIAR, the DEMON BEELZEBUB, and had the demon’s little fi nger. Beelzebub had taught him how to procure the love of any woman or girl of his choosing. Aupetit also said he had been taught the arts of sorcery by a known sorcerer named Crapouplet, who showed him how to staunch the fl ow of BLOOD and how to use levers. Aupetit was burned on May 25, 1598."
     },
@@ -214,7 +186,7 @@
     },
     {
         "name": "Az (Azi)",
-        "description": "In ZOROASTRIANISM, the DEMON of avarice, gluttony, insatiability, and lust. Az is often paired with NIYAZ (want) and is featured also in Zurvanite and Manichaean texts. The pair is considered supremely powerful. Az is the opponent to Atar,the fi re god son of Ahura Mazda (later Ohrmadz), the creator god. In the Bundahisn text, Az swallows everything and anything to satisfy his want, but he is never fulfi lled. If nothing is available, he will eat his own body. Az is not the demon of death, but he brings about death through his corruption. He is behind everything disastrous that happens to human beings. Az and Ahriman will be the last demons to be defeated by the forces of light and good. In Zurvanite theology, Az leads the demonic hordes. In Manichaeism, Az is a female demon who is the mother of all demons and sin. She formed the human body and imprisoned the soul in it. She is Hyle, or matter and evil, and tries to make humanity forget its divine origins, thus preventing people from fi nding their salvation."
+        "description": "In ZOROASTRIANISM, the DEMON of avarice, gluttony, insatiability, and lust. Az is often paired with NIYAZ (want) and is featured also in Zurvanite and Manichaean texts. The pair is considered supremely powerful. Az is the opponent to Atar,the fi re god son of Ahura Mazda (later Ohrmadz), the creator god. In the Bundahisn text, Az swallows everything and anything to satisfy his want, but he is never fulfi lled. If nothing is available, he will eat his own body. Az is not the demon of death, but he brings about death through his corruption. He is behind everything disastrous that happens to human beings. Az and Ahriman will be the last demons to be defeated by the forces of light and good. In Zurvanite theology, Az leads the demonic hordes. In Manichaeism, Az is a female demon who is the mother of all demons and sin. She formed the human body and imprisoned the soul in it. She is Hyle, or matter and evil, and tries to make humanity forget its divine origins, thus preventing people from finding their salvation."
     },
     {
         "name": "Azazel (Azael)",
@@ -277,7 +249,6 @@
         "name": "Bathin (Mathim)",
         "description": "FALLEN ANGEL and 18th of the 72 SPIRITS OF SOLOMON. Bathin is a strong and great duke of HELL with 30 LEGIONs of DEMONs under his command. He appears as a man with the tail of a SERPENT, astride a pale horse. He understands the lore of herbs and precious stones. He can transport people from country to country instantly.",
         "image": "images/bathim.webp"
-
     },
     {
         "name": "Bealphares",
@@ -339,28 +310,12 @@
 
     },
     {
-        "name": "Binsfield, Peter",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Black Book",
         "description": "A magical handbook that provides instructions for traffi cking with spirits, including DEMONs and ANGELs; divination; and acquisition and use of supernatural powers. In some cases, possession of the black book itself bestows supernatural powers, wealth, or luck upon its owner. However, use of a black book usually backfires with serious consequences. Some black books are said to be written in BLOOD as a PACT with the DEVIL. According to a German tale, a black book of unknown origin was passed down through inheritance and came into the possession of some peasants. Its magical powers were released by reading it forward and backward. If anyone failed to read the book backward, the Devil was able to take control of him or her. Once activated, the book enabled people to acquire great wealth and do terrible things to others without punishment. However, there were consequences to using the black book that caused its owners grief. They tried to get rid of the book but could not do so. They sought help from a minister, who successfully nailed the book into a drawer. Such a tale serves to demonstrate the power of Christianity over both occult powers and pagan folk magic. Black books are more than mysteriously empowered items of folklore, however. In practice, many people and families kept black books as guides for living. They included magical cures and healing recipes, prayers, CHARMs, incantations, blessings, rituals for burial, seasonal and agricultural rites, techniques for divination, and ways to ward off evil and bad luck and attract good luck. The material is a mixture of old folkways and lore and Christian elements. Some black books credit their origins to Cyprianus of Antioch (St. Cyprian), who lived in the fourth century C.E. in Turkey. According to lore, Cyprian was a sorcerer who escaped the domination of DEMONs and the Devil by making the sign of the cross. He converted to Christianity and became a bishop. He ended his life as a martyr."
     },
     {
         "name": "Black Dogs",
         "description": "Spectral animals associated with demonic powers, death, and disaster. Phantom black dogs are widespread in folklore. They are said to be DEMONs or the DEVIL in shape-shifted form or a demonic animal companion of demons. Spectral black dogs are often unusually large and have glowing red or yellow eyes. They give out an unearthly, bone-chilling howl. They like to roam remote areas of the countryside. The sight of one is a harbinger of death or disaster. Sometimes spectral black dogs appear in the middle of lonely roads. If they are struck by a car, they disappear and the vehicle is not damaged. One famous black dog in English folklore is Black Shuck. Shuck derives from an old Anglo-Saxon term, scucca or sceocca, meaning 'demon' or 'Satan'. During the European witch hunts, witches were often said to have familiars in the form of black dogs, or to be visited by their master, the Devil, in the shape of a black dog. In Arabian lore, black dogs are a favorite form taken by the DJINN. If a djinn becomes attached to a human, it may assume the shape of a black dog in order to get close to that person."
-    },
-    {
-        "name": "Black Mass",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Blai, Adam Christian",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Blood",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Bogey",
@@ -372,26 +327,15 @@
         "name": "Botis (Otis)",
         "description": "FALLEN ANGEL and 17th of the 72 SPIRITS OF SOLOMON. As a great president and earl of HELL, Botis commands 60 LEGIONs of DEMONs. He appears in the shape of an ugly viper but will take on human form with large teeth and horns when commanded to do so. He carrries a sharp sword. He sees past, present, and future and reconciles friends and enemies.",
         "image": "images/botis.webp"
-
-    },
-    {
-        "name": "Brossier, Marthe",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Bruner (Burner), Theobals and Joseph",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Buer",
         "description": "FALLEN ANGEL and the 10th of the 72 SPIRITS OF SOLOMON. Buer is a president in HELL, where he governs more than 50 LEGIONs of DEMONs. He appears when the Sun is in Sagittarius. He teaches moral and natural philosophy, the logical arts, and the virtues of all herbs and plants. Buer heals all distempers and gives good FAMILIARs",
         "image": "images/buer.webp"
-
     },
     {
         "name": "Buriel",
         "description": "DEMON and a wandering duke of the air. Buriel has many dukes and servants to do his bidding. All are evil and are hated by other spirits. They must be summoned at night because they hate the day. When they appear, they have the form of a SERPENT with a virgin’s head and speak with a man’s voice. Buriel’s major 12 dukes are Merosiel, Almadiel, Cupriel, Sarviel, Casbriel, Nedriel, Bufi el, Futiel, Drusiel, Camiel, Drubiel, and Nastros."
-
     },
     {
         "name": "Bushyasta",
@@ -416,10 +360,6 @@
 
     },
     {
-        "name": "Calder, Andrew",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Camuel",
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Camuel is the third-ranking spirit of the east and rules as the king of the southeast regions of the world. He is attended by numerous spirits, of which 10 daytime spirits and 210 nighttime spirits are signifi cant. His 9 most significant attendants are Camyel, Omyel, Budiel, Elcar, Citgara, Pariel, Cariel, Neriel, and Daniel. Ten of his nighttime servants will also appear during the day: Asimiel, Calim, Dobriel, Nodar, Phaniel, Meras, Aszemo, Tediel, Moriel, and Tugaros. Camuel and his attendants all appear in beautiful form and are courteous."
     },
@@ -430,10 +370,6 @@
     {
         "name": "Caspiel",
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Caspiel is the chief emperor of the south, who rules over 200 great dukes, 400 lesser dukes, and 1,000,200,000,000 ministering spirits. His 12 most important dukes are Ursiel, Chariet, Maras, Femot, Dudarion, Camory, Larmot, Aridiel, Geriel, Ambri, Carnor, and Oriel. Each of the 12 dukes is attended by 2,660 lesser dukes. All of the dukes are stubborn and churlish, but many attend Caspiel when he appears."
-    },
-    {
-        "name": "Cassian, John",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Cerberus (Kerberos)",
@@ -447,59 +383,19 @@
         "image": "images/cesmak.jpg"
     },
     {
-        "name": "Charm",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Choronzon (Coronzon)",
         "description": "DEMON or spirit identified in the 16th century by John Dee and Edward Kelly, summoned in a dramatic ritual by ALEISTER CROWLEY in 1909. Dee referred to “Coronzon,” or 333, in his Enochian communications with spirits; he did not consider it to be a demon. Crowley called Choronzon the Demon of Dispersions and of the Abyss. The account of Crowley’s evocation is full of drama; it is not known whether the events happened as objective experiences or were experienced as visions. Crowley claimed to have conquered Choronzon to become a full Master of the Temple and Secret Chief. The evocation was performed in 1909. In November, Crowley and Neuberg went to Algiers on holiday and walked south through the desert to Aumale. There, Crowley was summoned by the voice of Aiwass, the entity who had dictated to him The Book of the Law, to “call Me.” He had with him the Enochian Keys of Dee and Kelly used to communicate with angels and spirits and felt he had received a divine message to use them. Crowley had successfully used the 19th Key or Call, the most difficult, to access two of the 30 aethyrs or aires (levels or planes) of expanded consciousness. He decided to access the remaining 28 aethyrs. Crowley and Neuberg went out into the desert to a mount and ascended it. To make the Call, Crowley held a vermilion-painted Calvary Cross with an engraved topaz set in its axis. The topaz was engraved with a rose of 49 petals. When his clairvoyant visions unfolded, Crowley dictated to Neuberg. They performed one aethyr a day, except for one day when they two performed. They started with the last-numbered aethyr and worked backward toward the first. Most of Crowley’s visions were apocalyptic in nature. In the 15th aethyr, he underwent an initiation to the magical grade of Master of the Temple, a title that could be fully realized only by accessing the other aethyrs. However, Crowley experienced great difficulty in trying to access the next, the 14th aethyr. After making several attempts, he stopped. He and Neuberg were on their way down the mount when Crowley suddenly was seized with the inspiration to perform a homosexual magic ritual with Neuberg and dedicate it to the Greek god of nature, Pan. They went  back to the top of the mount, inscribed in the sand a magic circle protected with names and words of power, and made a crude stone altar. Crowley took the submissive role in the sexual act as a way of eliminating ego. The ritual marked a turning point for him in his view of the importance of sex in magic; he now saw it as a benefi cial sacrament. The ritual also led to a breakthrough in consciousness, for later that evening, Crowley gained access to the 14th aethyr. In his vision, he was informed that in order to attain his cherished goal of becoming a Secret Chief and Master of the Temple, he had to undergo the complete death of his ego and unite his spirit with the ocean of infi nity. Only this way, could he cross the Abyss, the gulf that separates ordinary mortals from the Secret Chiefs. Crowley was able to resume his explorations of the other aethyrs, where he received revelation after revelation, laden with symbolism. In the 11th aethyr, he was told that in the 10th aethyr he would have to make a conscious crossing of the Abyss, inhabited by a single entity, the demon Choronzon, the “fi rst and deadliest of all the powers of evil,” a being composed of “complete negation.” The ritual for crossing the Abyss took place on December 6, 1909, outside the town of Bou Saada. Crowley and Neuberg walked out into the desert until they found a valley that had a suitable fl oor of fi ne sand. They formed a circle of rocks, drew around it a magic circle, and then drew a magic triangle. The demon would be invoked into the triangle. The circle would protect Neuberg, who would sit within it, armed with a magical knife and a notebook for recording what happened. Crowley intended to enter the triangle, a dangerous act for a magician. He thus became perhaps the first magician in the Western magical tradition to offer his own body ritually as a vehicle for manifestation of a demon. Before the start of the ritual, Neuberg took an oath that he would defend the magic circle “with thoughts and words and deeds” and would use the knife to attack anything that entered it, even Crowley. Crowley apparently was not in the triangle when he invoked the aethyr, but was in a “secret place” out of the sight and hearing of Neuberg. After the invocation, Crowley entered the triangle. To help the demon materialize, he sacrificed three pigeons at the points of the triangle and sprinkled their BLOOD. He took care not to let a drop fall outside the triangle, for that would enable Choronzon to manifest in the universe. When all the blood had soaked into the sand, he secretly recited the Call of the aethyr. He was in full trance.Neuberg records that he heard a voice, simulating Crowley’s voice, call out barbarous names and then blasphemies. Visions appeared within the triangle. First, Neuberg saw the form of a woman prostitute he had known in Paris. The “woman” tried to seduce him, but Neuberg resisted, fi guring it was Choronzon in a shape-shifted form. The “woman” then offered submission, which he also rejected. The demon next turned into an old man, then a SERPENT, and then into Crowley, who begged for water. Neuberg held fast within the circle.Neuberg ordered Choronzon to declare his nature. The demon replied that he spat upon the name of the Most High. He was Master of the Triangle, who had no fear of the pentagram. He gave Neuberg words that the magician took as “great secrets of magic” but turned out to be worthless, a joke played by the demon. Neuberg invoked Aiwass. Choronzon said that he knew the name of the angel and that “all thy dealings with him are but a cloak for thy filthy sorceries. Ordered again to declare his true nature, Choronzon said his name was Dispersion and he could not be bested in argument. He uttered a rapid string of blasphemies that taxed Neuberg’s ability to record. While distracting the magician with blasphemies, Choronzon threw sand onto the magic circle. When the outline was sufficiently blurred, he took the form of a naked man and leaped into it, throwing Neuberg to the ground. The two fought furiously. The demon tried to tear out Neuberg’s throat with his froth-covered fangs. At last, Neuberg was able to force Choronzon back into the triangle, and he repaired the magic circle. Man and demon argued. Choronzon threatened Neuberg with all the tortures of HELL, and Neuberg denounced the demon as a liar. After a long time at this, the demon suddenly vanished, leaving Crowley alone in the circle. Crowley traced the word Babalon in the sand, and the ritual was over. He and Neuberg built a fire for purification and ritually destroyed the circle and triangle.Neuberg maintained that he had literally wrestled with Choronzon, and not with Crowley possessed by the demon. Some occultists have posited that Crowley somehow exuded an ectoplasm that enabled the demon to make a form tangible enough to fi ght with Neuberg. Another explanation advanced is that the entire experience was visionary. Whatever the truth, both Crowley and Neuberg felt that Crowley had beaten the demon and achieved the status of Master of the Temple and Secret Chief. Crowley’s new vision of himself was as teacher and prophet who was to indoctrinate the world with the philosophy of The Book of the Law. Associates of Crowley said the ritual permanently damaged him and that he was possessed by Choronzon for the rest of his life.",
         "image": "images/choronzon.webp"
-
-    },
-    {
-        "name": "Chthonic Deities",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Ciemeries",
         "description": "FALLEN ANGEL and 66th of the 72 SPIRITS OF SOLOMON. Cimeries rules 20 LEGIONs of DEMONs as a marquis in HELL. He also rules spirits in Africa. He appears as a valiant soldier riding a black horse. He teaches grammar, logic, and rhetoric. He fi nds lost objects and buried treasures.",
         "image": "images/ciemeries.jpg"
-
-
-    },
-    {
-        "name": "Colas, Antide",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Cole, Ann",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Collin de Plancy, Jacques",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Constantine (2005)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Crossroads",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Crowley, Aleister (1875-1947)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Curse",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Daeva (daiva, deva, dev)",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
         "image": "images/daeva.jpg"
-
     },
     {
         "name": "Daimon",
@@ -509,7 +405,6 @@
         "name": "Dalkiel",
         "description": "Angel of HELL and ruler of Sheol, the underworld, who serves under DUMAH, the angel of the stillness of death. In hell Dalkiel punishes nations. He is equated with Rugziel",
         "image": "images/dalkiel.jpg"
-
     },
     {
         "name": "Dantanian",
@@ -518,20 +413,8 @@
         
     },
     {
-        "name": "Darling Possession",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Darrel (Darrell), Reverand John (16th century)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Decarabia (Carabia)",
         "description": "FALLEN ANGEL and 69th of the 72 SPIRITS OF SOLOMON. Decarabia is a marquis in HELL with 30 LEGIONs of DEMONs reporting to him. He appears as a star in a pentacle but changes into a man when ordered to do so. He makes magical birds fly before a magician and leaves them as FAMILIARs, singing and eating as ordinary birds do. Decarabia knows the virtues of herbs and precious stones."
-    },
-    {
-        "name": "Deliverance",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Demoniac",
@@ -540,10 +423,6 @@
     {
         "name": "Demon of Jedburgh",
         "description": "Account of an alleged witch in Jedburgh, Scotland. In 1752, Captain Archibald Douglas was in Jedburgh on a recruiting campaign. One of his sergeants asked to change quarters because the house he was staying in had a DEMON in a “frightful form” that pestered him at night. Douglas refused the man’s request. Soon the sergeant appealed again to be moved, saying the demon had threatened his life. He said that he had awakened during the night to see the ugly form standing over him. It changed into a black cat, jumped out the window, and flew over the church steeple. The sergeant also had learned that the landlady was said to be a witch and her husband possessed “second sight” (clairvoyance). That night, Douglas spent the night beside the sergeant, with his gun and sword nearby. At midnight, he was awakened by a noise and saw a large black cat fly in through the window. He fired at it and shot off one of its ears. It vanished. The next morning, the men saw the landlady, who fainted before them in a pool of BLOOD. They discovered that one of her ears had been shot off. Douglas threatened to turn the woman in to the authorities, but she and her husband begged him to leave them alone. He agreed, on condition that they give up their “wicked ways.” It is not known whether the couple did as promised. The story is possibly a blend of fact and fi ction; the telltale wound is prominent in magical folklore in tales of shape-shifting sorcerers, witches, and werewolves."
-    },
-    {
-        "name": "Demons and Demonology",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Demoriel",
@@ -555,39 +434,7 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Devil Fish",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Arrows",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Book",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Bridge",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Horse",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Mark",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Devil's Missal",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Djinn (genii, ginn, jann, jinn, shayatin, shaytan)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Doris Fisher Obsession",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
@@ -621,10 +468,6 @@
         "name": "Dybbuk",
         "description": "In Jewish demonology, an evil spirit or doomed soul that possesses a person’s body and soul, speaking through the person’s mouth and causing such torment and anguish that another personality appears to manifest itself. The term dybbuk (also spelled dibbuk) was coined in the 17th century from the language of German and Polish Jews. It is an abbreviation of two phrases: dibbuk me-ru’ah (a cleavage of an evil spirit) and dibbuk min ha-hizonim (dibbuk from the demonic side of man). Prior to the 17th century, the dybbuk was one of many evil spirits callibbur. In early folklore, dybbukim were thought only to inhabit the bodies of sick persons. Possessive evil spirits are referred to in the Old Testament. For example, Samuel I describes the possession of Saul and the way David exorcized the spirit by playing the harp. In the book of Tobit he archangel Raphael instructs Tobit in ways of EXORCISM. In the rabbinical literature of the fi rst century, exorcisms called for the ashes of a red heifer, or the roots of certain herbs, to be burned under the victim, who was then surrounded with water. Other methods included incantations in the name of King SOLOMON, repetition of the Divine Name of God, reading from Psalms, and wearing herbal AMULETs. By the 16th century, the concept of possessive evil spirits changed. Many Jews believed the spirits were transmigrated souls that could not enter a new body because of their past sins and so were forced to possess the body of a living sinner. The spirits were motivated to possess a body because they were tormented by other evil spirits if they did not. Some thought the dybbukim were the souls of people who were not properly buried and, therefore, became demons. The KABBALAH contains rituals for exorcizing a dybbuk; many are still in use in modern times. The exorcism must be performed by a ba’al shem, a miracle-working rabbi. Depending on how the exorcism is done, the dybbuk either is redeemed or is cast into HELL. It usually exits the body of its victim through the small toe, which shows a small, bloody hole as the point of departure.",
         "image": "images/dyybuk.webp"
-    },
-    {
-        "name": "Earling Possession (1928)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Eligor (Abigor)",
@@ -661,31 +504,11 @@
         "description": "In Greek lore, a high-ranking DEMON of Hades. The Greek geographer Pausanias (second c.C.E.) said in Description of Greece that the oracles at Delphi described Eurynomus as a fl esh-eating demon who strips corpses down to the bone. His color is black-blue like that of fl ies, and he has sharp teeth and sits on the skin of a vulture. Later European demonologists described Eurynomus as a “prince of death” who has a body covered with sores, long teeth, and fox-skin clothing."
     },
     {
-        "name": "Evil Eye",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Exorcism",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Exorcist",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Eye Killers",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Fairies",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Fallen Angels",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Fallen Stars",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
@@ -715,12 +538,6 @@
         "name": "Forneus",
         "description": "FALLEN ANGEL and 30th of the 72 SPIRITS OF SOLOMON. Forneus is a marquis of HELL, who appears as a sea monster. He teaches rhetoric, art, and languages and confers a good reputation. He causes people to be loved by their enemies. Prior to his fall, Forneus was in the order of thrones and partly in the order of ANGELs. He governs 29 LEGIONs of DEMONs.",
         "image": "images/forneus.webp"
-
-        
-    },
-    {
-        "name": "Fortea, Father Jose ANtonio (1968-)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Fureas (Furcas)",
@@ -776,39 +593,14 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Ghoul",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Gilles de Rais (Gilles de Retz) (1404-1440)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Glasya Labolas",
         "description": "FALLEN ANGEL and 25th of the 72 SPIRITS OF SOLOMON. Glasya Labolas is a president in HELL. He appears as a winged dog. He can make men invisible and discern the past and the future. He is the leader of all homicides and incites people to bloodshed. He teaches all arts and science instantly. He commands 36 LEGIONs of DEMONs.",
         "image": "images/glasya.gif"
-
     },
     {
         "name": "Goblin",
         "description": "A wandering sprite who attaches itself to households and both helps and plagues the residents. Goblins are comparable to low-level DEMONs, not inherently evil but mischievous, the equivalent of brownies in England and Scotland, kobalds in Germany, domoviks in Russia. The Greeks called such spirits kobaloi, or “rogues” or “tricksters.” Goblin is a French term. A hobgoblin is a nasty type of goblin, intent on doing harm. Goblins live in grottoes, but they are attracted to homes that have beautiful children and plentiful wine. When they move in, they help by doing household chores at night and disciplining children—by giving them presents when they are good and punishing them when they are naughty. Goblins have an unpredictable, mischievous goblin 95 nature, and instead of doing chores at night, they will sometimes keep everyone awake by banging pots and pans, moving furniture, knocking on walls and doors, and snatching bedclothes off sleeping persons. Goblins who become tiresome can be persuaded to leave by scattering flaxseed on the fl oor. The sprites get tired of cleaning it up every night. Goblins have become associated with Halloween and are said to roam the night when the veil between the world of the living and the world of the dead is thinnest.",
         "image": "images/goblin.jpg"
-    },
-    {
-        "name": "Gold-Finding Hen",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Goodmans's Ground",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Goodwin Possession (1688)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Gospel of John",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Grandier, Urbain",
@@ -827,10 +619,6 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Gauzzo, Francesco-Maria",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Gusion (Gusayn)",
         "description": "FALLEN ANGEL and fourth of the 72 SPIRITS OF SOLOMON. In HELL, Gusion is a duke who appears as a cynocephalus (xenophilus). He discerns the past, present, and future; answers all questions; confers honor and dignity; and reconciles enemies. He commands 40 LEGIONs of DEMONs.",
         "image": "images/gusion.jpg"
@@ -844,11 +632,6 @@
         "name": "Hagenti (Haagenti)",
         "description": "FALLEN ANGEL and 48th of the 72 SPIRITS OF SOLOMON. Hagenti is a president who rules 33 LEGIONs of DEMONs. He appears in the shape of a bull with griffi n wings but will change into human form when commanded by a magician. He turns wine into water, transmutes all metals into gold, and imparts wisdom.",
         "image": "images/hagenti.jpg"
-
-    },
-    {
-        "name": "Haizmann, Christopher (Christoph) Joseph",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Halahel",
@@ -858,7 +641,6 @@
         "name": "Halpas (Haphas)",
         "description": "FALLEN ANGEL and 38th of the 72 SPIRITS OF SOLOMON. In HELL, Halpas is an earl who appears in the form of a stork and speaks with a hoarse voice. He burns towns; it is also said that he builds towns and fills them with armed men. Halpas takes swords to the wicked and sends men either to battlefi elds or to other places. He rules 26 LEGIONs of DEMONs.",
         "image": "images/halpas.jpg"
-
     },
     {
         "name": "Harlequin",
@@ -868,10 +650,6 @@
     {
         "name": "Head of the Dragon",
         "description": "DEMON in the form of a three headed dragon with awful skin. In the Testament of Solomon, the Head of the Dragons is a three-pronged spirit that is responsible for birth defects and epilepsy. He says he overpowers others through three deeds: He can enter the wombs of women and blind the unborn, turn their ears around backward and make them deaf and dumb, and make men fall down, grind their teeth, and foam at the mouth. He is thwarted by an “angel of the Counselor” (Christ) at Golgotha. The demon tells King SOLOMON that a great deal of gold lies beneath the foundation of the Temple of Jerusalem, which Solomon has under construction. Solomon finds the gold and binds the demon with his magical ring. He sentences the demon to make bricks for the temple."
-    },
-    {
-        "name": "Heavenly Bodies",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Hecataea",
@@ -884,10 +662,6 @@
     {
         "name": "Hell",
         "description": "The underworld abode of souls of the dead. In Christianity, hell is the opposite of heaven and is the place ruled by the DEVIL, where DEMONs torment sinners for eternity. Hell is the complete absence of God, light, and love; a place of unbearable fi re and horrible tortures. Hell takes its name from HEL, the Norse goddess of the "
-    },
-    {
-        "name": "Hell-Fire Club",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Hemah",
@@ -906,10 +680,6 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Hyslop, James Hervey",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Ilibis",
         "description": "In Islam, the DEVIL. Iblis is Arabian for “despair.” The exact origin and nature of Iblis are uncertain. His name is the primary name for the Devil; he is also described as the chief and father of the DJINN and an ANGEL. He can assume any form, but he is most frequently portrayed as a vain entity who has the head of an ass and is decorated with peacock feathers (see ADRAMELECH). Iblis is mentioned nine times in the Qur’an; seven of the references concern his fall from God’s grace. His other name, Shaytan, is used in context of his rebellion against God. Sura 18:50 in the Qur’an states that Iblis “was one of the djinn, and he broke the command his Lord.” Like other djinn, Iblis was created by God of smokeless fire. Suras 7:12 and 38:76 refer to his creation from fire. However, the Qur’an also indicates that Iblis was treated as an angel. When Allah created Adam, he ordered all the angels to bow down and worship him. Iblis was among those who refused, claiming that a being made of dust was beneath him, a being of fi re. Allah cursed Iblis for his pride and expelled him from heaven. Iblis persuaded Allah to delay further punishment until the Day of Judgment. God gave him the right to roam the earth, tempting people, and to destroy those who yield to temptation. He cannot compel people to sin but only lure them to make the choice. He is aided by the Shaytan, also the name of a type of djinn, who serves under him"
     },
@@ -922,28 +692,12 @@
         "description": "A small DEMON usually kept inside a bottle or ring. An imp is like a FAMILIAR and is comparable to the DJINN. It is evoked for magical purposes. Imps are both good and evil. As familiars, imps can take the shape of animals, including insects and birds, which are sent out on tasks at the command of a witch or magician. Witch hunters during the Inquisition accused witches of rewarding their imps for evil deeds by suckling them with their own BLOOD, which the imps sucked from fi ngers, warts, breasts, or any protuberance on the skin. In England the Lincoln Imp is a carved stone demon on a column in the Angel Choir at the cathedral in Lincoln, constructed in the 12th century and once the tallest structure in the world. The grinning imp is in a seated position with one leg crossed over the other. There are different versions of the legend. One version tells in rhyme that one day the Devil was in good spirits and let his young demons out to play. One rode on the wind to Lindum (Lincoln) and ordered the wind to take him into the church, intending to wreak havoc there. The imp started breaking things in the Angel Choir and was turned to stone by angels in punishment. Another version says that in the 14th century, the Devil sent two imps out to make mischief. First, they went to Chesterfi eld and twisted the spire of the church there, and then they went to Lincoln Cathedral. They tripped the bishop and smashed tables and chairs and started to destroy the Angel Choir. An angel ordered them to stop. One of the imps defi antly fl ew up to a stone pillar and began to throw heavy objects at the angel. The angel turned."
     },
     {
-        "name": "Incantation Bowl",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Incubus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Infestation",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "International Association of Exorcists",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Ipos",
         "description": "FALLEN ANGEL and 22nd of the 72 SPIRITS OF SOLOMON. Ipos is an earl and prince who rules 36 LEGIONs of DEMONs. He appears as an angel with a lion’s head, goose feet, and a hare’s tail; JOHANN WEYER said he appears either as an ANGEL or as an evil and crafty lion. Ipos knows the past and future and imparts wisdom and courage. He makes men witty"
-    },
-    {
-        "name": "Iron",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Isacaaron",
@@ -963,18 +717,6 @@
     },
     {
         "name": "Jesus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "John Bosco (1815-1888)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Johnson, Carl Leonard (1954 -)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Kabbalah (Cabala, Kabalam Qabalah)",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
