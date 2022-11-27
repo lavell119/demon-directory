@@ -101,7 +101,9 @@
     },
     {
         "name": "Andra (Indra)",
-        "description": "In ZOROASTRIANISM, the archDEMON known as the Slayer and Fighter, who turns humans away from virtue. Andra opposes the good spirit, or amesha spenta, of Artvahisht. He also punishes the souls doomed to HELL"
+        "description": "In ZOROASTRIANISM, the archDEMON known as the Slayer and Fighter, who turns humans away from virtue. Andra opposes the good spirit, or amesha spenta, of Artvahisht. He also punishes the souls doomed to HELL",
+        "image": "images/andra.jpg"
+
         
 
     },
@@ -112,7 +114,7 @@
     },
     {
         "name": "Andrealphus",
-        "description": "FALLEN ANGEL and 65th of the 72 SPIRITS OF SOLOMON. Andrealphus is a mighty marquis, who rules 30 LEGIONs. He fi rst appears as a noisy peacock and then as a human. He can transform people into birds and make them very cunning. He teaches perfect geometry and everything pertaining to measurements, as well as astronomy.",
+        "description": "FALLEN ANGEL and 65th of the 72 SPIRITS OF SOLOMON. Andrealphus is a mighty marquis, who rules 30 LEGIONs. He first appears as a noisy peacock and then as a human. He can transform people into birds and make them very cunning. He teaches perfect geometry and everything pertaining to measurements, as well as astronomy.",
         "image": "images/andrealphus.jpg"
 
     },
@@ -121,14 +123,6 @@
         "description": "FALLEN ANGEL and 72nd of the 72 SPIRITS OF SOLOMON. Andromalius is a great earl in HELL. He appears as a man holding a SERPENT. He returns stolen goods, reveals thieves, discovers wicked deeds and underhanded dealings, and reveals hidden treasures. He rules 36 LEGIONs of DEMONs.",
         "image": "images/andromalius.webp"
 
-    },
-    {
-        "name": "Angel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },{
-        "name": "Angels of Mastemoth",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
-        "image": "images/angelsofmastemoth.jpg"
     },
     {
         "name": "Antaura",
@@ -141,17 +135,14 @@
     },
     {
         "name": "Armadiel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Armadiel rules as a king in the northeast. His 15 chief dukes each have 1,260 servants, who are goodnatured but must be summoned at the appropriate hour. Armadiel’s 15 major dukes are Nassar, Parabiel, Lariel, Calvamia, Orariel, Alferiel, Oryn, Samiet, Asmaiel, Jasziel, Pandiel, Carasiba, Asbibiel, Mafayr, and Oemiel."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Armadiel rules as a king in the northeast. His 15 chief dukes each have 1,260 servants, who are goodnatured but must be summoned at the appropriate hour. Armadiel’s 15 major dukes are Nassar, Parabiel, Lariel, Calvamia, Orariel, Alferiel, Oryn, Samiet, Asmaiel, Jasziel, Pandiel, Carasiba, Asbibiel, Mafayr, and Oemiel.",
+        "image": "images/armadiel.jpg"
+
     },
     {
         "name": "Asag (asakku)",
         "description": "A type of Sumerian DEMON that attacks humans and kills them with head and fever diseases. Asag also is the proper name of a monstrous demon in the Sumerian poem Lugale. Asag is the offspring of An, the sky god, and Ki, the earth goddess. He is hideous and has the power to make fi sh boil in their rivers. His allies are the stones of mountains. The poem relates how Asag battles the hero god Ninurta and is defeated. This allows Ninurta to organize the world and use stones to construct the mountains so that streams and lakes fl ow into the Tigris and Euphrates Rivers, thereby aiding irrigation for agriculture.",
         "image": "images/asag.jpg"
-
-    },
-    {
-        "name": "Aseliel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Asmodeus",
@@ -167,7 +158,8 @@
     {
         "name": "Astovidotu",
         "description": "In ZOROASTRIANISM, the red DEMON who binds the soul at death and separates it from the body. Astrovidotu is often mentioned in association with AESHMA, the principal demon of evil. He is called the “creation of the demons” in Pahlavi texts.",
-        "image": "images/asyriel.jpg"
+        "image": "images/Astovidotu2.jpg"
+        
 
     },
     {
@@ -175,14 +167,6 @@
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Asyriel serves under CASPIEL as a king ruling the southwest. He commands 20 dukes under the day and 20 under the night, each of which has servants who are willing to obey the commands of those who summon them. The eight major dukes of the day under Asyriel are Astor, Carga, Buniet, Rabas, Arcisat, Aariel, Cusiel, and Maguel. The eight under the night are Amiel, Cusriet, Maroth, Omiel, Budar, Aspeil, Faseua, and Hamas",
         "image": "images/asyriel.jpg"
 
-    },
-    {
-        "name": "Aupetit, Pierre",
-        "description": "French priest executed on charges of sorcery and traffi cking with the DEVIL. Pierre Aupetit, who lived in Fossas, Limousin, was 50 years old when he was arrested and tried. He was tortured and on the rack and confessed. Aupetit said that he had attended SABBATs, where witches had kissed the anus of the Devil, who was in the shape of a black sheep. Aupetit had read from a book of spells. He had been given a FAMILIAR, the DEMON BEELZEBUB, and had the demon’s little fi nger. Beelzebub had taught him how to procure the love of any woman or girl of his choosing. Aupetit also said he had been taught the arts of sorcery by a known sorcerer named Crapouplet, who showed him how to staunch the fl ow of BLOOD and how to use levers. Aupetit was burned on May 25, 1598."
-    },
-    {
-        "name": "Autak",
-        "description": "In ZOROASTRIANISM, the DEMON who makes men speak when they should be silent, and who interferes in their physical labors. Autak is a female demon who also is associated with incest, and is sometimes associated with DRUJ. She is half human and half monster."
     },
     {
         "name": "Az (Azi)",
@@ -295,7 +279,8 @@
     },
     {
         "name": "Bernael",
-        "description": "ANGEL of darkness and evil equated with BELIAL. Bernael sometimes is equated with Haziel, who is otherwise a cherub and good angel."
+        "description": "ANGEL of darkness and evil equated with BELIAL. Bernael sometimes is equated with Haziel, who is otherwise a cherub and good angel.",
+        "image": "images/bernael.jpg"
     },
     {
         "name": "Bidiel",
@@ -315,7 +300,8 @@
     },
     {
         "name": "Black Dogs",
-        "description": "Spectral animals associated with demonic powers, death, and disaster. Phantom black dogs are widespread in folklore. They are said to be DEMONs or the DEVIL in shape-shifted form or a demonic animal companion of demons. Spectral black dogs are often unusually large and have glowing red or yellow eyes. They give out an unearthly, bone-chilling howl. They like to roam remote areas of the countryside. The sight of one is a harbinger of death or disaster. Sometimes spectral black dogs appear in the middle of lonely roads. If they are struck by a car, they disappear and the vehicle is not damaged. One famous black dog in English folklore is Black Shuck. Shuck derives from an old Anglo-Saxon term, scucca or sceocca, meaning 'demon' or 'Satan'. During the European witch hunts, witches were often said to have familiars in the form of black dogs, or to be visited by their master, the Devil, in the shape of a black dog. In Arabian lore, black dogs are a favorite form taken by the DJINN. If a djinn becomes attached to a human, it may assume the shape of a black dog in order to get close to that person."
+        "description": "Spectral animals associated with demonic powers, death, and disaster. Phantom black dogs are widespread in folklore. They are said to be DEMONs or the DEVIL in shape-shifted form or a demonic animal companion of demons. Spectral black dogs are often unusually large and have glowing red or yellow eyes. They give out an unearthly, bone-chilling howl. They like to roam remote areas of the countryside. The sight of one is a harbinger of death or disaster. Sometimes spectral black dogs appear in the middle of lonely roads. If they are struck by a car, they disappear and the vehicle is not damaged. One famous black dog in English folklore is Black Shuck. Shuck derives from an old Anglo-Saxon term, scucca or sceocca, meaning 'demon' or 'Satan'. During the European witch hunts, witches were often said to have familiars in the form of black dogs, or to be visited by their master, the Devil, in the shape of a black dog. In Arabian lore, black dogs are a favorite form taken by the DJINN. If a djinn becomes attached to a human, it may assume the shape of a black dog in order to get close to that person.",
+        "image": "images/blackdog.jpg"
     },
     {
         "name": "Bogey",
@@ -335,7 +321,8 @@
     },
     {
         "name": "Buriel",
-        "description": "DEMON and a wandering duke of the air. Buriel has many dukes and servants to do his bidding. All are evil and are hated by other spirits. They must be summoned at night because they hate the day. When they appear, they have the form of a SERPENT with a virgin’s head and speak with a man’s voice. Buriel’s major 12 dukes are Merosiel, Almadiel, Cupriel, Sarviel, Casbriel, Nedriel, Bufi el, Futiel, Drusiel, Camiel, Drubiel, and Nastros."
+        "description": "DEMON and a wandering duke of the air. Buriel has many dukes and servants to do his bidding. All are evil and are hated by other spirits. They must be summoned at night because they hate the day. When they appear, they have the form of a SERPENT with a virgin’s head and speak with a man’s voice. Buriel’s major 12 dukes are Merosiel, Almadiel, Cupriel, Sarviel, Casbriel, Nedriel, Bufi el, Futiel, Drusiel, Camiel, Drubiel, and Nastros.",
+        "image": "images/buriel.png"
     },
     {
         "name": "Bushyasta",
@@ -348,10 +335,6 @@
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Cabariel is a prince of the west and north, with 50 attending dukes during the day and 50 more at night. Each duke has 50 servants, who appear when the dukes are summoned. The daytime dukes and servants are good-natured, but the nighttime demons are deceitful, disobedient, and evil. The 10 most important dukes of the day are Satifi el, Parius, Godiel, Taros, Asoriel, Etimiel, Clyssan, Elitel, Aniel, and Cuphal. The 10 most important dukes of nighttime are Mador, Peniet, Cugiel, Thalbus, Otim, Ladiel, Morlas, Pandor, Cazul, and Dubiel.",
         "image": "images/cabariel.png"
 
-    },
-    {
-        "name": "Cagliostro, Count",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Caim (Caym, Camio)",
@@ -649,15 +632,19 @@
     },
     {
         "name": "Head of the Dragon",
-        "description": "DEMON in the form of a three headed dragon with awful skin. In the Testament of Solomon, the Head of the Dragons is a three-pronged spirit that is responsible for birth defects and epilepsy. He says he overpowers others through three deeds: He can enter the wombs of women and blind the unborn, turn their ears around backward and make them deaf and dumb, and make men fall down, grind their teeth, and foam at the mouth. He is thwarted by an “angel of the Counselor” (Christ) at Golgotha. The demon tells King SOLOMON that a great deal of gold lies beneath the foundation of the Temple of Jerusalem, which Solomon has under construction. Solomon finds the gold and binds the demon with his magical ring. He sentences the demon to make bricks for the temple."
+        "description": "DEMON in the form of a three headed dragon with awful skin. In the Testament of Solomon, the Head of the Dragons is a three-pronged spirit that is responsible for birth defects and epilepsy. He says he overpowers others through three deeds: He can enter the wombs of women and blind the unborn, turn their ears around backward and make them deaf and dumb, and make men fall down, grind their teeth, and foam at the mouth. He is thwarted by an “angel of the Counselor” (Christ) at Golgotha. The demon tells King SOLOMON that a great deal of gold lies beneath the foundation of the Temple of Jerusalem, which Solomon has under construction. Solomon finds the gold and binds the demon with his magical ring. He sentences the demon to make bricks for the temple.",
+        "image": "images/headofthedragon.jpg"
+
     },
     {
         "name": "Hecataea",
-        "description": " Greek lore, frightening DEMONs and apparitions who are considered to be the “children” of Hecate, goddess of the underworld, dark Moon, ghosts, and magic. The Hecataea appear at the goddess’ bidding."
+        "description": " Greek lore, frightening DEMONs and apparitions who are considered to be the “children” of Hecate, goddess of the underworld, dark Moon, ghosts, and magic. The Hecataea appear at the goddess’ bidding.",
+        "image": "images/hecate.webp"
     },
     {
         "name": "Hel",
-        "description": "In Norse mythology, the goddess and ruler of Helheim, the realm of the dead. Hel is the youngest child of the evil god Loki and the giantess Angrboda. She is usually described as a horrible hag, half-alive and half-dead (half-blue-black and half-fl esh-colored), with a gloomy and grim expression. Her face and body are those of a living woman, but her thighs and legs are those of a corpse, mottled and moldering. Hel was cast into the underworld after being abducted by the gods. Her hall in Helheim is called Eljudnir (Sleet-Cold), the home of the dead, and has high walls. Her manservant is Ganglati and her maidservant is Ganglot (tardy)."
+        "description": "In Norse mythology, the goddess and ruler of Helheim, the realm of the dead. Hel is the youngest child of the evil god Loki and the giantess Angrboda. She is usually described as a horrible hag, half-alive and half-dead (half-blue-black and half-fl esh-colored), with a gloomy and grim expression. Her face and body are those of a living woman, but her thighs and legs are those of a corpse, mottled and moldering. Hel was cast into the underworld after being abducted by the gods. Her hall in Helheim is called Eljudnir (Sleet-Cold), the home of the dead, and has high walls. Her manservant is Ganglati and her maidservant is Ganglot (tardy).",
+        "image": "images/hel.webp"
     },
     {
         "name": "Hell",
@@ -665,7 +652,8 @@
     },
     {
         "name": "Hemah",
-        "description": "Angel of wrath, fury, and destruction who governs the death of domestic animals. According to Jewish lore, Hemah lives in the seventh heaven; he is 500 parasangs tall and is made of chains of black and red fire. A parasang is a Persian unit of measurement used to describe the dimensions of the heavens and the distances between them, and the heights of angels. One parasang equals approximately 3.88 miles. In the Zohar, Hemah is one of three angels in Gehenna (see HELL)—along with Af and Mashit—who punish those who sin by idolatry, incest, and murder. Hemah swallows Moses with the help of his brother angel Af. God intervenes and forces him to spit Moses out again. Moses then kills Hemah"
+        "description": "Angel of wrath, fury, and destruction who governs the death of domestic animals. According to Jewish lore, Hemah lives in the seventh heaven; he is 500 parasangs tall and is made of chains of black and red fire. A parasang is a Persian unit of measurement used to describe the dimensions of the heavens and the distances between them, and the heights of angels. One parasang equals approximately 3.88 miles. In the Zohar, Hemah is one of three angels in Gehenna (see HELL)—along with Af and Mashit—who punish those who sin by idolatry, incest, and murder. Hemah swallows Moses with the help of his brother angel Af. God intervenes and forces him to spit Moses out again. Moses then kills Hemah.",
+        "image": "images/hemah.webp"
     },
     {
         "name": "Huli Jing",
@@ -680,8 +668,9 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Ilibis",
-        "description": "In Islam, the DEVIL. Iblis is Arabian for “despair.” The exact origin and nature of Iblis are uncertain. His name is the primary name for the Devil; he is also described as the chief and father of the DJINN and an ANGEL. He can assume any form, but he is most frequently portrayed as a vain entity who has the head of an ass and is decorated with peacock feathers (see ADRAMELECH). Iblis is mentioned nine times in the Qur’an; seven of the references concern his fall from God’s grace. His other name, Shaytan, is used in context of his rebellion against God. Sura 18:50 in the Qur’an states that Iblis “was one of the djinn, and he broke the command his Lord.” Like other djinn, Iblis was created by God of smokeless fire. Suras 7:12 and 38:76 refer to his creation from fire. However, the Qur’an also indicates that Iblis was treated as an angel. When Allah created Adam, he ordered all the angels to bow down and worship him. Iblis was among those who refused, claiming that a being made of dust was beneath him, a being of fi re. Allah cursed Iblis for his pride and expelled him from heaven. Iblis persuaded Allah to delay further punishment until the Day of Judgment. God gave him the right to roam the earth, tempting people, and to destroy those who yield to temptation. He cannot compel people to sin but only lure them to make the choice. He is aided by the Shaytan, also the name of a type of djinn, who serves under him"
+        "name": "Iblis",
+        "description": "In Islam, the DEVIL. Iblis is Arabian for “despair.” The exact origin and nature of Iblis are uncertain. His name is the primary name for the Devil; he is also described as the chief and father of the DJINN and an ANGEL. He can assume any form, but he is most frequently portrayed as a vain entity who has the head of an ass and is decorated with peacock feathers (see ADRAMELECH). Iblis is mentioned nine times in the Qur’an; seven of the references concern his fall from God’s grace. His other name, Shaytan, is used in context of his rebellion against God. Sura 18:50 in the Qur’an states that Iblis “was one of the djinn, and he broke the command his Lord.” Like other djinn, Iblis was created by God of smokeless fire. Suras 7:12 and 38:76 refer to his creation from fire. However, the Qur’an also indicates that Iblis was treated as an angel. When Allah created Adam, he ordered all the angels to bow down and worship him. Iblis was among those who refused, claiming that a being made of dust was beneath him, a being of fi re. Allah cursed Iblis for his pride and expelled him from heaven. Iblis persuaded Allah to delay further punishment until the Day of Judgment. God gave him the right to roam the earth, tempting people, and to destroy those who yield to temptation. He cannot compel people to sin but only lure them to make the choice. He is aided by the Shaytan, also the name of a type of djinn, who serves under him.",
+        "image": "images/iblis.jpg"
     },
     {
         "name": "Icosiel",
@@ -689,7 +678,8 @@
     },
     {
         "name": "Imp",
-        "description": "A small DEMON usually kept inside a bottle or ring. An imp is like a FAMILIAR and is comparable to the DJINN. It is evoked for magical purposes. Imps are both good and evil. As familiars, imps can take the shape of animals, including insects and birds, which are sent out on tasks at the command of a witch or magician. Witch hunters during the Inquisition accused witches of rewarding their imps for evil deeds by suckling them with their own BLOOD, which the imps sucked from fi ngers, warts, breasts, or any protuberance on the skin. In England the Lincoln Imp is a carved stone demon on a column in the Angel Choir at the cathedral in Lincoln, constructed in the 12th century and once the tallest structure in the world. The grinning imp is in a seated position with one leg crossed over the other. There are different versions of the legend. One version tells in rhyme that one day the Devil was in good spirits and let his young demons out to play. One rode on the wind to Lindum (Lincoln) and ordered the wind to take him into the church, intending to wreak havoc there. The imp started breaking things in the Angel Choir and was turned to stone by angels in punishment. Another version says that in the 14th century, the Devil sent two imps out to make mischief. First, they went to Chesterfi eld and twisted the spire of the church there, and then they went to Lincoln Cathedral. They tripped the bishop and smashed tables and chairs and started to destroy the Angel Choir. An angel ordered them to stop. One of the imps defi antly fl ew up to a stone pillar and began to throw heavy objects at the angel. The angel turned."
+        "description": "A small DEMON usually kept inside a bottle or ring. An imp is like a FAMILIAR and is comparable to the DJINN. It is evoked for magical purposes. Imps are both good and evil. As familiars, imps can take the shape of animals, including insects and birds, which are sent out on tasks at the command of a witch or magician. Witch hunters during the Inquisition accused witches of rewarding their imps for evil deeds by suckling them with their own BLOOD, which the imps sucked from fi ngers, warts, breasts, or any protuberance on the skin. In England the Lincoln Imp is a carved stone demon on a column in the Angel Choir at the cathedral in Lincoln, constructed in the 12th century and once the tallest structure in the world. The grinning imp is in a seated position with one leg crossed over the other. There are different versions of the legend. One version tells in rhyme that one day the Devil was in good spirits and let his young demons out to play. One rode on the wind to Lindum (Lincoln) and ordered the wind to take him into the church, intending to wreak havoc there. The imp started breaking things in the Angel Choir and was turned to stone by angels in punishment. Another version says that in the 14th century, the Devil sent two imps out to make mischief. First, they went to Chesterfi eld and twisted the spire of the church there, and then they went to Lincoln Cathedral. They tripped the bishop and smashed tables and chairs and started to destroy the Angel Choir. An angel ordered them to stop. One of the imps defi antly fl ew up to a stone pillar and began to throw heavy objects at the angel. The angel turned.",
+        "image": "images/imp.webp"
     },
     {
         "name": "Incubus",
@@ -697,7 +687,8 @@
     },
     {
         "name": "Ipos",
-        "description": "FALLEN ANGEL and 22nd of the 72 SPIRITS OF SOLOMON. Ipos is an earl and prince who rules 36 LEGIONs of DEMONs. He appears as an angel with a lion’s head, goose feet, and a hare’s tail; JOHANN WEYER said he appears either as an ANGEL or as an evil and crafty lion. Ipos knows the past and future and imparts wisdom and courage. He makes men witty"
+        "description": "FALLEN ANGEL and 22nd of the 72 SPIRITS OF SOLOMON. Ipos is an earl and prince who rules 36 LEGIONs of DEMONs. He appears as an angel with a lion’s head, goose feet, and a hare’s tail; JOHANN WEYER said he appears either as an ANGEL or as an evil and crafty lion. Ipos knows the past and future and imparts wisdom and courage. He makes men witty.",
+        "image": "images/ipos.webp"
     },
     {
         "name": "Isacaaron",
@@ -705,7 +696,8 @@
     },
     {
         "name": "Itzpapalotl",
-        "description": "Aztec female DEMON and patroness of witches. The name Itzpapalotl means “obsidian knife butterfl y.” She can wear a magic cloak that turns her into a butterfly. Sometimes she appears in a more demonic form, as a female with large butterfl y wings edged with obsidian knives, a skull head covered in thick white makeup, a knife for a tongue, fingers with jaguar claws, and toes with eagle claws. Itzpapalotl once resided in heaven but fell along with the TZITZIMIME. As a demon, she took over the ruling of witches and presides over 13 unlucky signs of the calendar. On those days, she takes a horde of dead witches, who have shape shifted into butterflies and flies, through towns and forests, shrieking and screaming. In order to appease her and her horde, people sacrifice deer."
+        "description": "Aztec female DEMON and patroness of witches. The name Itzpapalotl means “obsidian knife butterfl y.” She can wear a magic cloak that turns her into a butterfly. Sometimes she appears in a more demonic form, as a female with large butterfl y wings edged with obsidian knives, a skull head covered in thick white makeup, a knife for a tongue, fingers with jaguar claws, and toes with eagle claws. Itzpapalotl once resided in heaven but fell along with the TZITZIMIME. As a demon, she took over the ruling of witches and presides over 13 unlucky signs of the calendar. On those days, she takes a horde of dead witches, who have shape shifted into butterflies and flies, through towns and forests, shrieking and screaming. In order to appease her and her horde, people sacrifice deer.",
+        "image": "images/itzpapalotl.webp"
     },
     {
         "name": "James VI and I (1566-1625)",
@@ -729,7 +721,8 @@
     },
     {
         "name": "Kesilim",
-        "description": "In Jewish demonology, DEMONs who play tricks, misguide people, and make fun of them. Kesilim means “fooling spirits.” The kesilim appear in a 17thce ntury book, Emek ha-Melekh. Related to them is a type of low demon, the lezim (jesters), who act as poltergeists and throw things about a house."
+        "description": "In Jewish demonology, DEMONs who play tricks, misguide people, and make fun of them. Kesilim means “fooling spirits.” The kesilim appear in a 17thce ntury book, Emek ha-Melekh. Related to them is a type of low demon, the lezim (jesters), who act as poltergeists and throw things about a house.",
+        "image": "images/kesilim.jpg"
     },
     {
         "name": "Kitsune",
@@ -737,7 +730,8 @@
     },
     {
         "name": "Kokabiel",
-        "description": "FALLEN ANGEL also described as a good angel. Kokabiel means “star of God.” In 1 Enoch Kokabiel is a fallen angel who commands 365,000 DEMONs In 3 Enoch he is prince of the stars, commanding 365,000 myriads of ministering angels who make the stars run from city to city and from state to state in the Raqia’ of the heavens. In the Sefer Raziel, Kokabiel is a high-ranking angel."
+        "description": "FALLEN ANGEL also described as a good angel. Kokabiel means “star of God.” In 1 Enoch Kokabiel is a fallen angel who commands 365,000 DEMONs In 3 Enoch he is prince of the stars, commanding 365,000 myriads of ministering angels who make the stars run from city to city and from state to state in the Raqia’ of the heavens. In the Sefer Raziel, Kokabiel is a high-ranking angel.",
+        "image": "images/kokabiel.webp"
     },
     {
         "name": "Kunda",
@@ -745,11 +739,13 @@
     },
     {
         "name": "Kunopegos",
-        "description": "DEMON in the shape of a sea horse. Kunopegos is a cruel spirit who raises himself up like great waves in the open seas, causes seasickness among sailors, and sinks ships in order to claim the bodies of men and their treasures. He consults the prince of demons, BEELZEBUB. He can go to shore as waves and shape shift into the form of a man. He is thwarted by the angel Iameth. In the Testament of Solomon, Kunopegos tells King SOLOMON that he can shape shift into a man. Solomon confines Kunopegos by casting him into a broad fl at bowl filled with 10 receptacles of seawater. The top is fortified with marble and the bowl’s mouth is covered with asphalt, pitch, and hemp rope. The vessel is sealed and stored in the Temple of Jerusalem"
+        "description": "DEMON in the shape of a sea horse. Kunopegos is a cruel spirit who raises himself up like great waves in the open seas, causes seasickness among sailors, and sinks ships in order to claim the bodies of men and their treasures. He consults the prince of demons, BEELZEBUB. He can go to shore as waves and shape shift into the form of a man. He is thwarted by the angel Iameth. In the Testament of Solomon, Kunopegos tells King SOLOMON that he can shape shift into a man. Solomon confines Kunopegos by casting him into a broad fl at bowl filled with 10 receptacles of seawater. The top is fortified with marble and the bowl’s mouth is covered with asphalt, pitch, and hemp rope. The vessel is sealed and stored in the Temple of Jerusalem.",
+        "image": "images/kunopegos.jpg"
     },
     {
         "name": "Labartu",
-        "description": "Mesopotamian goddess with demonic characteristics, associated with Lilitu, the prototype of LILITH. Labartu carries a SERPENT in each hand and attacks young children, mothers, and nurses."
+        "description": "Mesopotamian goddess with demonic characteristics, associated with Lilitu, the prototype of LILITH. Labartu carries a SERPENT in each hand and attacks young children, mothers, and nurses.",
+        "image": "images/labartu.jpg"
     },
     {
         "name": "Lactance, Father Gabriel (d. 1634)",
@@ -761,11 +757,13 @@
     },
     {
         "name": "Lamastu",
-        "description": "Babylonian and Assyrian goddess who practices evil for its own sake. Lamastu is usually translated as “demonness.” She is hideous in appearance, having the head of a lion, the teeth of a donkey, a hairy body, naked breasts, blood-stained hands with long fi ngers and fingernails, and the feet of a bird. Sometimes she is shown with donkey ears. She suckles pigs and holds SERPENTs. She floats in a boat in the river of the underworld. Lamastu causes disease in all humans. As does LILITH, she especially preys upon pregnant women, women in childbed, and newborn infants. Lamatsu goes into homes at night.She kills pregnant women by tapping on their bellies seven times. She steals infants from their wet nurses. The DEMON god PAZUZU has power over her and can force her back into the underworld. Women protected themselves against her by wearing AMULETS made of bronze and fashioned as the head of Pazuz. Offerings of centipedes and brooches were made to tempt her away."
+        "description": "Babylonian and Assyrian goddess who practices evil for its own sake. Lamastu is usually translated as “demonness.” She is hideous in appearance, having the head of a lion, the teeth of a donkey, a hairy body, naked breasts, blood-stained hands with long fi ngers and fingernails, and the feet of a bird. Sometimes she is shown with donkey ears. She suckles pigs and holds SERPENTs. She floats in a boat in the river of the underworld. Lamastu causes disease in all humans. As does LILITH, she especially preys upon pregnant women, women in childbed, and newborn infants. Lamatsu goes into homes at night.She kills pregnant women by tapping on their bellies seven times. She steals infants from their wet nurses. The DEMON god PAZUZU has power over her and can force her back into the underworld. Women protected themselves against her by wearing AMULETS made of bronze and fashioned as the head of Pazuz. Offerings of centipedes and brooches were made to tempt her away.",
+        "image": "images/lamashtu.webp"
     },
     {
         "name": "Lamiae",
-        "description": "Monstrous female birth DEMONs found in Middle Eastern and Greek lore. The lamiae are named after Lamme, a destroyer deity in Babylonian and Assyrian lore, and Lamia, who was the mistress of Zeus. Lamia was the beautiful daughter of Belus, the king of Libya, who caught Zeus’ eye. In exchange for her sexual favors, Zeus gave her the power to pluck out the eyes of people and replace them. She had several children. Hera, the wife of Zeus, was so enraged by the liaison that she killed all the offspring who resulted from the union. She condemned Lamia to give birth only to stillborn infants. In revenge, Lamia became a demon and swore to kill the children of others. She joined the EMPOUSAI, female demons similar to the SUCCUBUS. Lamia bore a large family of children, all female demons, who became known as the lamiae. They have deformed lower limbs (often depicted as SERPENTs) and the face and breasts of beautiful women. They prey upon newborns, drinking their BLOOD and consuming their flesh. In Hebrew lore, lamiae are the lilim, the demonic children-killing offspring of LILITH, Adam’s fi rst wife. JOHANN WEYER used the term lamia to describe female witches who had entered into a deceptive or imaginary PACT with the DEVIL in order to perpetrate evil."
+        "description": "Monstrous female birth DEMONs found in Middle Eastern and Greek lore. The lamiae are named after Lamme, a destroyer deity in Babylonian and Assyrian lore, and Lamia, who was the mistress of Zeus. Lamia was the beautiful daughter of Belus, the king of Libya, who caught Zeus’ eye. In exchange for her sexual favors, Zeus gave her the power to pluck out the eyes of people and replace them. She had several children. Hera, the wife of Zeus, was so enraged by the liaison that she killed all the offspring who resulted from the union. She condemned Lamia to give birth only to stillborn infants. In revenge, Lamia became a demon and swore to kill the children of others. She joined the EMPOUSAI, female demons similar to the SUCCUBUS. Lamia bore a large family of children, all female demons, who became known as the lamiae. They have deformed lower limbs (often depicted as SERPENTs) and the face and breasts of beautiful women. They prey upon newborns, drinking their BLOOD and consuming their flesh. In Hebrew lore, lamiae are the lilim, the demonic children-killing offspring of LILITH, Adam’s fi rst wife. JOHANN WEYER used the term lamia to describe female witches who had entered into a deceptive or imaginary PACT with the DEVIL in order to perpetrate evil.",
+        "image": "images/lamia.webp"
     },
     {
         "name": "Larvae",
@@ -777,7 +775,8 @@
     },
     {
         "name": "Lerajie (Leraie, Lerayou, Oray)",
-        "description": "FALLEN ANGEL and 14th of the 72 SPIRITS OF SOLOMON. Lerajie is a marquis who appears as an archer, dressed in green and carrying a bow and quiver. He causes great battles and makes arrow wounds putrefy. He commands 30 LEGIONs of DEMONs"
+        "description": "FALLEN ANGEL and 14th of the 72 SPIRITS OF SOLOMON. Lerajie is a marquis who appears as an archer, dressed in green and carrying a bow and quiver. He causes great battles and makes arrow wounds putrefy. He commands 30 LEGIONs of DEMONs.",
+        "image": "images/leraje.webp"
     },
     {
         "name": "Leviathan",
@@ -785,7 +784,8 @@
     },
     {
         "name": "Leyak",
-        "description": "In Balinese lore, a sorcerer who has the ability to shape shift into a DEMON, causing death and destruction to people, animals, and crops. The leyak also is the cause of all bad events and misfortunes. While the sorcerer sleeps, the leyak fl ies in the night skies in the form of a mysterious light, a monkey, or a bird. If the leyak is destroyed, its human form dies instantly along with it. A leyak can remain disguised to fellow human beings indefi nitely. Usually, it is unmasked only when it is killed in its shape-shifted form."
+        "description": "In Balinese lore, a sorcerer who has the ability to shape shift into a DEMON, causing death and destruction to people, animals, and crops. The leyak also is the cause of all bad events and misfortunes. While the sorcerer sleeps, the leyak fl ies in the night skies in the form of a mysterious light, a monkey, or a bird. If the leyak is destroyed, its human form dies instantly along with it. A leyak can remain disguised to fellow human beings indefi nitely. Usually, it is unmasked only when it is killed in its shape-shifted form.",
+        "image": "images/leyak.jpg"
     },
     {
         "name": "Liderc",
@@ -801,7 +801,8 @@
     },
     {
         "name": "Lilith",
-        "description": "A female DEMON of the night and SUCCUBUS who flies about searching for newborn children to kidnap or strangle and sleeping men to seduce in order to produce demon children. Lilith is a major fi gure in Jewish demonology, appearing as early as 700 B.C.E. in the book of Isaiah; she or beings similar to her also are found in myths from other cultures around the world. She is the dark aspect of the Mother Goddess. She is the original “scarlet woman” and sometimes described as a screech owl, blind by day, who sucks the breasts or navels of young children or the dugs of goats. In addition to Jewish folklore, Lilith appears in various forms in Iranian, Babylonian, Sumerian, Canaanite, Persian, Arabic, Teutonic, Mexican, Greek, English, Asian, and Native American legends. She is sometimes associated with other characters in legend and myth, including the queen of Sheba and Helen of Troy. In medieval Europe, she was often portrayed as the wife, concubine, or grandmother of SATAN. Lilith appears in different guises in various texts. She is best known as the fi rst wife of Adam, created by God as twins joined in the back. Lilith demanded equality with Adam and, failing to get it, left him in anger. Adam complained to God that his wife had deserted him. God sent three angels, Sanvi, Sansanvi, and Semangelaf, to take Lilith back to Eden. The angels found her in the Red Sea and threatened her with the loss of 100 of her demon children every day unless she returned to Adam. She refused and was punished. Lilith took revenge by launching a reign of terror against women in childbirth, newborn infants—particularly males—and men who slept alone. She was forced, however, to swear to the three angels that whenever she saw their names or images on an amulet, she would leave infants and mothers alone. After the Fall, Adam spent 130 years separated from Eve, during which Lilith went to him and satisfi ed him during sleep. They had a son, who became a frog. The earliest account of Lilith appears in a midrash, Alpha Bet Ben Sira, which attempts to resolve the discrepancies in the Torah about the creation of Lilith in Genesis, followed by the creation of Eve just a few passages later. In the midrash, God created Lilith in the same way as he did Adam, but he used fi lth and impure sediment instead of dust from the earth. Adam and Lilith were at odds with each other from the beginning, and she refused to lie beneath him during intercourse. When she saw that Adam would gain power over her, she uttered the ineffable name of God and fl ew off to a cave in the desert near the Red Sea. There, as queen of Zemargad or queen of the desert, she engaged in promiscuity, including with demons, and gave birth to 100 demonic offspring called lilim every day. The daughters all practice SORCERY, seduction, and strangling. She became the bride of SAMAEL, the DEVIL (in some accounts called Ashmodai, or ASMODEUS), in a union arranged by the Blind Dragon, an entity who has been castrated so that his offspring will not overcome the world. The lilim are hairy beings, having hair everywhere on their faces and bodies except their heads. In a text preceding the Zohar, Lilith and Samael are born joined as androgynous twins from an emanation beneath the throne of glory. They are the lower aspects of another androgynous twin, Adam and Eve. In the Zohar, Lilith arises from an evil shell or husk, a KELIPPAH, that is created in the waning of the Moon. In the beginning, the Sun and Moon were equal, and this created a rivalry. To end it, God diminished the Moon and made it rule the night. Lilith’s powers are at their peak when the Moon is dark. She is the seducer of men and the strangler of children; the latter role is sometimes attributed to NAAMAH. Lilith, who has the upper body of a beautiful woman and a lower body of fire, carries the fi ery resentment of the Moon. Lilith lurks under doorways, in wells, and in latrines, waiting to seduce men. She is adorned with the “ornaments for seduction”: Her hair is long and red like the rose, her cheeks are white and red, from her ears hang six ornaments, Egyptian cords and all the ornaments of the Land of the East hang from her nape. Her mouth is set like a narrow door comely in its decor, her tongue is sharp like a sword, her words are smooth like oil, her lips are red like a rose and sweetened by all the sweetness in the world. She is dressed in scarlet and adorned with forty ornaments less one. Men who sleep alone are especially vulnerable to Lilith. The Zohar also describes Lilith as a female aspect of LEVIATHAN, who has a SERPENT body. She is Leviathan, the Tortuous Serpent, the counterpart to the male aspect, Leviathon, the Slant Serpent. Lilith is the serpent who tempts Eve with the apple of forbidden knowledge in paradise and thus instigates the Fall. She also persuades Eve to seduce Adam while she is menstruating and impure. The numerical value of Lilith’s name equals the Hebrew word for “screech.” Thus, Lilith is the “demon of screeching” and “the princess of screeching” and is personified as a screech owl. In legend, on the Day of Atonement, Lilith spends the day in a screeching battle with MAHALATH, a concubine to Samael. They taunt each other so much that the very earth trembles. Also on the Day of Atonement, Lilith goes forth into the desert with 420 LEGIONs of her demons, and they march about while she screeches. Lilith is also known as Lady of the Beasts, who rules the wilderness and all beasts, the animal side of human nature. In her guise as the queen of Sheba, she attempted to seduce King SOLOMON. He discovered her true nature by having the DJINN build a throne room with a fl oor of glass. Lilith mistook it for water and raised her garments in order to cross it to his throne. Her hairy, bestial legs were revealed in the refl ection of the glass. AMULETs and INCANTATION BOWLs traditionally protected new mothers and infants against Lilith. Common amulets were knives and hands inscribed with CHARMs; some had bells attached. Frogs also protect against her. Male infants were vulnerable for the first week of life, girls for the fi rst three weeks. Sometimes a magic circle was drawn around the lying-in bed, with a charm inscribed with the names of the three angels, Adam and Eve, and the words barring Lilith or protect this newborn child from all harm. Sometimes amulets with such inscriptions were placed in all corners of and throughout the bedchamber. If a child laughed in its sleep, it was a sign that Lilith was present. Tapping the child on the nose made the demon go away. According to lore, men who had nocturnal emissions believed they had been seduced by Lilith during the night and had to say incantations to prevent the offspring from becoming demons. Any seed spilled during sex, even marital sex, is at risk for becoming lilim."
+        "description": "A female DEMON of the night and SUCCUBUS who flies about searching for newborn children to kidnap or strangle and sleeping men to seduce in order to produce demon children. Lilith is a major fi gure in Jewish demonology, appearing as early as 700 B.C.E. in the book of Isaiah; she or beings similar to her also are found in myths from other cultures around the world. She is the dark aspect of the Mother Goddess. She is the original “scarlet woman” and sometimes described as a screech owl, blind by day, who sucks the breasts or navels of young children or the dugs of goats. In addition to Jewish folklore, Lilith appears in various forms in Iranian, Babylonian, Sumerian, Canaanite, Persian, Arabic, Teutonic, Mexican, Greek, English, Asian, and Native American legends. She is sometimes associated with other characters in legend and myth, including the queen of Sheba and Helen of Troy. In medieval Europe, she was often portrayed as the wife, concubine, or grandmother of SATAN. Lilith appears in different guises in various texts. She is best known as the fi rst wife of Adam, created by God as twins joined in the back. Lilith demanded equality with Adam and, failing to get it, left him in anger. Adam complained to God that his wife had deserted him. God sent three angels, Sanvi, Sansanvi, and Semangelaf, to take Lilith back to Eden. The angels found her in the Red Sea and threatened her with the loss of 100 of her demon children every day unless she returned to Adam. She refused and was punished. Lilith took revenge by launching a reign of terror against women in childbirth, newborn infants—particularly males—and men who slept alone. She was forced, however, to swear to the three angels that whenever she saw their names or images on an amulet, she would leave infants and mothers alone. After the Fall, Adam spent 130 years separated from Eve, during which Lilith went to him and satisfi ed him during sleep. They had a son, who became a frog. The earliest account of Lilith appears in a midrash, Alpha Bet Ben Sira, which attempts to resolve the discrepancies in the Torah about the creation of Lilith in Genesis, followed by the creation of Eve just a few passages later. In the midrash, God created Lilith in the same way as he did Adam, but he used fi lth and impure sediment instead of dust from the earth. Adam and Lilith were at odds with each other from the beginning, and she refused to lie beneath him during intercourse. When she saw that Adam would gain power over her, she uttered the ineffable name of God and fl ew off to a cave in the desert near the Red Sea. There, as queen of Zemargad or queen of the desert, she engaged in promiscuity, including with demons, and gave birth to 100 demonic offspring called lilim every day. The daughters all practice SORCERY, seduction, and strangling. She became the bride of SAMAEL, the DEVIL (in some accounts called Ashmodai, or ASMODEUS), in a union arranged by the Blind Dragon, an entity who has been castrated so that his offspring will not overcome the world. The lilim are hairy beings, having hair everywhere on their faces and bodies except their heads. In a text preceding the Zohar, Lilith and Samael are born joined as androgynous twins from an emanation beneath the throne of glory. They are the lower aspects of another androgynous twin, Adam and Eve. In the Zohar, Lilith arises from an evil shell or husk, a KELIPPAH, that is created in the waning of the Moon. In the beginning, the Sun and Moon were equal, and this created a rivalry. To end it, God diminished the Moon and made it rule the night. Lilith’s powers are at their peak when the Moon is dark. She is the seducer of men and the strangler of children; the latter role is sometimes attributed to NAAMAH. Lilith, who has the upper body of a beautiful woman and a lower body of fire, carries the fi ery resentment of the Moon. Lilith lurks under doorways, in wells, and in latrines, waiting to seduce men. She is adorned with the “ornaments for seduction”: Her hair is long and red like the rose, her cheeks are white and red, from her ears hang six ornaments, Egyptian cords and all the ornaments of the Land of the East hang from her nape. Her mouth is set like a narrow door comely in its decor, her tongue is sharp like a sword, her words are smooth like oil, her lips are red like a rose and sweetened by all the sweetness in the world. She is dressed in scarlet and adorned with forty ornaments less one. Men who sleep alone are especially vulnerable to Lilith. The Zohar also describes Lilith as a female aspect of LEVIATHAN, who has a SERPENT body. She is Leviathan, the Tortuous Serpent, the counterpart to the male aspect, Leviathon, the Slant Serpent. Lilith is the serpent who tempts Eve with the apple of forbidden knowledge in paradise and thus instigates the Fall. She also persuades Eve to seduce Adam while she is menstruating and impure. The numerical value of Lilith’s name equals the Hebrew word for “screech.” Thus, Lilith is the “demon of screeching” and “the princess of screeching” and is personified as a screech owl. In legend, on the Day of Atonement, Lilith spends the day in a screeching battle with MAHALATH, a concubine to Samael. They taunt each other so much that the very earth trembles. Also on the Day of Atonement, Lilith goes forth into the desert with 420 LEGIONs of her demons, and they march about while she screeches. Lilith is also known as Lady of the Beasts, who rules the wilderness and all beasts, the animal side of human nature. In her guise as the queen of Sheba, she attempted to seduce King SOLOMON. He discovered her true nature by having the DJINN build a throne room with a fl oor of glass. Lilith mistook it for water and raised her garments in order to cross it to his throne. Her hairy, bestial legs were revealed in the refl ection of the glass. AMULETs and INCANTATION BOWLs traditionally protected new mothers and infants against Lilith. Common amulets were knives and hands inscribed with CHARMs; some had bells attached. Frogs also protect against her. Male infants were vulnerable for the first week of life, girls for the fi rst three weeks. Sometimes a magic circle was drawn around the lying-in bed, with a charm inscribed with the names of the three angels, Adam and Eve, and the words barring Lilith or protect this newborn child from all harm. Sometimes amulets with such inscriptions were placed in all corners of and throughout the bedchamber. If a child laughed in its sleep, it was a sign that Lilith was present. Tapping the child on the nose made the demon go away. According to lore, men who had nocturnal emissions believed they had been seduced by Lilith during the night and had to say incantations to prevent the offspring from becoming demons. Any seed spilled during sex, even marital sex, is at risk for becoming lilim.",
+        "image": "images/lilith.jpg"
     },
     {
         "name": "Lilitu",
