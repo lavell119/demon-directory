@@ -419,7 +419,6 @@
     {
         "name": "Dorochiel",
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Dorochiel rules in the west and north as a prince. Forty dukes attend him during the day and 40 more at night. In order to summon the dukes and their servants, a magician must pay attention to the planetary hours when they rule. All are good-natured and agreeable. The 12 dukes of the morning are Magael, Artino, Efi el, Maniel/ Efi el, Suriet/Maniel, Carsiel/Suriel, Casiel, Fabiel, Carba, Merach, Althor, and Omiel. The 12 dukes of the afternoon are Gudiel, Asphor, Emuel, Soriel, Cabron, Diviel, Abriel, Danael, Lomor, Casael, Buisiel, and Larfos. The 12 dukes of the early evening are Nahaiel, Ofsiel, Bulls, Momel, Darborl, Paniel, Cursas, Aliel, Aroziel, Cusyne, Vraniel,  and Pelusar. The 12 dukes who govern after midnight are Pafi el, Gariel, Soriel, Maziel, Futiel, Cayros, Narsial, Moziel, Abael, Meroth, Cadriel, and Lodiel."
-
     },
     {
         "name": "Dregvant",
@@ -723,10 +722,6 @@
         "image": "images/labartu.jpg"
     },
     {
-        "name": "Lactance, Father Gabriel (d. 1634)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Lahmu",
         "description": "Benevolent Assyrian god who protects against evil DEMONs. Lahmu means “hairy,” a description of the god’s long hair and beard. Statues of Lahmu were placed in house and building foundations to ward off evil."
     },
@@ -742,11 +737,9 @@
     },
     {
         "name": "Larvae",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Legion",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Roman lore, evil spirits that harm and frighten the living. Larvae, also known as lemurs, are demonic ghosts of the dead who, because of their misdeeds in life, are punished in the afterlife by being sentenced to exile and eternal wandering without a home. They do not bother good men, but they harass men of evil intent. The counterpart of the larvae are lares, benevolent ghosts of the dead who guard people, homes, and places. Apuleius described both of these types of spirits in De deo Socratis: There is also another species of daemons, according to a second signifi cation, and this is a human soul, which, after its departure from the present life, does not enter into another body. I fi nd that souls of this kind are called in the ancient Latin tongue Lemures. Of these Lemures, therefore, he who, being allotted the guardianship of his posterity, dwells in a house with an appeased and tranquil power, is called a familiar [or domestic] Lar. But those are for the most part called Larvae, who, having no proper habitation, are punished with an uncertain wandering, as with a certain exile, on account of the evil deeds of their life, and become a vain terror to good, and are noxious to bad men. Romans observed a festival in May called Lemuria, for appeasing the spirits of the dead, exorcising them from households, and preventing them from causing trouble. Businesses and temples closed. The most important ritual took place on the last night of the festival, when the larvae or lemures were exorcised. The homeowner or head of the household washed his hands three times, placed black beans in his mouth, and walked barefoot through the house, making the sign of the horns with his hands (see EVIL EYE), tossing black beans over his shoulder, and saying, “With these beans I do redeem me and mine.” This incantation was repeated nine times without looking backward. The evil ghosts who followed would pick up the beans and depart, leaving the residents alone until the following year’s festival. The Greeks had a similar festival, observed in February or March. In The City of God, St. Augustine commented on larvae, believing them to be wicked demons, in reference to comments made by Plotinus: He [Plotinus] says, indeed, that the souls of men are demons, and that men become Lares if they are good, Lemures or Larvae if they are bad, and Manes if it is uncertain whether they deserve well or ill. Who does not see at a glance that this is a mere whirlpool sucking men         to moral destruction? For, however wicked men have been, if they suppose they shall become Larvae or divine Manes, they will become the worse the more love they have for infl icting injury; for, as the Larvae are hurtful demons made out of wicked men, these men must suppose that after death they will be invoked with sacrifices and divine honors that they may infl ict injuries. But this question we must not pursue. He also states that the blessed are called in Greek eudaimones, because they are good souls, that is to say, good demons, confi rming his opinion that the souls of men are demons.",
+        "image": "images/larvae.jpg"
+
     },
     {
         "name": "Lerajie (Leraie, Lerayou, Oray)",
@@ -755,7 +748,8 @@
     },
     {
         "name": "Leviathan",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Hebrew lore, primordial monster DEMON of the seas and king of beasts. Leviathan is described in the book of Job as a huge whalelike creature who is nearly invulnerable; spears do no more than tickle him: His back is made of rows of shields, Shut up closely as with a seal. . . .His sneezings fl ash forth light, And his eyes are like eyelids of the dawn. Out of the mouth go flaming torches; Sparks of fi re leap forth. . . .In his neck abides strength, And terror dances before him. The book of Jonah tells about Jonah, who flees from God’s wrath across the sea toward the city of Tarshish. Along the way, God sends a tempest, and the ship’s crew find out that Jonah is the cause. They throw him overboard and he is swallowed by Leviathan. For three days, he is imprisoned in the belly of the beast, and then God forces Leviathan to vomit him up on land. John Milton, in his epic poem Paradise Lost, describes Leviathan as “the Arch-Fiend,” who lurks about the seas around Scandinavia. He would rise to the surface and fool sailors into thinking his huge bulk was actually land. When the ships were close, he would drag them down and sink them. Leviathan was one of the possessing demons named in the LOUDUN POSSESSIONS. He is ruler of Envy, the fourth of the SEVEN DEADLY SINS. In Hebrew lore, Leviathan has two aspects, male—Leviathon, the Slant Serpent—and female—LILITH, the Tortuous Serpent.",
+        "image": "images/leviathan.jpg"
     },
     {
         "name": "Leyak",
@@ -764,15 +758,8 @@
     },
     {
         "name": "Liderc",
-        "description": "Hungarian DEMON that shape shifts into three guises: an INCUBUS, a household spirit, and a death omen light. The incubus liderc takes advantage of loneliness, masquerading as long-absent lovers and dead husbands. Once in its victim’s bed, it returns night after night and fornicates with the victim, who has a wasting death. A giveaway to the demon’s true nature is that it has one goose leg and foot, which it keeps hidden in trousers and boots. The household liderc takes the form of a featherless chicken that suddenly appears or is hatched from an egg carried in the armpit. It can never be banished once it has entered a home. The only solution is to keep it busy with tasks; otherwise, it will destroy the occupants. The flickering light liderc is a ball of light (ignis fautis) that hovers over the household where someone will soon die."
-    },
-    {
-        "name": "Ligature",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Lightning",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Hungarian DEMON that shape shifts into three guises: an INCUBUS, a household spirit, and a death omen light. The incubus liderc takes advantage of loneliness, masquerading as long-absent lovers and dead husbands. Once in its victim’s bed, it returns night after night and fornicates with the victim, who has a wasting death. A giveaway to the demon’s true nature is that it has one goose leg and foot, which it keeps hidden in trousers and boots. The household liderc takes the form of a featherless chicken that suddenly appears or is hatched from an egg carried in the armpit. It can never be banished once it has entered a home. The only solution is to keep it busy with tasks; otherwise, it will destroy the occupants. The flickering light liderc is a ball of light (ignis fautis) that hovers over the household where someone will soon die.",
+        "image": "images/liderc.jpg"
     },
     {
         "name": "Lilith",
@@ -876,11 +863,15 @@
     },
     {
         "name": "Mazzikin",
-        "description": "In Jewish lore, evil spirits who injure. The mazziqin are divided into two classes. One class comprises FALLEN ANGELs who are led by SATAN. The second class are half-spirit and half-human hybrids, divided into two subclasses. One subclass includes the night terrors such as LILITH and her hordes. The second class is the SHEDIM, the offspring of Lilith or a SUCCUBUS and men."
+        "description": "In Jewish lore, evil spirits who injure. The mazziqin are divided into two classes. One class comprises FALLEN ANGELs who are led by SATAN. The second class are half-spirit and half-human hybrids, divided into two subclasses. One subclass includes the night terrors such as LILITH and her hordes. The second class is the SHEDIM, the offspring of Lilith or a SUCCUBUS and men.",
+        "image": "images/mazzikim.jpg"
+
     },
     {
         "name": "Menadiel",
-        "description": "DEMON and wandering duke of the air. Menadiel has 20 dukes and 100 companions under his command, plus many other servants. The demons must be summoned according to planetary hours. Six chiefs dukes are Larmol, Drasiel, Clamor, Benodiel, Charsiel, and Samyel. The six lesser dukes are Barchiel, Amasiel, Baruch, Nedriel, Curasin, and Tharson."
+        "description": "DEMON and wandering duke of the air. Menadiel has 20 dukes and 100 companions under his command, plus many other servants. The demons must be summoned according to planetary hours. Six chiefs dukes are Larmol, Drasiel, Clamor, Benodiel, Charsiel, and Samyel. The six lesser dukes are Barchiel, Amasiel, Baruch, Nedriel, Curasin, and Tharson.",
+        "image": "images/menadiel.png"
+
     },
     {
         "name": "Mephistopheles (Mephistophilis, Mephistophilus, Mephostophiles)",
@@ -891,14 +882,6 @@
         "name": "Mictantencutli",
         "description": "Aztec lord of the underworld and king of DEMONs. Mictantecutli is the only Aztec deity besides the Sun god, Tonacaecutli, who wears a crown. He is depicted as a skeleton on a throne and keeps with him an owl, a clump of desert grass, a corpse, and a dish of human hearts. Mictantecutli tortures the souls of those who are imprisoned in his dark kingdom, Mictlampa. He occasionally travels to the realm of the living in search of new victims. He rules the dreaded hour of midnight, when he releases all his demons upon the world. They have free reign until daybreak.",
         "image": "images/Mictlantecuhtli.jpg"
-    },
-    {
-        "name": "Mirror",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Molitor, Simon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Moloch",
@@ -950,12 +933,9 @@
         "description": " ZOROASTRIANISM, the DEMON of want, distress, and scarcity. Niyaz is often paired with AZ, the demon of avarice, insatiability, gluttony, and lust. Niyaz is powerful and haughty and is behind the evil deeds and disasters of people’s lives and their ill-omened deaths."
     },
     {
-        "name": "Obsession",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Obyzouth",
-        "description": "Female DEMON whose principal acts of evil are to kill newborn infants and cause others to be stillborn, making her comparable to the LAMIAE and the offspring of LILITH. In the Testament of Solomon, Obyzouth appears with disheveled hair and arrogantly refuses to answer questions until King SOLOMON has purifi ed himself by washing his hands and has sat on his throne. The king complies. Obyzouth describes how she travels about every night, visiting women as they give birth and strangling their newborns. She is successful every night, going to even the remotest parts of Earth. She also injures eyes, condemns mouths, destroys minds, and makes bodies feel pain. Obyzouth says Solomon cannot give her orders. However, she is thwarted by the archangel Raphael (see THWARTING ANGELS) and admits that she will flee to the “other world” (the realm of demons) if women who are in labor write her name on a piece of parchment. The horrifi ed king has Obyzouth bound by her hair and hung in front of the Temple of Jerusalem, so that everyone who passes through will glorify the God of Israel, who has given Solomon command over the demons."
+        "description": "Female DEMON whose principal acts of evil are to kill newborn infants and cause others to be stillborn, making her comparable to the LAMIAE and the offspring of LILITH. In the Testament of Solomon, Obyzouth appears with disheveled hair and arrogantly refuses to answer questions until King SOLOMON has purified himself by washing his hands and has sat on his throne. The king complies. Obyzouth describes how she travels about every night, visiting women as they give birth and strangling their newborns. She is successful every night, going to even the remotest parts of Earth. She also injures eyes, condemns mouths, destroys minds, and makes bodies feel pain. Obyzouth says Solomon cannot give her orders. However, she is thwarted by the archangel Raphael (see THWARTING ANGELS) and admits that she will flee to the “other world” (the realm of demons) if women who are in labor write her name on a piece of parchment. The horrifi ed king has Obyzouth bound by her hair and hung in front of the Temple of Jerusalem, so that everyone who passes through will glorify the God of Israel, who has given Solomon command over the demons.",
+        "image": "images/Obyzouth.webp"
     },
     {
         "name": "Oeterrich, Traugott Konstantin (1880-1949)",
@@ -963,35 +943,32 @@
     },
     {
         "name": "Onoskelis",
-        "description": "Female DEMON. In the Testament of Solomon, Onoskelis is summoned by BEELZEBUB to the presence of King SOLOMON, when the king asks whether there are any female demons and says he wants to see  one Onoskelis appears in the form of a beautiful woman with a fair complexion and the legs of a mule. She says she lives in caves, cliffs, and ravines and perverts men and strangles them. They think they will obtain gold through her, but she gives little to those who worship her. She travels by the full Moon and is associated with the constellation of Capricorn. She is thwarted by the name Yahweh (Holy One of Israel). Solomon uses the name of Yahweh and his magical ring to bind Onoskelis in a standing position to work day and night spinning hemp for ropes used in the construction of the Temple of Jerusalem."
-    },
-    {
-        "name": "Opression",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Female DEMON. In the Testament of Solomon, Onoskelis is summoned by BEELZEBUB to the presence of King SOLOMON, when the king asks whether there are any female demons and says he wants to see  one Onoskelis appears in the form of a beautiful woman with a fair complexion and the legs of a mule. She says she lives in caves, cliffs, and ravines and perverts men and strangles them. They think they will obtain gold through her, but she gives little to those who worship her. She travels by the full Moon and is associated with the constellation of Capricorn. She is thwarted by the name Yahweh (Holy One of Israel). Solomon uses the name of Yahweh and his magical ring to bind Onoskelis in a standing position to work day and night spinning hemp for ropes used in the construction of the Temple of Jerusalem.",
+        "image": "images/Onoskelis.jpg"
+
     },
     {
         "name": "Orias",
-        "description": "FALLEN ANGEL and 59th of the 72 SPIRITS OF SOLOMON. Orias is a marquis who has 30 LEGIONs of DEMONs. He appears as a lion with a serpent’s tail that rides a horse and holds two huge, hissing snakes. He teaches the virtues of the planets and stars. He transforms men; grants dignities, prelacies, and confi rmations; and confers the favor of friends and enemies"
+        "description": "FALLEN ANGEL and 59th of the 72 SPIRITS OF SOLOMON. Orias is a marquis who has 30 LEGIONs of DEMONs. He appears as a lion with a serpent’s tail that rides a horse and holds two huge, hissing snakes. He teaches the virtues of the planets and stars. He transforms men; grants dignities, prelacies, and confi rmations; and confers the favor of friends and enemies.",
+        "image": "images/orias.webp"
     },
     {
         "name": "Ornias",
-        "description": "One of the FALLEN ANGELS, who is bested by King SOLOMON. According to the Testament of Solomon, Ornias is an annoying, vampirizing DEMON who lives in the constellation Aquarius. He has shape-shifting ability: He strangles men born under the sign of Aquarius because they have passion for women born under the sign of Virgo; he becomes a man who likes boys and causes them pain when he touches them; he turns into a heavenly winged creature; and he can assume the form of a lion. During the construction of Solomon’s Temple of Jerusalem, Ornias appears at sunset and takes half the wages and food of the master workman’s boy—Solomon’s favorite—and sucks out his soul through his right thumb. The boy grows thin. Solomon asks him why he is losing weight, and the boy tells him about Ornias. Incensed, Solomon begs God for help to have authority over the demon. The  archangel Michael gives him a magical ring with a seal engraved upon it that will bestow the power upon Solomon. Michael tells Solomon, “You shall imprison all the demons, male and female, and with their help you shall build Jerusalem when you bear this seal of God.” Solomon gives the ring to the boy and instructs him to fling it at the demon’s chest when he next appears and 6rder him to go to Solomon. When Ornias next appears, as a flaming fire, the boy does so and shouts, “Come! Solomon summons you!” Ornias screams and promises to give the boy all the gold and silver on Earth if he will give the ring back to Solomon. But the boy binds the demon and delivers him to the king. Solomon fi nds the demon trembling at his gates and goes to interrogate him. Ornias says that he is descended from an archangel and is thwarted by the archangel Uriel (see THWARTING ANGELS). He says he resides in the constellation Aquarius, where he strangles “those who reside in Aquarius because of their passion for women whose zodiacal sign is Virgo.” Ornias says that while in trance, he undergoes three transformations: “Sometimes I am a man who craves the bodies of effeminate boys, and when I touch them, they suffer great pain. Sometimes I am a creature with wings (flying) up to the heavenly regions. Finally, I assume the appearance of a lion.” Solomon binds the demon with his ring and sets him to work cutting stone from the quarry. Terrifi ed by IRON, the demon begs for a measure of freedom, promising to call up other demons. Solomon summons Uriel, who forces Ornias to cut stones by terrorizing him. Uriel calls up sea monsters and withers them, casting them to the ground. When that work is done, Solomon orders Ornias to fetch the Prince of Demons. He gives Ornias the magical ring, and the demon goes to BEELZEBUB. The Prince of Demons is unimpressed by the name of Solomon, so Ornias throws the ring at his chest and commands him to go to the king. Beelzebub cries out like one burned by fire and does as commanded. Ornias has the gift of prophecy, explaining to Solomon that demons fl y up to heaven, where they overhear God’s plans. Those who are exhausted by doing so become FALLING STARS."
+        "description": "One of the FALLEN ANGELS, who is bested by King SOLOMON. According to the Testament of Solomon, Ornias is an annoying, vampirizing DEMON who lives in the constellation Aquarius. He has shape-shifting ability: He strangles men born under the sign of Aquarius because they have passion for women born under the sign of Virgo; he becomes a man who likes boys and causes them pain when he touches them; he turns into a heavenly winged creature; and he can assume the form of a lion. During the construction of Solomon’s Temple of Jerusalem, Ornias appears at sunset and takes half the wages and food of the master workman’s boy—Solomon’s favorite—and sucks out his soul through his right thumb. The boy grows thin. Solomon asks him why he is losing weight, and the boy tells him about Ornias. Incensed, Solomon begs God for help to have authority over the demon. The  archangel Michael gives him a magical ring with a seal engraved upon it that will bestow the power upon Solomon. Michael tells Solomon, “You shall imprison all the demons, male and female, and with their help you shall build Jerusalem when you bear this seal of God.” Solomon gives the ring to the boy and instructs him to fling it at the demon’s chest when he next appears and 6rder him to go to Solomon. When Ornias next appears, as a flaming fire, the boy does so and shouts, “Come! Solomon summons you!” Ornias screams and promises to give the boy all the gold and silver on Earth if he will give the ring back to Solomon. But the boy binds the demon and delivers him to the king. Solomon fi nds the demon trembling at his gates and goes to interrogate him. Ornias says that he is descended from an archangel and is thwarted by the archangel Uriel (see THWARTING ANGELS). He says he resides in the constellation Aquarius, where he strangles “those who reside in Aquarius because of their passion for women whose zodiacal sign is Virgo.” Ornias says that while in trance, he undergoes three transformations: “Sometimes I am a man who craves the bodies of effeminate boys, and when I touch them, they suffer great pain. Sometimes I am a creature with wings (flying) up to the heavenly regions. Finally, I assume the appearance of a lion.” Solomon binds the demon with his ring and sets him to work cutting stone from the quarry. Terrifi ed by IRON, the demon begs for a measure of freedom, promising to call up other demons. Solomon summons Uriel, who forces Ornias to cut stones by terrorizing him. Uriel calls up sea monsters and withers them, casting them to the ground. When that work is done, Solomon orders Ornias to fetch the Prince of Demons. He gives Ornias the magical ring, and the demon goes to BEELZEBUB. The Prince of Demons is unimpressed by the name of Solomon, so Ornias throws the ring at his chest and commands him to go to the king. Beelzebub cries out like one burned by fire and does as commanded. Ornias has the gift of prophecy, explaining to Solomon that demons fl y up to heaven, where they overhear God’s plans. Those who are exhausted by doing so become FALLING STARS.",
+        "image": "images/ornias.jpg"
+
     },
     {
         "name": "Orobas",
-        "description": "FALLEN ANGEL and 55th of the 72 SPIRITS OF SOLOMON. Orobas is a prince in HELL, where he governs 20 LEGIONs of DEMONs. He makes his first appearance as a horse but then changes to a man upon command. He discovers all things past and present and bestows great favors. He gives true answers to questions about the past, present, and future; divinity, and the creation of the world. Orobas is faithful to magicians and does not like them to be tempted by any other demon. Prior to his fall, he was in the angelic order of thrones."
+        "description": "FALLEN ANGEL and 55th of the 72 SPIRITS OF SOLOMON. Orobas is a prince in HELL, where he governs 20 LEGIONs of DEMONs. He makes his first appearance as a horse but then changes to a man upon command. He discovers all things past and present and bestows great favors. He gives true answers to questions about the past, present, and future; divinity, and the creation of the world. Orobas is faithful to magicians and does not like them to be tempted by any other demon. Prior to his fall, he was in the angelic order of thrones.",
+        "image": "images/orobas.webp"
+
     },
     {
         "name": "Ose",
-        "description": "FALLEN ANGEL and 57th of the 72 SPIRITS OF SOLOMON. Ose is a president in HELL, who appears first as a leopard and then as a human. He teaches all liberal sciences and gives true answers to questions about divine and secret things. He can change people into any shape desired by the magician; the victims will not know they have been changed. He commands three LEGIONs of DEMONs. According to JOHANN WEYER, Ose also will make people insane and delusional, so that they will believe they are kings and such. The delusions only last for an hour"
-    },
-    {
-        "name": "Ouija",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Pact",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "FALLEN ANGEL and 57th of the 72 SPIRITS OF SOLOMON. Ose is a president in HELL, who appears first as a leopard and then as a human. He teaches all liberal sciences and gives true answers to questions about divine and secret things. He can change people into any shape desired by the magician; the victims will not know they have been changed. He commands three LEGIONs of DEMONs. According to JOHANN WEYER, Ose also will make people insane and delusional, so that they will believe they are kings and such. The delusions only last for an hour.",
+        "image": "images/ose.webp"
+
     },
     {
         "name": "Padiel",
@@ -999,15 +976,20 @@
     },
     {
         "name": "Paimon",
-        "description": "FALLEN ANGEL and ninth of the 72 SPIRITS OF SOLOMON. Prior to his fall, Paimon was in the angelic order of dominations. He was conceited with his own knowledge and fell with LUCIFER. In HELL, he rules as a king and has 200 LEGIONs of DEMONs under his command. He appears as a crowned man seated on a camel, preceded by many musicians with trumpets, cymbals, and other instruments. He has a roaring voice. He teaches all arts, sciences, and secrets; subjugates people to the will of the magician; and gives good FAMILIARs. He will give the answer to any question. He is observed in the northwest."
+        "description": "FALLEN ANGEL and ninth of the 72 SPIRITS OF SOLOMON. Prior to his fall, Paimon was in the angelic order of dominations. He was conceited with his own knowledge and fell with LUCIFER. In HELL, he rules as a king and has 200 LEGIONs of DEMONs under his command. He appears as a crowned man seated on a camel, preceded by many musicians with trumpets, cymbals, and other instruments. He has a roaring voice. He teaches all arts, sciences, and secrets; subjugates people to the will of the magician; and gives good FAMILIARs. He will give the answer to any question. He is observed in the northwest.",
+        "image": "images/paimon.jpg"
+
     },
     {
         "name": "Pairikas",
-        "description": "In Persian lore and ZOROASTRIANISM, a class of DAEVA or DEMON of beautiful seductresses who have the power to bewitch in malevolent ways. The Pairikas exert their baleful infl uences on the elements, cattle, and all vegetation. AHRIMAN uses them to bewitch the stars in order to prevent rain and cause bad harvests, famine, and sterility. They also cause meteor showers."
+        "description": "In Persian lore and ZOROASTRIANISM, a class of DAEVA or DEMON of beautiful seductresses who have the power to bewitch in malevolent ways. The Pairikas exert their baleful infl uences on the elements, cattle, and all vegetation. AHRIMAN uses them to bewitch the stars in order to prevent rain and cause bad harvests, famine, and sterility. They also cause meteor showers.",
+        "image": "images/parikas.jpg"
     },
     {
         "name": "Palis",
-        "description": "In Arabian lore, a desert DEMON that vampirizes people by licking the soles of their feet until their BLOOD is drained. There is no known description of the palis. The palis waits until desert travelers are asleep and then licks their feet. To prevent attack, travelers should sleep with the soles of their feet touching the soles of another person’s feet. Salt sprinkled around will repel the demon."
+        "description": "In Arabian lore, a desert DEMON that vampirizes people by licking the soles of their feet until their BLOOD is drained. There is no known description of the palis. The palis waits until desert travelers are asleep and then licks their feet. To prevent attack, travelers should sleep with the soles of their feet touching the soles of another person’s feet. Salt sprinkled around will repel the demon.",
+        "image": "images/palis.jpg"
+
     },
     {
         "name": "Pamersiel",
@@ -1015,15 +997,14 @@
     },
     {
         "name": "Pazuzu",
-        "description": "Assyrian and Babylonian DEMON god of the first millennium B.C.E., who sends diseases, pestilence, and plagues into households. Pazuzu has the feet of an eagle, the paws of a lion, the head of a dog, the tail of a scorpion, bulging eyes, and four wings. Pazuzu rules the hot desert winds of Arabia that wither and kill and is sometimes called upon to provide protection against airborne diseases. Figures of the head of Pazuzu were placed in windows facing outward to ward off his own effects. Pazuzu vanquished the childbirth demon LAMASTU to the underworld. AMULETs of his head were worn around the necks of pregnant women. In William Peter Blatty’s novel THE EXORCIST, Pazuzu plays a role as a reawakened demon who possesses a girl, Regan."
-    },
-    {
-        "name": "Pearce-Higgins, Canon John D.",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "Assyrian and Babylonian DEMON god of the first millennium B.C.E., who sends diseases, pestilence, and plagues into households. Pazuzu has the feet of an eagle, the paws of a lion, the head of a dog, the tail of a scorpion, bulging eyes, and four wings. Pazuzu rules the hot desert winds of Arabia that wither and kill and is sometimes called upon to provide protection against airborne diseases. Figures of the head of Pazuzu were placed in windows facing outward to ward off his own effects. Pazuzu vanquished the childbirth demon LAMASTU to the underworld. AMULETs of his head were worn around the necks of pregnant women. In William Peter Blatty’s novel THE EXORCIST, Pazuzu plays a role as a reawakened demon who possesses a girl, Regan.",
+        "image": "images/pazuzu.jpg"
     },
     {
         "name": "Phoenix (Phenix, Pheynix)",
-        "description": "FALLEN ANGEL and the 37th of the 72 SPIRITS OF SOLOMON. Phoenix reigns as a marquis in HELL with 20 LEGIONs of DEMONs. He appears as a phoenix bird and sings sweetly in a child’s voice. It is really a siren’s voice, and so the magician must take precautions not to be seduced by it. Upon command, Phoenix will assume a human shape and then speak on all the sciences and deliver excellent poetry. He fulfills all commands well. Phoenix has the futile hope that he will return to the seventh throne in 1,200 years. He formerly was in the angelic order of thrones."
+        "description": "FALLEN ANGEL and the 37th of the 72 SPIRITS OF SOLOMON. Phoenix reigns as a marquis in HELL with 20 LEGIONs of DEMONs. He appears as a phoenix bird and sings sweetly in a child’s voice. It is really a siren’s voice, and so the magician must take precautions not to be seduced by it. Upon command, Phoenix will assume a human shape and then speak on all the sciences and deliver excellent poetry. He fulfills all commands well. Phoenix has the futile hope that he will return to the seventh throne in 1,200 years. He formerly was in the angelic order of thrones.",
+        "image": "images/phoenix.webp"
+
     },
     {
         "name": "Pirichiel",
@@ -1035,11 +1016,9 @@
     },
     {
         "name": "Planoi",
-        "description": "In Greek lore, a type of DEMON that assaults travelers and taunts them. Planos (singular) means “vagabond” or “deceiver.” According to JOHN CASSIAN, a father of the church in the fourth century, most planoi are tricksters, but some attempt greater harm, including the incitement of bloodshed. In his work Conferences, Cassian described the planoi as. . . so seductive and sportive that, when they have taken continual possession of certain places or roads, they delight themselves not indeed with tormenting the passers by whom they can deceive, but, contenting themselves merely with laughing at them and mocking them, try to tire them out rather than to injure them: while some spend the night merely by harmlessly taking possession of men, though others are such slaves to fury and ferocity that they are not simply content with hurting the bodies of those, of whom they have taken possession, by tearing them in a dreadful manner, but actually are eager to rush upon those who are passing by at a distance, and to attack them with most savage slaughter: like those described in the gospel, for fear of whom no man dared to pass by that way. And there is no doubt that these and such as these in their insatiable fury delight in wars and bloodshed."
-    },
-    {
-        "name": "Possession",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "In Greek lore, a type of DEMON that assaults travelers and taunts them. Planos (singular) means “vagabond” or “deceiver.” According to JOHN CASSIAN, a father of the church in the fourth century, most planoi are tricksters, but some attempt greater harm, including the incitement of bloodshed. In his work Conferences, Cassian described the planoi as. . . so seductive and sportive that, when they have taken continual possession of certain places or roads, they delight themselves not indeed with tormenting the passers by whom they can deceive, but, contenting themselves merely with laughing at them and mocking them, try to tire them out rather than to injure them: while some spend the night merely by harmlessly taking possession of men, though others are such slaves to fury and ferocity that they are not simply content with hurting the bodies of those, of whom they have taken possession, by tearing them in a dreadful manner, but actually are eager to rush upon those who are passing by at a distance, and to attack them with most savage slaughter: like those described in the gospel, for fear of whom no man dared to pass by that way. And there is no doubt that these and such as these in their insatiable fury delight in wars and bloodshed.",
+        "image": "images/planoi.jpg"
+
     },
     {
         "name": "Prince of Darkness",
