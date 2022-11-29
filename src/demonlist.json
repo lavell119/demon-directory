@@ -131,7 +131,9 @@
     },
     {
         "name": "Antichrist",
-        "description": "ll"
+        "description": "",
+        "image": "images/noimage.jpg"
+
     },
     {
         "name": "Armadiel",
@@ -170,7 +172,9 @@
     },
     {
         "name": "Az (Azi)",
-        "description": "In ZOROASTRIANISM, the DEMON of avarice, gluttony, insatiability, and lust. Az is often paired with NIYAZ (want) and is featured also in Zurvanite and Manichaean texts. The pair is considered supremely powerful. Az is the opponent to Atar,the fi re god son of Ahura Mazda (later Ohrmadz), the creator god. In the Bundahisn text, Az swallows everything and anything to satisfy his want, but he is never fulfi lled. If nothing is available, he will eat his own body. Az is not the demon of death, but he brings about death through his corruption. He is behind everything disastrous that happens to human beings. Az and Ahriman will be the last demons to be defeated by the forces of light and good. In Zurvanite theology, Az leads the demonic hordes. In Manichaeism, Az is a female demon who is the mother of all demons and sin. She formed the human body and imprisoned the soul in it. She is Hyle, or matter and evil, and tries to make humanity forget its divine origins, thus preventing people from finding their salvation."
+        "description": "In ZOROASTRIANISM, the DEMON of avarice, gluttony, insatiability, and lust. Az is often paired with NIYAZ (want) and is featured also in Zurvanite and Manichaean texts. The pair is considered supremely powerful. Az is the opponent to Atar,the fi re god son of Ahura Mazda (later Ohrmadz), the creator god. In the Bundahisn text, Az swallows everything and anything to satisfy his want, but he is never fulfi lled. If nothing is available, he will eat his own body. Az is not the demon of death, but he brings about death through his corruption. He is behind everything disastrous that happens to human beings. Az and Ahriman will be the last demons to be defeated by the forces of light and good. In Zurvanite theology, Az leads the demonic hordes. In Manichaeism, Az is a female demon who is the mother of all demons and sin. She formed the human body and imprisoned the soul in it. She is Hyle, or matter and evil, and tries to make humanity forget its divine origins, thus preventing people from finding their salvation.",
+        "image": "images/noimage.jpg"
+
     },
     {
         "name": "Azazel (Azael)",
@@ -221,7 +225,8 @@
     },
     {
         "name": "Barbiel",
-        "description": "FALLEN ANGEL also described as a good angel. As a fallen angel Barbiel is the former prince of the orders of virtues and angels. In HELL, he serves under Zaphiel as one of the seven Electors. As a good angel, Barbiel is ruler of October and, when equated with Barakiel, of February"
+        "description": "FALLEN ANGEL also described as a good angel. As a fallen angel Barbiel is the former prince of the orders of virtues and angels. In HELL, he serves under Zaphiel as one of the seven Electors. As a good angel, Barbiel is ruler of October and, when equated with Barakiel, of February",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Barachus",
@@ -236,7 +241,8 @@
     },
     {
         "name": "Bealphares",
-        "description": "Demon who will tell where treasure is hidden and will fetch gold or silver. Bealphares appears in the likeness of either a fair man or a fair woman and will appear whenever summoned. Bealphares will transport a person from country to country without causing any harm and will answer questions truthfully. He will give all knowledge of the magical arts, grammar, speech and rhetoric, arithmetic, geometry, music, and astronomy."
+        "description": "Demon who will tell where treasure is hidden and will fetch gold or silver. Bealphares appears in the likeness of either a fair man or a fair woman and will appear whenever summoned. Bealphares will transport a person from country to country without causing any harm and will answer questions truthfully. He will give all knowledge of the magical arts, grammar, speech and rhetoric, arithmetic, geometry, music, and astronomy.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Beelzebub",
@@ -252,7 +258,8 @@
     },
     {
         "name": "Beherit",
-        "description": "DEMON who is a great duke of HELL commanding 26 LEGIONs of lesser demons. Beherit has red skin and appears as a soldier wearing a crown and riding a red horse. He gives true answers about things past, present, and future and can turn metals into gold. A magician must wear a silver ring when conjuring him. Other names for him are Beal, Beale, Beall, Berithi, Bofry, Bolfri, and Bolfry. Beherit was named in the LOUDUN POSSESSIONS and was described as having a pleasant and laughing face."
+        "description": "DEMON who is a great duke of HELL commanding 26 LEGIONs of lesser demons. Beherit has red skin and appears as a soldier wearing a crown and riding a red horse. He gives true answers about things past, present, and future and can turn metals into gold. A magician must wear a silver ring when conjuring him. Other names for him are Beal, Beale, Beall, Berithi, Bofry, Bolfri, and Bolfry. Beherit was named in the LOUDUN POSSESSIONS and was described as having a pleasant and laughing face.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Beleth",
@@ -268,7 +275,7 @@
     {
         "name": "Belphegor",
         "description": "Moabite god absorbed into Hebrew lore and then Christianity as a major DEMON. The name Belphegor means “lord of opening” or “lord Baal of Mt. Phegor.” As a Moabite deity, he was known as Baal-Peor and ruled over fertility and sexual power. He was worshipped in the form of a phallus.  In the KABBALAH, Belphegor was an angel in the order of principalities prior to his fall. He is one of the Togarini, “the wranglers.” He is an archdemon who is part of the demonic counterparts to the angels who rule the 10 sephirot of the Tree of Life; he rules over the sixth sephirah. He sits on a pierced chair, for excrement is his sacrifi cial offering. In Christian demonology, Belphegor is the incarnation of one of the SEVEN DEADLY SINS, sloth, characterized by negligence and apathy. According to St. Thomas Aquinas, all sins that arise from ignorance are caused by sloth. Belphegor also rules misogyny and licentious men. He emerged from HELL to investigate the marital state. mong humans. For a time, he lived as a man to experience sexual pleasures. Appalled, he fled back to hell, happy that intercourse between men and women did not exist there. Belphegor appears in the form of a beautiful young girl in order to tempt men. Besides sex and lust, he governs great riches. He is diffi cult to conjure, but if a person is successful and Belphegor takes a liking to him or her, the demon will bestow great treasures and wealth, as well as the ability to make discoveries and create inventions of all sorts. In hell, he rules inventions and discoveries and serves as infernal ambassador to France.",
-        "image": "images/belphefor.jpg"
+        "image": "images/belphegor.jpg"
 
     },
     {
@@ -345,11 +352,13 @@
     },
     {
         "name": "Carnesiel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Carnesiel is chief emperor of the east and commands 1,000 great dukes, 100 lesser dukes, and 50,000,000,000,000 ministering spirits. His 12 most important demonic dukes are Myrezyn, Omich, Zabriel, Bucafas, Benoham, Arifi el, Cumeriel, Vadriel, Armany, Capriel, Bedary, and Laphor. Carnesiel can appear day or night. When he does so, he is attended by an entourage of his dukes numbering no fewer than 10 and no more than 300"
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Carnesiel is chief emperor of the east and commands 1,000 great dukes, 100 lesser dukes, and 50,000,000,000,000 ministering spirits. His 12 most important demonic dukes are Myrezyn, Omich, Zabriel, Bucafas, Benoham, Arifi el, Cumeriel, Vadriel, Armany, Capriel, Bedary, and Laphor. Carnesiel can appear day or night. When he does so, he is attended by an entourage of his dukes numbering no fewer than 10 and no more than 300",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Caspiel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Caspiel is the chief emperor of the south, who rules over 200 great dukes, 400 lesser dukes, and 1,000,200,000,000 ministering spirits. His 12 most important dukes are Ursiel, Chariet, Maras, Femot, Dudarion, Camory, Larmot, Aridiel, Geriel, Ambri, Carnor, and Oriel. Each of the 12 dukes is attended by 2,660 lesser dukes. All of the dukes are stubborn and churlish, but many attend Caspiel when he appears."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Caspiel is the chief emperor of the south, who rules over 200 great dukes, 400 lesser dukes, and 1,000,200,000,000 ministering spirits. His 12 most important dukes are Ursiel, Chariet, Maras, Femot, Dudarion, Camory, Larmot, Aridiel, Geriel, Ambri, Carnor, and Oriel. Each of the 12 dukes is attended by 2,660 lesser dukes. All of the dukes are stubborn and churlish, but many attend Caspiel when he appears.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Cerberus (Kerberos)",
@@ -410,21 +419,23 @@
     },
     {
         "name": "Devil",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Djinn (genii, ginn, jann, jinn, shayatin, shaytan)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Dorochiel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Dorochiel rules in the west and north as a prince. Forty dukes attend him during the day and 40 more at night. In order to summon the dukes and their servants, a magician must pay attention to the planetary hours when they rule. All are good-natured and agreeable. The 12 dukes of the morning are Magael, Artino, Efi el, Maniel/ Efi el, Suriet/Maniel, Carsiel/Suriel, Casiel, Fabiel, Carba, Merach, Althor, and Omiel. The 12 dukes of the afternoon are Gudiel, Asphor, Emuel, Soriel, Cabron, Diviel, Abriel, Danael, Lomor, Casael, Buisiel, and Larfos. The 12 dukes of the early evening are Nahaiel, Ofsiel, Bulls, Momel, Darborl, Paniel, Cursas, Aliel, Aroziel, Cusyne, Vraniel,  and Pelusar. The 12 dukes who govern after midnight are Pafi el, Gariel, Soriel, Maziel, Futiel, Cayros, Narsial, Moziel, Abael, Meroth, Cadriel, and Lodiel."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Dorochiel rules in the west and north as a prince. Forty dukes attend him during the day and 40 more at night. In order to summon the dukes and their servants, a magician must pay attention to the planetary hours when they rule. All are good-natured and agreeable. The 12 dukes of the morning are Magael, Artino, Efi el, Maniel/ Efi el, Suriet/Maniel, Carsiel/Suriel, Casiel, Fabiel, Carba, Merach, Althor, and Omiel. The 12 dukes of the afternoon are Gudiel, Asphor, Emuel, Soriel, Cabron, Diviel, Abriel, Danael, Lomor, Casael, Buisiel, and Larfos. The 12 dukes of the early evening are Nahaiel, Ofsiel, Bulls, Momel, Darborl, Paniel, Cursas, Aliel, Aroziel, Cusyne, Vraniel,  and Pelusar. The 12 dukes who govern after midnight are Pafi el, Gariel, Soriel, Maziel, Futiel, Cayros, Narsial, Moziel, Abael, Meroth, Cadriel, and Lodiel.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Dregvant",
         "description": "In Persian lore and ZOROASTRIANISM, a wicked and unrighteous DEMON of luxury and vice. Dregvants was a name given to the residents of the city of Gilan south of the Caspian Sea, who were considered to be fiends incarnate.",
-        "image": ""
-
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Druj",
@@ -474,19 +485,23 @@
     },
     {
         "name": "Eurynomus",
-        "description": "In Greek lore, a high-ranking DEMON of Hades. The Greek geographer Pausanias (second c.C.E.) said in Description of Greece that the oracles at Delphi described Eurynomus as a fl esh-eating demon who strips corpses down to the bone. His color is black-blue like that of fl ies, and he has sharp teeth and sits on the skin of a vulture. Later European demonologists described Eurynomus as a “prince of death” who has a body covered with sores, long teeth, and fox-skin clothing."
+        "description": "In Greek lore, a high-ranking DEMON of Hades. The Greek geographer Pausanias (second c.C.E.) said in Description of Greece that the oracles at Delphi described Eurynomus as a fl esh-eating demon who strips corpses down to the bone. His color is black-blue like that of fl ies, and he has sharp teeth and sits on the skin of a vulture. Later European demonologists described Eurynomus as a “prince of death” who has a body covered with sores, long teeth, and fox-skin clothing.",
+        "image": "images/noimage.jpg"
     },
        {
         "name": "Fallen Angels",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Familiar",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Faust",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Flauros (Hauras, Haurus, Havres)",
@@ -545,11 +560,13 @@
     },
     {
         "name": "Garadiel",
-        "description": "DEMON and wandering duke of the air, who never stays in one place. Garadiel has 18,150 servants, but no dukes or princes beneath him. The number of his attendants varies according to the hours of the day or night. All are good-natured and willing to obey commands."
+        "description": "DEMON and wandering duke of the air, who never stays in one place. Garadiel has 18,150 servants, but no dukes or princes beneath him. The number of his attendants varies according to the hours of the day or night. All are good-natured and willing to obey commands.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Gediel",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Gediel is the second in command under CASPIEL and has 20 servants during the day and 20 during the night. Each duke has 20 servants. All are courteous and willing to obey the commands of an EXORCIST or magician. Eight principal dukes of the day under Gediel are Coliel, Naras, Sabas, Assaba, Sariel, Panciel, Mashel, and Bariet. Major dukes of the night are Reciel, Sadiel, Agra, Anael, Aroan, Cirecas, Aglas, and Vriel."
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Gediel is the second in command under CASPIEL and has 20 servants during the day and 20 during the night. Each duke has 20 servants. All are courteous and willing to obey the commands of an EXORCIST or magician. Eight principal dukes of the day under Gediel are Coliel, Naras, Sabas, Assaba, Sariel, Panciel, Mashel, and Bariet. Major dukes of the night are Reciel, Sadiel, Agra, Anael, Aroan, Cirecas, Aglas, and Vriel.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Gemory (Gomory)",
@@ -559,7 +576,8 @@
     },
     {
         "name": "Genie",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Glasya Labolas",
@@ -573,7 +591,8 @@
     },
     {
         "name": "Griffin-Demon",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Gusion (Gusayn)",
@@ -592,7 +611,8 @@
     },
     {
         "name": "Halahel",
-        "description": "In The Lemegeton, a DEMON who is part good and part evil, and under the rule of BAAL."
+        "description": "In The Lemegeton, a DEMON who is part good and part evil, and under the rule of BAAL.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Halpas (Haphas)",
@@ -622,7 +642,8 @@
     },
     {
         "name": "Hell",
-        "description": "The underworld abode of souls of the dead. In Christianity, hell is the opposite of heaven and is the place ruled by the DEVIL, where DEMONs torment sinners for eternity. Hell is the complete absence of God, light, and love; a place of unbearable fi re and horrible tortures. Hell takes its name from HEL, the Norse goddess of the "
+        "description": "The underworld abode of souls of the dead. In Christianity, hell is the opposite of heaven and is the place ruled by the DEVIL, where DEMONs torment sinners for eternity. Hell is the complete absence of God, light, and love; a place of unbearable fi re and horrible tortures. Hell takes its name from HEL, the Norse goddess of the ",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Hemah",
@@ -631,15 +652,18 @@
     },
     {
         "name": "Huli Jing",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Hutriel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Hydriel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Iblis",
@@ -648,7 +672,8 @@
     },
     {
         "name": "Icosiel",
-        "description": "DEMON and a wandering duke of the air. Icosiel has 100 dukes, 300 companions, and many other servants. His 15 chief dukes have 2,200 servants. He and his demons mainly appear in houses. They can be summoned day and night and will do as commanded. The 15 principal dukes are Mchariel, Pischiel, Thanatiel, Zosiel, Agapiel, Larphiel, Amediet, Cambriet, Nathriel, Zachartel, Athesiel, Cumariel, Munefi el, Heresiel, and Ubaniel."
+        "description": "DEMON and a wandering duke of the air. Icosiel has 100 dukes, 300 companions, and many other servants. His 15 chief dukes have 2,200 servants. He and his demons mainly appear in houses. They can be summoned day and night and will do as commanded. The 15 principal dukes are Mchariel, Pischiel, Thanatiel, Zosiel, Agapiel, Larphiel, Amediet, Cambriet, Nathriel, Zachartel, Athesiel, Cumariel, Munefi el, Heresiel, and Ubaniel.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Imp",
@@ -657,7 +682,8 @@
     },
     {
         "name": "Incubus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Ipos",
@@ -666,7 +692,8 @@
     },
     {
         "name": "Isacaaron",
-        "description": "DEMON of temptations of the flesh, who played a prominent role in the LOUDUN POSSESSIONS in France in the 17th century. Isacaaron especially possessed and plagued the mother superior, JEANNE DES ANGES, and was blamed for her false pregnancy. The demon jumped from Jeanne into one of her EXORCISTs, Father JEAN-JOSEPH SURIN."
+        "description": "DEMON of temptations of the flesh, who played a prominent role in the LOUDUN POSSESSIONS in France in the 17th century. Isacaaron especially possessed and plagued the mother superior, JEANNE DES ANGES, and was blamed for her false pregnancy. The demon jumped from Jeanne into one of her EXORCISTs, Father JEAN-JOSEPH SURIN.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Itzpapalotl",
@@ -674,24 +701,19 @@
         "image": "images/itzpapalotl.webp"
     },
     {
-        "name": "James VI and I (1566-1625)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Jeanne des Anges (1602-1665)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Jesus",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens...",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Kakabel",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against ever ANGEL who is both good and evil. In 1 Enoch, Kakabel is a FALLEN ANGEL who commands 365,000 DEMONs and teaches astrology. In the Sefer Raziel, Kakabel is a high angel and prince who rules over stars and constellations."
+        "description": "One-winged DEMON who lived in the Red Sea, plots against ever ANGEL who is both good and evil. In 1 Enoch, Kakabel is a FALLEN ANGEL who commands 365,000 DEMONs and teaches astrology. In the Sefer Raziel, Kakabel is a high angel and prince who rules over stars and constellations.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Kelippah",
-        "description": "In Jewish demonology, a type of demon or demonic force not distinguished by individual names. Kelippah means “shell,” “husk,” or “skin.” The kelippot (plural) are forces and the root of all evil, the clinging demons of sin found in early Jewish mysticism and kabbalistic lore. They were created as shards or residues of the light cast down from the spiritual lights that formed the sephirot of the Tree of Life (see KABBALAH). They became gross matter, the shadow side of the Tree of Life. The kelippot are intermediaries between the upper and lower worlds."
+        "description": "In Jewish demonology, a type of demon or demonic force not distinguished by individual names. Kelippah means “shell,” “husk,” or “skin.” The kelippot (plural) are forces and the root of all evil, the clinging demons of sin found in early Jewish mysticism and kabbalistic lore. They were created as shards or residues of the light cast down from the spiritual lights that formed the sephirot of the Tree of Life (see KABBALAH). They became gross matter, the shadow side of the Tree of Life. The kelippot are intermediaries between the upper and lower worlds.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Kesilim",
@@ -700,7 +722,8 @@
     },
     {
         "name": "Kitsune",
-        "description": "j"
+        "description": "j",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Kokabiel",
@@ -709,7 +732,8 @@
     },
     {
         "name": "Kunda",
-        "description": "In ZOROASTRIANISM, the DEMON of drunkenness. Kunda becomes drunk without drinking. He also is associated with helping wizards in their magic."
+        "description": "In ZOROASTRIANISM, the DEMON of drunkenness. Kunda becomes drunk without drinking. He also is associated with helping wizards in their magic.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Kunopegos",
@@ -723,7 +747,8 @@
     },
     {
         "name": "Lahmu",
-        "description": "Benevolent Assyrian god who protects against evil DEMONs. Lahmu means “hairy,” a description of the god’s long hair and beard. Statues of Lahmu were placed in house and building foundations to ward off evil."
+        "description": "Benevolent Assyrian god who protects against evil DEMONs. Lahmu means “hairy,” a description of the god’s long hair and beard. Statues of Lahmu were placed in house and building foundations to ward off evil.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Lamastu",
@@ -773,11 +798,13 @@
     },
     {
         "name": "Lion-demon",
-        "description": "Babylonian hybrid DEMON, usually in the shape of a bare-chested man with a lion head and tail, donkey ears, and bird feet. Lion-demons hold a dagger praised in one hand and a mace in the other. Lion-demons are benevolent and protect against evil demons that cause misfortune and disease."
+        "description": "Babylonian hybrid DEMON, usually in the shape of a bare-chested man with a lion head and tail, donkey ears, and bird feet. Lion-demons hold a dagger praised in one hand and a mace in the other. Lion-demons are benevolent and protect against evil demons that cause misfortune and disease.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Lion-Shaped Demon",
-        "description": "FALLEN ANGEL in the shape of a roaring lion, who commands LEGIONs of DEMONs. In the Testament of Solomon, the Lion-Shaped Demon appears before King SOLOMON and says he cannot be bound. He sneaks up to people who are lying in their sickbeds and makes it impossible for them to recover. He says he is of Arab descent. Solomon invokes the name of “the great God Most High” and forces the demon to reveal that he is thwarted by Emmanuel (JESUS). Emmanuel has bound the Lion-Shaped Demon and his legions and will torture them by driving them off a cliff into water. Solomon sentences the demon’s legions to carrying woods from a grove of trees and sentences the Lion-Shaped Demon to use his claws to saw it into kindling and throw it under a perpetually burning kiln"
+        "description": "FALLEN ANGEL in the shape of a roaring lion, who commands LEGIONs of DEMONs. In the Testament of Solomon, the Lion-Shaped Demon appears before King SOLOMON and says he cannot be bound. He sneaks up to people who are lying in their sickbeds and makes it impossible for them to recover. He says he is of Arab descent. Solomon invokes the name of “the great God Most High” and forces the demon to reveal that he is thwarted by Emmanuel (JESUS). Emmanuel has bound the Lion-Shaped Demon and his legions and will torture them by driving them off a cliff into water. Solomon sentences the demon’s legions to carrying woods from a grove of trees and sentences the Lion-Shaped Demon to use his claws to saw it into kindling and throw it under a perpetually burning kiln",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Lix Tetrax",
@@ -808,11 +835,14 @@
     },
     {
         "name": "Makhlath",
-        "description": "In Jewish demonology, a powerful female DEMON. Makhlath (dancer) and her daughter, AGRATH, are in constant warfare with LILITH. Makhlath commands 478 hosts of evil spirits. She and Agrath meet Lilith and battle on the Day of Atonement. While they quarrel, the prayers of Israel are able to rise to heaven."
+        "description": "In Jewish demonology, a powerful female DEMON. Makhlath (dancer) and her daughter, AGRATH, are in constant warfare with LILITH. Makhlath commands 478 hosts of evil spirits. She and Agrath meet Lilith and battle on the Day of Atonement. While they quarrel, the prayers of Israel are able to rise to heaven.",
+        "image": "images/noimage.jpg"
     },
     {
         "name": "Malgaras",
-        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Malgaras rules in the west and has dozens of dukes serving him both day and night. His servants are courteous and appear in pairs, along with their own servants. His 12 major servants of the daytime are Camiel, Meliel, Borasy, Agor, Casiet, Rabiel, Cabiel, Udiel, Opriel, Masiel, Barfas, and Arois. His 12 major dukes of the nighttime are Aros, Doiel, Cubi, Liblel, Raboc, Aspeil, Caron, Zamor, Amiel, Aspara, Deilas, and Basiel"
+        "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Malgaras rules in the west and has dozens of dukes serving him both day and night. His servants are courteous and appear in pairs, along with their own servants. His 12 major servants of the daytime are Camiel, Meliel, Borasy, Agor, Casiet, Rabiel, Cabiel, Udiel, Opriel, Masiel, Barfas, and Arois. His 12 major dukes of the nighttime are Aros, Doiel, Cubi, Liblel, Raboc, Aspeil, Caron, Zamor, Amiel, Aspara, Deilas, and Basiel.",
+        "image": "images/noimage.jpg"
+
     },
     {
         "name": "Malleus",
@@ -938,10 +968,6 @@
         "image": "images/Obyzouth.webp"
     },
     {
-        "name": "Oeterrich, Traugott Konstantin (1880-1949)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Onoskelis",
         "description": "Female DEMON. In the Testament of Solomon, Onoskelis is summoned by BEELZEBUB to the presence of King SOLOMON, when the king asks whether there are any female demons and says he wants to see  one Onoskelis appears in the form of a beautiful woman with a fair complexion and the legs of a mule. She says she lives in caves, cliffs, and ravines and perverts men and strangles them. They think they will obtain gold through her, but she gives little to those who worship her. She travels by the full Moon and is associated with the constellation of Capricorn. She is thwarted by the name Yahweh (Holy One of Israel). Solomon uses the name of Yahweh and his magical ring to bind Onoskelis in a standing position to work day and night spinning hemp for ropes used in the construction of the Temple of Jerusalem.",
         "image": "images/Onoskelis.jpg"
@@ -1032,10 +1058,6 @@
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
-        "name": "Psellus, Michael (1018, 1078)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Purson (Curson)",
         "description": "FALLEN ANGEL and 20th of the 72 SPIRITS OF SOLOMON. Purson once was in the angelic order of virtues and partly in the order of thrones. In HELL, he is a great king. He appears as a lion-headed man, riding on a bear and carrying a viper. He is preceded by many trumpeters. Purson hides and reveals treasure; discerns the past, present, and future; provides good FAMILIARs; and gives true answers about matters both human and divine. He commands 22 LEGIONs of DEMONs."
     },
@@ -1063,10 +1085,6 @@
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Raysiel serves under DEMORIEL and rules as a king in the north, attended by 50 dukes during the day and 50 more at night. Each duke has 50 servants. The daytime demons are good-natured; the nighttime demons are evil, stubborn, and disobedient. The 16 major dukes of the day are Baciar, Thoac, Sequiel, Sadar, Terath, Astael, Rarnica, Dubarus, Armena, Albhadur, Chanael, Fursiel, Baetasiel, Melcha, Tharas, and Vriel. The 14 of the night are Thariel, Paras, Arayl, Culmar, Lazaba, Aleisi, Sebach, Betasiel, Belsay, Morael, Sarach, Arepach, Lamas, and Thurcal."
     },
     {
-        "name": "Remy, Nicholas",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Revelation",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
@@ -1075,14 +1093,6 @@
         "description": "FALLEN ANGEL. Rimmon means “exalted” or “roarer” in Hebrew. Originally, Rimmon was an Aramaic deity and Syrian idol. In Babylonian and Semite lore, he was the god of thunder and storms. As a DEMON, he is infernal ambassador to Russia.",
         "image": "images/rimmon.webp"
 
-    },
-    {
-        "name": "Rituale Romanum",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Roche Rock",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Ronove (Ronove, Ronobe)",
@@ -1098,10 +1108,6 @@
         "name": "Sabnack (Sabanack, Sabnach, Salmac)",
         "description": "FALLEN ANGEL and 43rd of the 72 SPIRITS OF SOLOMON. Sabnack is a marquis who appears as an armed soldier with a lion’s head, riding on a pale horse. He builds and fortifi es towers, camps, and cities. Upon command, he torments people with wounds and maggot-filled putrid sores. He also gives good FAMILIARs at the command of an EXORCIST. He rules 50 LEGIONs of DEMONs.",
         "image": "images/sabnock.webp"
-    },
-    {
-        "name": "Salem witchcraft hysteria",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Saleos",
@@ -1133,14 +1139,6 @@
         "description": "DEMON who appears in the form of a gigantic dog and who causes quartan fever. In The Testament of Solomon, Scepter tells King SOLOMON that before the king’s time he was a man, not a dog, and he accomplished many unlawful deeds in the world. He is so strong that he restrains the stars of heaven, and he is planning many more evil deeds. He deceives men  who follow his star closely and leads them into stupid ity. He also subdues the hearts (thoughts) of men through their throats and destroys them. Solomon asks Scepter why he is so prosperous. The demon tells him to turn over his manservant, whom he will spirit off to a place in the mountains where he will be shown an emerald stone. The stone will adorn Solomon’s temple.        Solomon agrees, but he gives his servant his magical ring, with which he can quell the demon. The servant retrieves the emerald, which is shaped like a leek. He uses the ring to bind Scepter. Solomon extracts 200 shekels from the stone and has it carried about day and night as a light for the artisans. Then he locks it up. He commands Scepter and the headless demon MURDER to cut marble for the temple. Scepter is thwarted by the ANGEL Briathos."
     },
     {
-        "name": "Scot, Reginals (1538-1599)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Seal",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Seere",
         "description": "One of the FALLEN ANGELS and 70th of the 72 SPIRITS OF SOLOMON. Seere is a prince under Amaymon, he King of the East. He appears as a beautiful man riding a strong winged horse. He makes things happen instantly, transports himself anywhere instantly, and discovers all thefts. Seere is good-natured, will follow commands, and is indifferent to good or bad. He governs 26 LEGIONs of DEMONs.",
         "image": "images/seere.jpg"
@@ -1151,14 +1149,6 @@
     },
     {
         "name": "Serpent",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Seven Deadly Sins",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Seven in Lancashire Possessions (1595-1597)",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
@@ -1227,10 +1217,6 @@
         "description": "DEMON among the 31 AERIAL SPIRITS OF SOLOMON. Symiel rules as a king in the northeast, with 10 dukes during the day and 1,000 during the night. The daytime dukes have 720 servants each, and the night dukes have 790 servants each. The daytime dukes are good-natured, but the nighttime dukes are stubborn and resist commands. The 10 major dukes of the day are Asmiel, Chrubas, Vaslos, Malgron, Romiel, Larael, Achol, Bonyel, Dagiel, and Musor. The 10 dukes of the night are Mafrus, Apiel, Curiel, Molael, Arafos, Marlano, Narzael, Murahe, Rhicel, and Nalael.."
     },
     {
-        "name": "Talisman",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Taru (Tauru)",
         "description": "In ZOROASTRIANISM, and Persian lore, the arch-DEMON of evil hunger. Taru is usually paired with another archdemon, ZARIKA (evil thirst). Zarika makes poison, which Taru administers to plants and animals. Taru opposes the good amesha spenta Hurdat. He is especially pleased when a person walks around wearing only one boot, considered a sin in this culture."
     },
@@ -1250,24 +1236,8 @@
         "image": "images/tez.jpg"
     },
     {
-        "name": "Theophilus (ca. 538)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Thompson/Gifford Obsession",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
-        "name": "Throckmorton Possessions (1589-1593)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
-    },
-    {
         "name": "Thwarting Angels",
         "description": "ANGELs who nullify the powers of specific DEMONs. All diseases, bad weather, and other misfortunes are caused by certain demons. Each demon has a thwarting angel who can be summoned in prayer and MAGIC to stop or cancel out the demon’s mischief. Knowing the appropriate thwarting angel is important in order to invoke the fastest and best help. The most important thwarting angels are the planetary rulers, six angels who have the sole powers to thwart the demonic HEAVENLY BODIES of the world of darkness responsible for all the misery in the world. The planetary rulers are as follows 1. Lamachiel, who thwarts deception 2. Baruchiel, who thwarts Strife 3. Marmaroth, who thwarts Fate 4. Balthioul, who thwarts Distress 5. Uriel, who thwarts Error 6. Asteraoth, who thwarts Power."
-    },
-    {
-        "name": "Tregeagle, Jan (John)",
-        "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens..."
     },
     {
         "name": "Tzitzimime",
