@@ -1,5 +1,6 @@
 import Demons from './demonlist.json'
 import { useState } from 'react';
+import { Link } from 'react-router-dom'
 // import IMAGES from '../public/images/index.js'
 
 export default function DemonList() {
@@ -16,7 +17,9 @@ export default function DemonList() {
               {/* <img src={ IMAGES.abbadon } alt="" /> */}
             </div>
             <div className="snippet-right">
-          <h3>{demon.name}</h3>
+          <h3>
+            <Link to="demon">{demon.name}</Link>
+          </h3>
           <p>{demon.description.substr(0,300)}...<a href="google.com">more...</a></p>
             </div>
         </div>
