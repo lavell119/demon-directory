@@ -15,6 +15,8 @@ export default function Demon() {
     <h2>
       {Demons[id].name}
     </h2>
+    <img src={Demons[id].image } alt="" />
+
     <p>{(Demons[id].description)}</p>
     </>
   )
