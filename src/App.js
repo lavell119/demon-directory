@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'
 import DemonList from './DemonList.js'
 import Demons from './demonlist.json'
 import { useState } from 'react'
@@ -16,7 +16,7 @@ function App() {
           <Route exact path="/">
             <DemonList />
           </Route>
-          <Route path="/demon">
+          <Route path="/demon/:id">
             <Demon />
           </Route>
         </Switch>        
