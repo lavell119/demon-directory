@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom'
 
 export default function DemonList() {
   const [demons, setDemons] = useState(Demons)
-
   return (
     
     <div className="demon-list">

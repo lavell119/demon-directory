@@ -2,12 +2,12 @@
     {
         "name": "Abaddon",
         "description": "Angel of death, destruction, and the netherland. The name Abaddon is derived from the Hebrew term for TO DESTROY and means PLACE OF DESTRUCTION. Apollyon is the Greek name. In MAGIC Abaddon is often equated with SATAN and SAMUEL. His name is evoked in conjuring spells for malcious deeds. Abaddon is the prince who rules the seventh heirarchy of DEMONS, the ERINYES, or FURIES, who governm powers of evil, discord, war, and devestation. Originally, Abaddon was a plae and not an angel or being. In rabbinic writings ...",
-        "image": "images/Abaddon.webp"
+        "image": "{require(./images/Abaddon.webp)}"
     },
     {
         "name": "Abezethibou",
         "description": "One-winged DEMON who lived in the Red Sea, plots against every wind under the heavens, and is the enemy of Moses. In the testament of Solomon, Abezethibou states that he onc sat in the first heaven, names Amelouth. He was present when Moses was taken before the pharoah of Egypt and was summoned to the aid of the Egyptian magicians  when they sought to discredit Moses...",
-        "image": "images/Abezethibou.webp"
+        "image": "./images/Abezethibou.webp"
     },
     {
         "name": "Abigor",
