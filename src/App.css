@@ -62,7 +62,7 @@ a {
 
 .demon-img {
     width: auto;
-    height: 150px;
+    height: 250px;
     background: rgb(102, 3, 3);
 }
 
@@ -72,7 +72,6 @@ a {
 }
 
 .individual-demon {
-    margin-top: 55px;
     width: 500px;
     background: rgb(34, 34, 34);
     padding: 10px 30px;
@@ -81,8 +80,20 @@ a {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    margin-bottom: 50px;
 }
 
 h2 {
     text-align: center;
+}
+
+.description {
+    padding: 0 55px;
+    font-size: 16px;
+}
+
+.description-ele {
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 2;
 }
