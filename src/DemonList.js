@@ -20,7 +20,8 @@ export default function DemonList() {
           <h3>
             <Link to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
           </h3>
-          <p>{demon.description.substr(0,300)}...<a href="google.com">more...</a></p>
+          <p>{demon.description.substr(0,300)}...<Link to={`/demon/${demons.indexOf(demon)}`}>More...</Link>
+</p>
             </div>
         </div>
         )}
