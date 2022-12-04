@@ -20,8 +20,9 @@ export default function DemonList() {
           <h3>
             <Link to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
           </h3>
-          <div dangerouslySetInnerHTML={{__html: demon.description.substr(0,300)}} />
-          <Link to={`/demon/${demons.indexOf(demon)}`}>More...</Link>
+          <div dangerouslySetInnerHTML={{__html: (demon.description.substr(0,300))+'...'}} />
+          <span></span>
+          <Link to={`/demon/${demons.indexOf(demon)}`}>More</Link>
 
             </div>
         </div>
