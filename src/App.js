@@ -4,6 +4,7 @@ import Demons from './demonlist.json'
 import { useState } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Demon from './Demon.js'
+import Test from './Test.js'
 
 function App() {
   const [demons, setDemons] = useState(Demons)
@@ -15,6 +16,9 @@ function App() {
       <Switch>
         <Route exact path="/">
           <DemonList />
+        </Route>
+        <Route path="/test">
+          <Test />
         </Route>
         <Route path="/demon/:id">
           <Demon />

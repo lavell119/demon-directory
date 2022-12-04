@@ -11,14 +11,16 @@ export default function Demon() {
   const [demons, setDemons] = useState(Demons)
   console.log(Demons)
   const { id  } = useParams()
-  console.log(Demons[id].image)
+  const selectedDemon = demons[id].description
   return (
       <>
       <h3> <Link to={'../'}>Home</Link></h3>
       <div className='individual-demon'>
         <h2>{demons[id].name}</h2>
         <img src={`/${demons[id].image}`} className="demon-img" alt="lo"/>
-        <p class="description"><div class="description-ele">Description:</div>{(demons[id].description)}</p>
+        <p class="description"><div class="description-ele">Description:</div>
+        <div dangerouslySetInnerHTML={{__html: selectedDemon}} />
+        </p>
       </div>
       </>
   )
