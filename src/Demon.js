@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import Demons from './finaldemonlist.json'
+import Demons from './finaldemonlist2.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 

@@ -1,4 +1,4 @@
-import Demons from './finaldemonlist.json'
+import Demons from './finaldemonlist2.json'
 import { useState } from 'react';
 import { Link } from 'react-router-dom'
 // import IMAGES from '../public/images/index.js'
