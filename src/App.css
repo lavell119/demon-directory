@@ -99,3 +99,17 @@ h2 {
     font-size: 19px;
     line-height: 2;
 }
+
+.indent {
+    padding: 0 40px 0 40px;
+}
+
+.triple-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 14px;
+}
+
+.triple-grid div {
+    padding-left: 11px;
+}
