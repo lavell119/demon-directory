@@ -56,7 +56,6 @@ img {
 
 a {
     color: rgb(116, 116, 230);
-    color: rgb(192, 192, 192);
     text-decoration: none;
 }
 
@@ -121,4 +120,8 @@ h2 {
 
 .left-indent {
     padding-left: 10px;
+}
+
+.full-width {
+    width: 100%;
 }
