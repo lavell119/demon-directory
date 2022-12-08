@@ -129,3 +129,12 @@ h2 {
 li {
     font-size: 14px;
 }
+
+.double-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 14px;
+}
+
+
+
