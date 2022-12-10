@@ -63,7 +63,9 @@ a {
 }
 
 .description-ele {
+    margin-top: 10px;
     height: 30px;
+    font-weight: bold;
 }
 
 .demon-img {
@@ -143,4 +145,6 @@ li {
 }
 
 
-
+.home-button {
+    font-size: 16px;
+}

@@ -22,7 +22,7 @@ export default function DemonList() {
           </h3>
           <p>{demon.snippet}</p>
           <span></span>
-          <Link to={`/demon/${demons.indexOf(demon)}`}>More</Link>
+          <Link class ="more-btn" to={`/demon/${demons.indexOf(demon)}`}>More &#x27A3;</Link>
 
             </div>
         </div>
