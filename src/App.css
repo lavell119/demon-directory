@@ -11,6 +11,8 @@ body {
     padding: 0 190px;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
+    font-family: 'georgia';
+
     line-height: 1.5;
     display: flex;
     align-items: flex-start;
@@ -33,10 +35,7 @@ body {
     justify-content: center;
 }
 
-h3 {
-    font-family: 'Times New Roman', Times, serif;
 
-}
 
 .snippet-right {
     padding-left: 20px;
@@ -56,10 +55,15 @@ img {
 
 a {
     color: rgb(116, 116, 230);
+    color: rgb(250, 113, 113);
     text-decoration: none;
 }
 
 .demon-description {
+}
+
+.description-ele {
+    height: 30px;
 }
 
 .demon-img {
@@ -87,6 +91,8 @@ a {
 
 h2 {
     text-align: center;
+    color: rgb(250, 113, 113);
+    font-family: Georgia;
 }
 
 .description {
