@@ -4,7 +4,8 @@ h1 {
 }
 
 h3 {
-font-family: 'Noticia Text', serif;
+    font-family: 'Noticia Text', serif;
+    color: white;
 }
 
 .demon-list {
@@ -30,6 +31,7 @@ body {
     margin: 20px;
     display: flex;
     background: rgb(34, 34, 34);
+
     width: 800px;
 }
 
@@ -61,6 +63,8 @@ img {
 a {
     color: rgb(116, 116, 230);
     color: rgb(250, 113, 113);
+    color: rgb(255, 255, 255);
+
     text-decoration: none;
 }
 
@@ -99,6 +103,7 @@ a {
 h2 {
     text-align: center;
     color: rgb(250, 113, 113);
+    color: white;
     font-family: 'Noticia Text', serif;
 }
 
@@ -152,4 +157,65 @@ li {
 
 .home-button {
     font-size: 16px;
+}
+
+.search-container div {
+    width: 500px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 19px;
+}
+
+
+
+.search-container {
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.search-container button {
+    background: rgb(102, 3, 3);
+    color: white;
+    border: 1px solid white;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    font-family: 'georgia';
+
+}
+
+.search-container div, input {
+    background: black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+}
+
+.search-container div, input:focus {
+    background: black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+
+.burgundy {
+    background: rgb(102, 3, 3);
+    width: 300px;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    border-radius: 10px;;
+    border: 1px solid white;
+    
 }

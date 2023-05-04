@@ -8,7 +8,17 @@ export default function DemonList() {
   return (
     
     <div className="demon-list">
-      <h1>Demon Directory</h1>
+      <div className="burgundy">
+        <h1>Demon Directory</h1>
+
+      </div>
+      <div className="search-container">Begin Typing to Search...
+      <div>
+        <input></input>
+        <button>SEARCH</button>
+      </div>
+      </div>
+      
       {demons.map(demon=>
         <div className="demon-snippet" key={demons.indexOf(demon)}>
             <div className="snippet-left">
