@@ -26,11 +26,13 @@ body {
 }
 
 .demon-snippet {
-    border: 2px solid rgb(102, 3, 3);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(77, 77, 77);
     padding: 20px;
     margin: 20px;
     display: flex;
-    background: rgb(34, 34, 34);
 
     width: 800px;
 }
@@ -58,6 +60,8 @@ img {
     height: 200px;
     width: auto;
     border: 2px solid rgb(102, 3, 3);
+    border: 1px solid rgb(82, 82, 82);
+
 }
 
 a {
@@ -91,6 +95,8 @@ a {
 .individual-demon {
     width: 500px;
     background: rgb(34, 34, 34);
+    background: black;
+
     padding: 10px 30px;
     border: 2px solid rgb(102, 3, 3);
     display: flex;
@@ -181,6 +187,7 @@ li {
 
 .search-container button {
     background: rgb(102, 3, 3);
+    background: black;
     color: white;
     border: 1px solid white;
     height: 30px;
@@ -198,16 +205,19 @@ li {
 
 }
 
-.search-container div, input:focus {
+.search-container div, input:focus{
     background: black;
     border-top: none;
     border-right: none;
     border-left: none;
+    outline-offset: 0px;
+    outline: 0px;
 }
 
 
+
 .burgundy {
-    background: rgb(102, 3, 3);
+    background: black;
     width: 300px;
     height: 70px;
     margin: auto;
@@ -216,6 +226,6 @@ li {
     justify-content: center;
     margin-top: 30px;
     border-radius: 10px;;
-    border: 1px solid white;
+    border: 1px solid rgb(61, 61, 61);
     
 }

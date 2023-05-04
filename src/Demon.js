@@ -14,7 +14,7 @@ export default function Demon() {
   const selectedDemon = demons[id].description
   return (
       <>
-      <h3 class="home-button"> <Link to={'../'}>Home</Link></h3>
+      <h3 class="home-button"> <Link to={'../'}>Back</Link></h3>
       <div className='individual-demon'>
         <h2>{demons[id].name}</h2>
         <img src={`/${demons[id].image}`} className="demon-img" alt="lo"/>
