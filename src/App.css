@@ -1,3 +1,4 @@
+
 h1 {
     text-align: center;
     font-family: 'Noticia Text', serif;
@@ -9,11 +10,12 @@ h3 {
 }
 
 .demon-list {
+
 }
 
 body {
     background: black;
-    color: white;
+    color: rgb(102, 3, 3);
     padding: 0 190px;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
@@ -33,7 +35,7 @@ body {
     padding: 20px;
     margin: 20px;
     display: flex;
-
+    color: rgb(102, 3, 3);
     width: 800px;
 }
 
@@ -60,7 +62,7 @@ img {
     height: 200px;
     width: auto;
     border: 2px solid rgb(102, 3, 3);
-    border: 1px solid rgb(82, 82, 82);
+    border: 1px solid rgb(77, 77, 77);
 
 }
 
@@ -202,7 +204,7 @@ li {
     border-top: none;
     border-right: none;
     border-left: none;
-
+    color: rgb(77, 77, 77);
 }
 
 .search-container div, input:focus{
@@ -225,7 +227,15 @@ li {
     align-items: center;
     justify-content: center;
     margin-top: 30px;
-    border-radius: 10px;;
     border: 1px solid rgb(61, 61, 61);
     
+}
+
+.dark-red {
+    color: rgb(102, 3, 3);
+
+}
+
+.snippet-body {
+    font-size: 12px;
 }

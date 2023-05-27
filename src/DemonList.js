@@ -12,7 +12,7 @@ export default function DemonList() {
         <h1>Demon Directory</h1>
 
       </div>
-      <div className="search-container">Begin Typing to Search...
+      <div className="search-container"><i>Begin Typing to Search...</i>
       <div>
         <input></input>
         <button>SEARCH</button>
@@ -28,9 +28,9 @@ export default function DemonList() {
             </div>
             <div className="snippet-right">
           <h3>
-            <Link to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
+            <Link className="dark-red" to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
           </h3>
-          <p>{demon.snippet}</p>
+          <p className="snippet-body">{demon.snippet}</p>
           <span></span>
           <Link class ="more-btn" to={`/demon/${demons.indexOf(demon)}`}>More &#x27A3;</Link>
 
