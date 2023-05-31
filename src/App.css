@@ -238,4 +238,9 @@ li {
 
 .snippet-body {
     font-size: 12px;
+    color: white;
+}
+
+.white {
+    color: white;
 }

@@ -28,7 +28,7 @@ export default function DemonList() {
             </div>
             <div className="snippet-right">
           <h3>
-            <Link className="dark-red" to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
+            <Link className="white" to={`/demon/${demons.indexOf(demon)}`}>{demon.name}</Link>
           </h3>
           <p className="snippet-body">{demon.snippet}</p>
           <span></span>
