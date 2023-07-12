@@ -8,7 +8,7 @@ export default function DemonList() {
   return (
     
     <div className="demon-list">
-      <div className="burgundy">
+      <div className="white">
         <h1>Demon Directory</h1>
 
       </div>
